@@ -71,6 +71,8 @@
   </tbody>
 </table>
 
+# Project Report Collaboration Insights
+
 # Tabla de Contenido
 
 [Registro de Versiones](#registro-de-versiones)
