@@ -192,11 +192,11 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 #### Misión
 
-La misión de SecureWave es proporcionar protección y tranquilidad a las familias peruanas, asegurando la seguridad en sus hogares mediante soluciones tecnológicas de vigilancia avanzadas.
+La misión de SafeTech Solutionses proporcionar protección y tranquilidad a las familias peruanas, asegurando la seguridad en sus hogares mediante soluciones tecnológicas de vigilancia avanzadas.
 
 #### Visión
 
-La visión de SecureWave es convertirse en un referente latinoamericano en soluciones de vigilancia, contribuyendo a mejorar la calidad de vida de las personas. Anhelamos un futuro donde cada familia pueda sentirse segura dentro de su hogar.
+La visión de SafeTech Solutionses convertirse en un referente latinoamericano en soluciones de vigilancia, contribuyendo a mejorar la calidad de vida de las personas. Anhelamos un futuro donde cada familia pueda sentirse segura dentro de su hogar.
 
 #### Valores
 
@@ -208,7 +208,7 @@ La visión de SecureWave es convertirse en un referente latinoamericano en soluc
 
 ## 1.2. Solution Profile
 
-Nuestra propuesta se centra en **CamGuard**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de CamGuard. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
+Nuestra propuesta se centra en **Protectify**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de Protectify. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -220,13 +220,13 @@ Para analizar esta problemática de manera detallada, utilizamos la metodología
 
 #### What (¿Qué?)
 - **Problema:** El incremento de robos en viviendas representa una de las mayores preocupaciones en el país.
-- **Relación con la solución:** CamGuard permite monitorear el hogar a distancia y reaccionar ante la presencia de intrusos no identificados.
+- **Relación con la solución:** Protectify permite monitorear el hogar a distancia y reaccionar ante la presencia de intrusos no identificados.
 
 #### When (¿Cuándo?)
 - El problema ocurre cuando las viviendas no cuentan con sistemas de seguridad, quedando vulnerables durante la ausencia de sus dueños.
 
 #### Where (¿Dónde?)
-- **Uso del producto:** Desde cualquier ubicación, mediante la app CamGuard.
+- **Uso del producto:** Desde cualquier ubicación, mediante la app Protectify.
 - **Público objetivo:** Personas en zonas urbanas de Lima sin sistemas de seguridad instalados.
 - **Ubicación del problema:** Principalmente en zonas con alto índice de delincuencia en Lima.
 
@@ -236,12 +236,12 @@ Para analizar esta problemática de manera detallada, utilizamos la metodología
 - **Usuarios potenciales:** Personas que ya fueron víctimas, están fuera por viajes, o buscan proteger su hogar.
 
 #### Why (¿Por qué?)
-- La inseguridad y la alta tasa de robos motivan la creación de CamGuard, con el objetivo de reducir incidentes y ayudar a capturar delincuentes.
+- La inseguridad y la alta tasa de robos motivan la creación de Protectify, con el objetivo de reducir incidentes y ayudar a capturar delincuentes.
 
 #### How (¿Cómo?)
 - **Condiciones de uso:** Usuarios que suelen dejar su vivienda desatendida.
 - **Medios de difusión:** Publicidad en TikTok, Instagram y Facebook.
-- **Acceso al contenido:** A través de la aplicación CamGuard, donde se puede revisar cámaras, recibir alertas y activar el mecanismo de defensa.
+- **Acceso al contenido:** A través de la aplicación Protectify, donde se puede revisar cámaras, recibir alertas y activar el mecanismo de defensa.
 - **Motivación para la compra:** El crecimiento continuo de la criminalidad en Lima.
 
 #### How much (¿Cuánto?)
