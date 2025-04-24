@@ -205,6 +205,17 @@ La visión de SafeTech Solutionses convertirse en un referente latinoamericano e
 - **Compromiso con el usuario:** Colocamos al usuario en el centro de nuestras decisiones, trabajando para superar sus expectativas y mejorar su experiencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+| Integrante            | Foto                |
+|-----------------|-----------------|
+|  **Frida Sofia Dam Rubianes (u202218352)**   
+Soy Frida Dam estoy en el 7mo ciclo de la carrera de ingeniería de software. Me apasiona el trabajo en equipo y encontrar soluciones mediante la tecnologia. Me apasiona el trabajo en equipo y encontrar soluciones mediante la tecnologia. Aportaré en el trabajo con mis conocimientos adquiridos en cursos previos sobre IoT.        |    ![image](https://github.com/user-attachments/assets/75e31180-9705-45e0-b3d0-35ec1f1bc135)
+       |
+|       |                 |
+|       |                 |
+|       |                 |
+
+
+
 
 ## 1.2. Solution Profile
 
