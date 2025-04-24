@@ -206,7 +206,46 @@ La visión de SecureWave es convertirse en un referente latinoamericano en soluc
 
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.2. Solution Profile
+
+Nuestra propuesta se centra en **CamGuard**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de CamGuard. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
+
 ### 1.2.1. Antecedentes y problemática
+
+En el contexto actual de creciente urbanización y digitalización, la vigilancia se ha vuelto esencial para garantizar la seguridad ciudadana. Las cámaras de seguridad han evolucionado notablemente, pasando de simples grabaciones a sistemas inteligentes capaces de actuar en tiempo real. Este desarrollo representa una oportunidad importante para incrementar la seguridad en ciudades como Lima, la capital peruana.
+
+Lima enfrenta serios desafíos en materia de seguridad. Aunque se han adoptado estrategias convencionales como el patrullaje policial, persisten deficiencias en la prevención y respuesta efectiva frente a delitos. Según el INEI, en 2020 se registraron 189,656 denuncias por delitos contra el patrimonio. Aunque estas cifras bajaron a 50,776 en el primer semestre de 2021, los robos en viviendas siguen siendo comunes. Datos de Verisure revelan un incremento del 82% en robos a hogares y negocios en 2022 en ciudades como Lima, Callao, Trujillo, Chiclayo, Piura, Cusco, Ica y Arequipa.
+
+Para analizar esta problemática de manera detallada, utilizamos la metodología **5Ws & 2Hs**:
+
+#### What (¿Qué?)
+- **Problema:** El incremento de robos en viviendas representa una de las mayores preocupaciones en el país.
+- **Relación con la solución:** CamGuard permite monitorear el hogar a distancia y reaccionar ante la presencia de intrusos no identificados.
+
+#### When (¿Cuándo?)
+- El problema ocurre cuando las viviendas no cuentan con sistemas de seguridad, quedando vulnerables durante la ausencia de sus dueños.
+
+#### Where (¿Dónde?)
+- **Uso del producto:** Desde cualquier ubicación, mediante la app CamGuard.
+- **Público objetivo:** Personas en zonas urbanas de Lima sin sistemas de seguridad instalados.
+- **Ubicación del problema:** Principalmente en zonas con alto índice de delincuencia en Lima.
+
+#### Who (¿Quiénes?)
+- **Involucrados:** Ladrones, víctimas (dueños y habitantes de las casas), autoridades y vecinos.
+- **Afectados:** Personas que pasan muchas horas fuera de casa y no cuentan con vigilancia.
+- **Usuarios potenciales:** Personas que ya fueron víctimas, están fuera por viajes, o buscan proteger su hogar.
+
+#### Why (¿Por qué?)
+- La inseguridad y la alta tasa de robos motivan la creación de CamGuard, con el objetivo de reducir incidentes y ayudar a capturar delincuentes.
+
+#### How (¿Cómo?)
+- **Condiciones de uso:** Usuarios que suelen dejar su vivienda desatendida.
+- **Medios de difusión:** Publicidad en TikTok, Instagram y Facebook.
+- **Acceso al contenido:** A través de la aplicación CamGuard, donde se puede revisar cámaras, recibir alertas y activar el mecanismo de defensa.
+- **Motivación para la compra:** El crecimiento continuo de la criminalidad en Lima.
+
+#### How much (¿Cuánto?)
+- **Presupuesto estimado:** S/. 1000 para el desarrollo e implementación del sistema.
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
