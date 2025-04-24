@@ -188,7 +188,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
-**SecureWave** es una empresa emergente que busca enfrentar los desafíos sociales relacionados con la inseguridad, mediante el uso de tecnologías innovadoras adaptadas al mercado peruano. La startup está conformada por estudiantes de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC). Su enfoque principal es el desarrollo de sistemas de vigilancia inteligentes para hogares, ofreciendo una experiencia de seguridad integral y tranquilidad a sus usuarios.
+**Protectify** es una empresa emergente que busca enfrentar los desafíos sociales relacionados con la inseguridad, mediante el uso de tecnologías innovadoras adaptadas al mercado peruano. La startup está conformada por estudiantes de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC). Su enfoque principal es el desarrollo de sistemas de vigilancia inteligentes para hogares, ofreciendo una experiencia de seguridad integral y tranquilidad a sus usuarios.
 
 #### Misión
 
