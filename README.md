@@ -214,7 +214,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
-# Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
 
 **Segmento #1**: Personas que residan en zonas urbanas dentro del distrito de Lima.
