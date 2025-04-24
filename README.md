@@ -187,6 +187,23 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+**SecureWave** es una empresa emergente que busca enfrentar los desafíos sociales relacionados con la inseguridad, mediante el uso de tecnologías innovadoras adaptadas al mercado peruano. La startup está conformada por estudiantes de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC). Su enfoque principal es el desarrollo de sistemas de vigilancia inteligentes para hogares, ofreciendo una experiencia de seguridad integral y tranquilidad a sus usuarios.
+
+#### Misión
+
+La misión de SecureWave es proporcionar protección y tranquilidad a las familias peruanas, asegurando la seguridad en sus hogares mediante soluciones tecnológicas de vigilancia avanzadas.
+
+#### Visión
+
+La visión de SecureWave es convertirse en un referente latinoamericano en soluciones de vigilancia, contribuyendo a mejorar la calidad de vida de las personas. Anhelamos un futuro donde cada familia pueda sentirse segura dentro de su hogar.
+
+#### Valores
+
+- **Seguridad:** Representa el eje central de nuestra labor. Nos dedicamos a ofrecer herramientas eficaces para el bienestar cotidiano de nuestros clientes.
+- **Innovación:** Estamos en constante evolución tecnológica para ofrecer soluciones que respondan cada vez mejor a las necesidades del usuario.
+- **Compromiso con el usuario:** Colocamos al usuario en el centro de nuestras decisiones, trabajando para superar sus expectativas y mejorar su experiencia.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
