@@ -312,6 +312,8 @@ Sabremos que esto es cierto cuando al menos el 50% de los usuarios que utilizan 
 Sabemos que esto es cierto cuando el 60% de los usuarios utilizan las funciones de personalización de nuestro sistema para adaptarlo a sus necesidades específicas.
 
 #### 1.2.2.4. Lean UX Canvas
+![image](https://github.com/user-attachments/assets/f5e27911-b081-4dc5-b6fa-03628aa33355)
+
 ## 1.3. Segmentos objetivo
 
 # Capítulo II: Requirements Elicitation & Analysis
