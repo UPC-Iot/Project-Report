@@ -316,6 +316,31 @@ Sabemos que esto es cierto cuando el 60% de los usuarios utilizan las funciones 
 
 ## 1.3. Segmentos objetivo
 
+Dado que ofrecemos cámaras de seguridad con tecnología avanzada, es fundamental definir cuidadosamente a quién nos dirigimos para maximizar la eficacia de nuestra estrategia comercial. Por ello, hemos identificado un grupo específico con alto potencial de adopción de nuestra solución.
+
+### Aspectos Demográficos
+
+- **Sexo:** Hombres y mujeres.
+- **Edad:** Entre 20 y 60 años.
+- **Nivel socioeconómico:** A, B y C (alta, media-alta y media).  
+  Nos enfocamos en personas con la capacidad económica para invertir en tecnología de seguridad avanzada, lo cual incrementa las probabilidades de adopción y fidelización de nuestros clientes.
+- **Propiedad de vivienda:** Propietarios de casas o departamentos.  
+  Al contar con una inversión significativa en bienes inmuebles, este grupo muestra un mayor interés en proteger su patrimonio, convirtiéndose en potenciales usuarios interesados en soluciones efectivas de seguridad.
+
+### Aspectos Geográficos
+
+- **Ubicación:** Lima Metropolitana, Perú.  
+  Esta zona, con alta densidad poblacional y preocupaciones constantes por la seguridad, representa un mercado ideal para nuestros servicios, además de permitirnos brindar soporte técnico de forma más eficiente.
+- **Zona de residencia:** Urbana.  
+  En zonas urbanas, la concentración de viviendas en espacios reducidos incrementa la necesidad de herramientas que garanticen la seguridad del hogar.
+
+### Aspectos Psicográficos
+
+- Personas preocupadas por la protección de su hogar y el bienestar de sus familias.  
+  Nuestro producto ofrece una solución proactiva al enviar alertas en tiempo real ante cualquier intrusión, brindando mayor tranquilidad a los usuarios.
+- Usuarios con afinidad por la tecnología que buscan mejorar su estilo de vida.  
+  Las cámaras inteligentes encajan perfectamente con quienes valoran el control, la comodidad y la innovación en la gestión de la seguridad personal.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
