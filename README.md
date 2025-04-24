@@ -205,6 +205,7 @@ La visión de SecureWave es convertirse en un referente latinoamericano en soluc
 - **Compromiso con el usuario:** Colocamos al usuario en el centro de nuestras decisiones, trabajando para superar sus expectativas y mejorar su experiencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
 ## 1.2. Solution Profile
 
 Nuestra propuesta se centra en **CamGuard**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de CamGuard. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
@@ -248,8 +249,68 @@ Para analizar esta problemática de manera detallada, utilizamos la metodología
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Problem Statement 1:** 
+Actualmente, hemos notado que la tasa de criminalidad en el Perú es elevada, por lo tanto nuestra solución desea mejorar la tranquilidad y seguridad ciudadana.
+Hemos podido identificar que un factor determinante que pone en riesgo la seguridad y economía de los ciudadanos, son los delitos que ocurren en nuestro país, tales como los robos a domicilios, que cuando se producen, los ladrones se llevan dinero u objetos de valor que luego las personas tienen que volver a adquirir.
+¿Cómo facilitar nuevas herramientas para luchar contra la delincuencia?
+
+**Problem Statement 2:**
+Nuestro entorno demanda información importante para reducir la cantidad de robos a domicilios en Lima. Por medio de esta información, nuestros clientes podrán tener una mayor seguridad y protección dentro de sus domicilios.
+Hemos identificado un factor crítico que afecta a la integridad física y mental de la población, el cual se manifiesta en la inseguridad al momento en el que las personas salen de sus viviendas, debido a que al no saber si su domicilio estará lo suficientemente protegida para evitar un robo, les afecta mental y emocionalmente.
+¿Cómo podemos mejorar la seguridad de las viviendas de los ciudadanos que residen en Lima?
+
+**Problem Statement 3:**
+En la actualidad, podemos ver que cuando un ladrón ingresa a una vivienda en la que no están los dueños, y esta no cuenta con alguna seguridad, los propietarios no pueden hacer nada para evitar el robo, por lo que nuestro producto quiere ofrecer una medida de defensa para frustrar estos intentos de robo.
+Logramos identificar que un factor crítico que pone en riesgo la seguridad de los domicilios, es la falta de una acción defensiva en caso un ladrón logre ingresar.
+¿Cómo implementar una herramienta en la que se pueda frustrar el robo sin que algún propietario se encuentre presente?
+
+---
 #### 1.2.2.2. Lean UX Assumptions
+
+#### Business Outcomes
+
+- Nuestros usuarios necesitan sentirse seguros cuando no están en sus casas.
+- Estas necesidades se pueden resolver con un sistema de videovigilancia con IA que alerte al dueño si alguien entra al domicilio.
+- Nuestros clientes iniciales son personas entre 20 y 60 años que viven en zonas urbanas de Lima.
+- El valor #1 que un cliente quiere de nuestro servicio es poder usar el sistema en todo momento y contar con medidas de autodefensa efectivas.
+- El cliente también puede obtener beneficios como el historial de personas que ingresaron, su tiempo dentro y grabaciones en alta definición.
+- Vamos a adquirir la mayoría de nuestros clientes a través de campañas en redes sociales y recomendaciones.
+- Haremos dinero a través de la venta del producto y el alquiler de servicios.
+- Nuestras competencias principales en el mercado son Verisure y Prosegur.
+- Los venceremos debido a ventajas como cámaras de alta resolución, mecanismos de autodefensa y registros detallados de ingreso.
+- El mayor riesgo que puede enfrentar nuestro producto es que el sistema no detecte ingresos no autorizados o no active las defensas.
+- Resolveremos esto a través del mantenimiento regular y simulacros de robo.
+
+#### User Outcomes
+
+- **¿Quién es el usuario?**  
+  Personas con viviendas en Lima.
+
+- **¿Dónde encaja nuestro servicio? ¿En su trabajo o vida?**  
+  En su vida diaria, protegiendo su hogar cuando no están presentes.
+
+- **¿Cómo y cuándo es usado nuestro producto?**  
+  Cada vez que el usuario se ausenta de casa. La app le informa de cualquier ingreso y le permite activar defensas.
+
+- **¿Qué problemas tiene nuestro servicio?**  
+  El reto principal es identificar correctamente a quien ingresa a la casa.
+
+- **¿Qué características son importantes?**  
+  Identificación precisa, alta resolución de video, y ejecución efectiva de medidas defensivas.
+
+- **¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
+  Debe operar 24/7 y notificar de inmediato cualquier actividad sospechosa dentro del hogar.
+
+---
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que proporcionar a los usuarios un sistema de seguridad personal inteligente y adaptable mejorará su sensación diaria de seguridad y bienestar.
+Sabremos que esto es cierto cuando al menos el 50% de los usuarios que utilizan nuestros sistemas digan que se sienten más seguros y han reducido sus niveles de estrés en situaciones de seguridad.
+
+- Creemos que la  personalización de nuestro sistema permitirá a los usuarios adaptar las medidas de seguridad a sus necesidades individuales, aumentando así su confianza en la eficacia del sistema.
+Sabemos que esto es cierto cuando el 60% de los usuarios utilizan las funciones de personalización de nuestro sistema para adaptarlo a sus necesidades específicas.
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 
