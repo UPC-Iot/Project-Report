@@ -103,7 +103,7 @@
         </ul>
       </td>
       <td>
-        Creación del repositorio
+        Capítulo IV: Solution Software Design
       </td>
     </tr>
   </tbody>
