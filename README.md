@@ -223,6 +223,10 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
+   EventStorming es una técnica colaborativa y visual de modelado que permite descubrir, entender y mapear procesos complejos dentro de un dominio, ayudando a identificar eventos clave, actores involucrados y áreas de mejora en un sistema. Esta ocasión se mostrará el EventStorming realizado para Protectify.
+
+   <img src="img/eventstorming-intro.png">
+
 #### 4.1.1.1. Candidate Context Discovery
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
