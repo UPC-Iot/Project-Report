@@ -200,6 +200,23 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+#### Competitive Analysis Landscape
+
+**¿Por qué llevar a cabo este análisis?**  
+El objetivo de este análisis es conocer mejor a los competidores y contrastar nuestra idea inicial con su verdadera propuesta de valor, identificando puntos de diferenciación que permitan a CamGuard destacar en el mercado de seguridad para hogares y pequeños negocios.
+
+| **Aspecto** | ![CamGuard Logo](URL) **CamGuard** | ![Verisure Logo](URL) **Verisure** | ![Prosegur Logo](URL) **Prosegur** | ![Grupo Navarro Logo](URL) **Grupo Navarro** |
+|---|---|---|---|---|
+| **Overview**<br>Perfil | Startup peruana de seguridad inteligente que protege hogares mediante sistemas de vigilancia con IA, cámaras inteligentes y conexión remota. | Multinacional especializada en seguridad electrónica para hogares y negocios con presencia en más de 15 países. | Empresa global con servicios integrales de seguridad física, electrónica y ciberseguridad. | Empresa nacional que vende, instala y mantiene sistemas de seguridad accesibles a nivel nacional. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece al cliente? | Monitoreo 24/7 con inteligencia artificial, cámaras con activación automática, respuesta inmediata, conexión global y enfoque en hogares. | Tecnología de última generación, fuerte presencia de marca, monitoreo profesional. | Diversificación, experiencia global, enfoque integral en seguridad física y digital. | Variedad de productos a precios accesibles, cobertura nacional, atención personalizada. |
+| **Mercado objetivo** | Familias y pequeños negocios en Lima Metropolitana interesados en seguridad avanzada. | Propietarios de viviendas y pymes preocupados por la seguridad. | Grandes empresas, gobiernos y entidades financieras. | Hogares e instituciones medianas que buscan soluciones económicas. |
+| **Estrategias de marketing** | Presencia en redes sociales, landing page, colaboraciones con influencers en tecnología y seguridad, alianzas estratégicas. | Campañas televisivas, redes sociales, marketing boca a boca, referidos. | Participación en ferias, marketing institucional, estrategia B2B. | Publicidad local, ventas directas, redes sociales, eventos feriales. |
+| **Productos y Servicios** | Cámaras con IA, app de control remoto, sistema de alertas automatizadas, emisión de humo disuasorio, conexión directa con seguridad. | Alarmas inteligentes, sensores de movimiento, cámaras, panel de control, control desde app. | Vigilancia física, monitoreo electrónico, transporte de valores, ciberseguridad. | Cámaras IP, cercos eléctricos, alarmas, intercomunicadores y videoporteros. |
+| **Precios & Costos** | Equipos: S/800–1200<br>Mensual: S/100–150 | Equipos: S/1600–2000<br>Mensual: S/170–220 | Equipos: S/1000–1800<br>Mensual: S/120–180 | Equipos: S/1000–1600<br>Mensual: S/100–150 |
+| **Canales de distribución**<br>(Web y/o Móvil) | Página web, aplicación móvil, contacto directo por WhatsApp. | Página web, app móvil, call center. | Web corporativa, canales empresariales. | Página web, contacto por WhatsApp, ventas telefónicas. |
+| **Fortalezas** | Tecnología con IA, enfoque especializado, experiencia digital, sistema de respuesta automática. | Marca reconocida, amplia cobertura, sistema probado. | Servicios variados, experiencia global, reputación consolidada. | Precios bajos, atención local, instalación rápida. |
+| **Debilidades** | Falta de posicionamiento, startup nueva, dependencia tecnológica. | Alto costo, menor personalización. | Costos elevados, falta de enfoque en hogares. | Bajo reconocimiento de marca, limitada innovación tecnológica. |
+| **Oportunidades** | Expansión en Lima, alianzas locales, hogares más digitalizados, hogares con mayor percepción de inseguridad. | Crecimiento del mercado latinoamericano, nuevos productos inteligentes. | Demanda creciente de ciberseguridad, nuevas tecnologías aplicadas a vigilancia. | Crecimiento de clases medias, interés en protección de hogares. |
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
