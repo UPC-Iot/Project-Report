@@ -217,6 +217,8 @@ El objetivo de este análisis es conocer mejor a los competidores y contrastar n
 | **Fortalezas** | Tecnología con IA, enfoque especializado, experiencia digital, sistema de respuesta automática. | Marca reconocida, amplia cobertura, sistema probado. | Servicios variados, experiencia global, reputación consolidada. | Precios bajos, atención local, instalación rápida. |
 | **Debilidades** | Falta de posicionamiento, startup nueva, dependencia tecnológica. | Alto costo, menor personalización. | Costos elevados, falta de enfoque en hogares. | Bajo reconocimiento de marca, limitada innovación tecnológica. |
 | **Oportunidades** | Expansión en Lima, alianzas locales, hogares más digitalizados, hogares con mayor percepción de inseguridad. | Crecimiento del mercado latinoamericano, nuevos productos inteligentes. | Demanda creciente de ciberseguridad, nuevas tecnologías aplicadas a vigilancia. | Crecimiento de clases medias, interés en protección de hogares. |
+| **Amenazas** | Crisis económica, cambios regulatorios, fuerte competencia consolidada. | Nuevas startups más accesibles, cambios en regulación de datos. | Ataques informáticos, nuevas empresas con tecnología avanzada. | Competencia extranjera, cambios rápidos en tendencias tecnológicas. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
