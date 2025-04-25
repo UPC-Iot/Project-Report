@@ -207,6 +207,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
 <img src="img/User Persona.png" alt="User Persona" >
 ### 2.3.2. User Task Matrix
 
@@ -220,8 +221,10 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 | Leer experiencias de otros usuarios sobre dispositivos de seguridad.     | Casi Siempre   | Alta        |
 | Evaluar el costo-beneficio de sistemas de vigilancia antes de comprarlos.| Siempre        | Alta        |
 ### 2.3.3. User Journey Mapping
+
 <img src="img/User Journey Mapping.jpeg" alt="User Journey Mapping" >
 ### 2.3.4. Empathy Mapping
+
 <img src="img/Empathy Mapping.png" alt="Empathy Mapping" >
 ### 2.3.5. As-is Scenario Mapping
 
