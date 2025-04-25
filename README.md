@@ -199,6 +199,12 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+CamGuard compite con empresas que brindan soluciones de seguridad para hogares y negocios. A continuación se presentan tres competidores directos del mercado:
+
+- **Verisure**: Empresa internacional que ofrece soluciones de seguridad electrónica con monitoreo las 24 horas.
+- **Prosegur**: Empresa global de seguridad con un portafolio que incluye transporte de valores, vigilancia y servicios de ciberseguridad.
+- **Grupo Navarro**: Empresa peruana que comercializa e instala sistemas de seguridad, destacando por sus precios accesibles y cobertura nacional.
+- 
 ### 2.1.1. Análisis competitivo
 #### Competitive Analysis Landscape
 
