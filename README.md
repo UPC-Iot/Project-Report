@@ -228,9 +228,56 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
    <img src="img/eventstorming-intro.png">
 
 #### 4.1.1.1. Candidate Context Discovery
+
+  - **Reconocimiento Facial Context**
+
+  <img src="img/Bounded-context-2.png">
+
+  <br/>
+
+  - **Gestión de Perfiles Context**
+
+  <img src="img/Bounded-context-1.png">
+
 #### 4.1.1.2. Domain Message Flows Modeling
+
+  Durante este proceso, se identificaron los participantes y los mensajes intercambiados, además de modelar los flujos de información que los conectan.
+
+  <img src="img/message-flow-1.png">
+
+  <br/>
+
+  <img src="img/message-flow-2.png">
+
+  <br/>
+
+  <img src="img/message-flow-3.png">
+
+  <br/>
+
 #### 4.1.1.3. Bounded Context Canvases
+
+  Con el objetivo de documentar el funcionamiento de los bounded context de nuestra solución, se desarrollaron dos modelos, uno para cada bounded context. Estos describen los mensajes que intercambian, el tipo de mensaje y el mensaje ubicuo que emplean.
+
+  - **Reconocimiento Facial Context**
+
+  <img src="img/facial-canvas.png">
+
+  <br/>
+
+  - **Gestión de Perfiles Context**
+
+  <img src="img/perfil-canvas.png">
+
+  <br/>
+
 ### 4.1.2. Context Mapping
+
+  Para cumplir con los objetivos planteados de nuestro sistema, la Gestión de perfiles solicita información al Reconocimiento Facial para poder administrar la cara del usuario registrado, permitiendo una colaboración efectiva entre estos dos bounded context.
+
+  <img src="img/context-mapping.png">
+
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. System Landscape Diagram
 #### 4.1.3.2. Context Level Diagrams
