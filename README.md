@@ -58,10 +58,48 @@
   <tbody>
     <tr>
       <td><strong>1.0</strong></td>
-      <td>23 de abril de 2025</td>
+      <td>18 de abril de 2025</td>
       <td>
         <ul>
-          <li></li>
+          <li>Dam Rubianes, Frida Sofia</li>
+        </ul>
+      </td>
+      <td>
+        Capítulo I: Introducción
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2.0</strong></td>
+      <td>19 de abril de 2025</td>
+      <td>
+        <ul>
+          <li>Adrianzen Flores, Carlos Arturo</li>
+          <li>Ortiz Fajardo, Tomás</li>
+        </ul>
+      </td>
+      <td>
+        Capítulo II: Requirements Elicitation & Analysis
+      </td>
+    </tr>
+    <tr>
+      <td><strong>3.0</strong></td>
+      <td>20 de abril de 2025</td>
+      <td>
+        <ul>
+          <li>Matos Fernandez, Christian Andre</li>
+        </ul>
+      </td>
+      <td>
+        Capítulo III: Requirements Specification
+      </td>
+    </tr>
+    <tr>
+      <td><strong>4.0</strong></td>
+      <td>24 de abril de 2025</td>
+      <td>
+        <ul>
+          <li>Ramos Ramirez, Renzo Manuel</li>
+          <li>Matos Fernandez, Christian Andre</li>
         </ul>
       </td>
       <td>
@@ -160,24 +198,24 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
     <tr>
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td>
-        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1</strong><br><br>
-        <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1</strong><br><br>
-        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1</strong><br><br>
-        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1</strong><br><br>
-        <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1</strong><br>
+        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong><br><br>
+        <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1:</strong>Durante el desarrollo del proyecto, contribuí activamente al trabajo en equipo brindando liderazgo conjunto. Asumí la responsabilidad de tareas clave como el To-be Scenario Mapping, User Stories, Impact Mapping y la elaboración del Product Backlog, promoviendo una visión compartida del producto. Además, lideré la definición del diseño a nivel táctico mediante el Tactical-Level Domain-Driven Design, estructurando los Bounded Contexts y desarrollando diagramas a nivel de componentes, clases y base de datos, fomentando así una colaboración técnica efectiva entre los integrantes.<br><br>
+        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
+        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1:</strong><br><br>
+        <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong><br>
       </td>
-      <td>…</td>
+      <td>TB1: A lo largo del proyecto, el equipo ejerció un liderazgo compartido, donde cada integrante asumió responsabilidades clave y contribuyó activamente a la toma de decisiones. El trabajo en equipo fue constante, basado en la confianza y el respeto mutuo, lo que permitió coordinar esfuerzos de manera equilibrada y mantener el rumbo del proyecto con una visión común.</td>
     </tr>
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
       <td>
-        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1</strong><br><br>
-        <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1</strong><br><br>
-        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1</strong><br><br>
-        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1</strong><br><br>
-        <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1</strong><br>
+        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong><br><br>
+        <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1: </strong>Durante el proyecto, fomenté un entorno colaborativo e inclusivo al promover una comunicación constante entre los miembros del equipo. Me enfoqué en establecer metas claras y compartidas, y planifiqué las tareas de forma estructurada mediante herramientas como el Product Backlog e Impact Mapping. Esto permitió organizar el trabajo de forma efectiva, facilitando el cumplimiento de objetivos dentro de los plazos establecidos, y asegurando que cada integrante tuviera claridad sobre su rol y responsabilidades.<br><br>
+        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
+        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1:</strong><br><br>
+        <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong><br>
       </td>
-      <td>…</td>
+      <td>TB1: El equipo fomentó un entorno colaborativo e inclusivo, donde todas las ideas fueron valoradas y consideradas en el desarrollo del proyecto. Se establecieron metas claras desde el inicio, se organizaron tareas de forma estructurada y se trabajó con disciplina para cumplir los objetivos planteados. Esta organización y compromiso grupal permitió avanzar de forma eficiente y cohesionada.</td>
     </tr>
   </tbody>
 </table>
@@ -205,14 +243,12 @@ La visión de SafeTech Solutionses convertirse en un referente latinoamericano e
 - **Compromiso con el usuario:** Colocamos al usuario en el centro de nuestras decisiones, trabajando para superar sus expectativas y mejorar su experiencia.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante            | Foto                |
-|-----------------|-----------------|
-|  **Frida Sofia Dam Rubianes (u202218352)**   
-Soy Frida Dam estoy en el 7mo ciclo de la carrera de ingeniería de software. Me apasiona el trabajo en equipo y encontrar soluciones mediante la tecnologia. Me apasiona el trabajo en equipo y encontrar soluciones mediante la tecnologia. Aportaré en el trabajo con mis conocimientos adquiridos en cursos previos sobre IoT.        |    ![image](https://github.com/user-attachments/assets/75e31180-9705-45e0-b3d0-35ec1f1bc135)
-       |
-|       |                 |
-|       |                 |
-|       |                 |
+
+| Integrante | Foto |
+|------------|------|
+| **Frida Sofia Dam Rubianes (U202218352)**<br>Soy Frida Dam, estoy en el 7mo ciclo de la carrera de Ingeniería de Software. Me apasiona el trabajo en equipo y encontrar soluciones mediante la tecnología. Aportaré en el trabajo con mis conocimientos adquiridos en cursos previos sobre IoT. | ![image](https://github.com/user-attachments/assets/75e31180-9705-45e0-b3d0-35ec1f1bc135) |
+| **Christian Andre Matos Fernandez (U202214162)**<br>Mi nombre es Christian Maots y actualmente curso el séptimo ciclo de la carrera de Ingeniería de Software. Tengo experiencia en desarrollo web y móvil, y a lo largo de mi formación he trabajado con una variedad de lenguajes y tecnologías que me han permitido adaptarme a diferentes tipos de proyectos. Utilizo Python y C++ para resolver problemas algorítmicos y de lógica, Java para aplicaciones estructuradas, JavaScript y TypeScript junto con Vue para el desarrollo frontend dinámico, .NET para servicios backend, y Kotlin para aplicaciones móviles. | ![image](img/perfil_matos.png) |
+
 
 
 
