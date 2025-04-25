@@ -209,6 +209,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ### 2.3.1. User Personas
 <img src="img/User Persona.png" alt="User Persona" >
 ### 2.3.2. User Task Matrix
+
 | User Task                                                                 | Frecuencia     | Importancia |
 |---------------------------------------------------------------------------|----------------|-------------|
 | Revisar regularmente si el sistema de seguridad cubre las necesidades actuales del hogar. | Siempre        | Alta        |
@@ -223,7 +224,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ### 2.3.4. Empathy Mapping
 <img src="img/Empathy Mapping.png" alt="Empathy Mapping" >
 ### 2.3.5. As-is Scenario Mapping
-| Phases                     | Preparación para salir de la casa                                                                 | Salir de casa                                                                                          | Volver a casa                                                                                           |
+
+| Phases| Preparación para salir de la casa                                                                 | Salir de casa                                                                                          | Volver a casa                                                                                           |
 |---------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | **Doing**                 | - Revisar que las ventanas estén bien cerradas y sin daños.                                       | - Asegurarme de cerrar con llave todas las entradas.                                                   | - Observar si hay algo fuera de lo habitual al entrar.                                                  |
 |                           | - Desconectar electrodomésticos innecesarios para evitar accidentes eléctricos.                   | - Confirmar que todo está bien colocado y que no hay objetos fuera de lugar.                          | - Comprobar que las cerraduras y ventanas siguen intactas.                                              |
@@ -234,7 +236,6 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 |                           | - Temor por la seguridad de mis pertenencias valiosas.                                            | - Cierta calma por haber hecho lo que estaba a mi alcance.                                             | - Paz mental al notar que no hubo incidentes.                                                            |
 
 ## 2.4. Ubiquitous Language
-# 🛡️ Lenguaje Ubicuo – Proyecto SecureWave
 
 Para el desarrollo de nuestro proyecto en **SecureWave**, es fundamental establecer un lenguaje común que facilite la comunicación entre los desarrolladores, diseñadores, usuarios finales y demás actores involucrados. Este lenguaje refleja las necesidades y preocupaciones de los usuarios respecto a la seguridad del hogar, y nos permite diseñar soluciones efectivas y centradas en el usuario. A continuación, presentamos los términos clave que forman parte del lenguaje ubicuo de nuestro sistema:
 
