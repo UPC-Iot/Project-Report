@@ -10,8 +10,8 @@
   <p><strong>Sección:</strong> 1ASI0572</p>
   <p><strong>Profesor:</strong> David Carlos Vera</p>
   <p><strong>"Informe de Trabajo Final"</strong></p>
-  <p><strong>Startup:</strong> xxx</p>
-  <p><strong>Producto:</strong> xxx</p>
+  <p><strong>Startup:</strong> Protectify</p>
+  <p><strong>Producto:</strong> SafeTech Solutions</p>
 </div>
 
 
