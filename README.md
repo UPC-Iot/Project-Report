@@ -226,6 +226,20 @@ El objetivo de este análisis es conocer mejor a los competidores y contrastar n
 | **Amenazas** | Crisis económica, cambios regulatorios, fuerte competencia consolidada. | Nuevas startups más accesibles, cambios en regulación de datos. | Ataques informáticos, nuevas empresas con tecnología avanzada. | Competencia extranjera, cambios rápidos en tendencias tecnológicas. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+**Estrategia de diferenciación:**  
+CamGuard se posiciona mediante un sistema basado en inteligencia artificial con cámaras de alta resolución. Este sistema identifica personas desconocidas y activa mecanismos de respuesta, como emisión de humo y alertas automáticas al centro de seguridad más cercano.
+
+**Estrategia de liderazgo en costos:**  
+Precios competitivos con beneficios tangibles. Ofrecemos opciones de pago flexibles y promociones por lanzamiento.
+
+**Estrategia de marketing:**  
+Presencia en redes sociales, creación de contenido educativo, colaboraciones con expertos en seguridad y alianzas estratégicas.
+
+**Tácticas específicas:**  
+- Estudios de mercado para adaptar funcionalidades según necesidades reales.  
+- Buscar financiamiento para mejorar nuestra tecnología.  
+- Establecer alianzas con empresas del rubro para reforzar nuestra propuesta de valor.
+- 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
