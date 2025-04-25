@@ -207,12 +207,12 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-[image](img/User Persona.png)
+img/User Persona.png
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
-[image](img/User Journey Mapping.png)
+img/User Journey Mapping.png
 ### 2.3.4. Empathy Mapping
-[image](img/Empathy Mapping.png)
+img/Empathy Mapping.png
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 
