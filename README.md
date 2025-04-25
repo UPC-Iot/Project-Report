@@ -233,15 +233,84 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 #### 4.1.3.3. Container Level Diagrams
 #### 4.1.3.4. Deployment Diagrams
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Component Level Diagrams
-#### 4.2.X.6. Code Level Diagrams
-##### 4.2.X.6.1. Class Diagrams
-##### 4.2.X.6.2. Database Design Diagram
+
+Se analizará el enfoque táctico del diseño de software aplicando los principios del Domain-Driven Design (DDD), tomando como base los bounded contexts que fueron establecidos con anterioridad.
+
+### 4.2.1. Bounded Context: Perfíl
+
+En el siguiente apartado, se expondrán las clases que han sido definidas para el Perfil Context, abordando las diversas capas que comprenden el dominio, la interfaz, la aplicación y la infraestructura. Además, se incluirán los diagramas de componentes y el código correspondiente para ofrecer una visión integral de la implementación.
+
+#### 4.2.1.1. Domain Layer
+
+Se identificaron los aggregates , root y value object para el bounded context de Perfil.
+
+<img src="img/domain_layer_context_perfil.png" alt="Domain Layer Context Perfil" >
+
+#### 4.2.1.2. Interface Layer
+
+Especificamos el controlador para el bounded context de Perfil.
+
+<img src="img/interface_layer_context_perfil.png" alt="Interface Layer Context Perfil" >
+
+#### 4.2.1.3. Application Layer
+
+<img src="img/application_layer_context_perfil.png" alt="Application Layer Context Perfil" >
+
+#### 4.2.1.4. Infrastructure Layer
+
+Aquí, gestionamos la persistencia de datos, la comunicación con servicios externos y la infraestructura subyacente que sostiene nuestra aplicación para el bounded context de Perfil.
+
+<img src="img/infrastructure_layer_context_perfil.png" alt="Infrastructure Layer Context Perfil" >
+
+#### 4.2.1.5. Component Level Diagrams
+
+<img src="img/bounded_context_software_architecture_component_perfil.png" alt="Component Context Perfil" >
+
+#### 4.2.1.6. Code Level Diagrams
+##### 4.2.1.6.1. Class Diagrams
+
+<img src="img/bounded_context_software_architecture_code_level _diagrams.png" alt="Class Context Perfil" >
+
+
+##### 4.2.1.6.2. Database Design Diagram
+
+### 4.2.2. Bounded Context: Reconocimiento
+
+En el siguiente apartado, se expondrán las clases que han sido definidas para el Reconocimiento Context, abordando las diversas capas que comprenden el dominio, la interfaz, la aplicación y la infraestructura. Además, se incluirán los diagramas de componentes y el código correspondiente para ofrecer una visión integral de la implementación.
+
+#### 4.2.2.1. Domain Layer
+
+Se identificaron los aggregates , root y value object para el bounded context de Perfiles.
+
+<img src="img/domain_layer_context_reconcimiento.png" alt="Domain Layer Context Reconocimiento" >
+
+#### 4.2.2.2. Interface Layer
+
+Identificamos el controlador dentro del sistema encargado de operar y gestionar el bounded context de Reconocimiento Facial.
+
+<img src="img/interface_layer_context_reconocimiento.png" alt="Interface Layer Context Reconocimiento" >
+
+#### 4.2.2.3. Application Layer
+
+<img src="img/application_layer_context_reconocimiento.png" alt="Application Layer Context Reconocimiento" >
+
+#### 4.2.2.4. Infrastructure Layer
+
+Aquí, gestionamos la persistencia de datos, la comunicación con servicios externos y la infraestructura subyacente que sostiene nuestra aplicación para el bounded context de Reconocimiento Facial.
+
+<img src="img/infrastructure_layer_context_reconocimiento.png" alt="Infrastructure Layer Context Reconocimiento" >
+
+#### 4.2.2.5. Component Level Diagrams
+
+<img src="img/bounded_context_software_architecture_component_reconocimiento.png" alt="Component Context Reconocimiento" >
+
+#### 4.2.2.6. Code Level Diagrams
+##### 4.2.2.6.1. Class Diagrams
+
+<img src="img/bounded_context_software_architecture_code_level _diagrams_reconocimiento.png" alt="Class Context Perfil" >
+
+##### 4.2.2.6.2. Database Design Diagram
+
 
 
 
