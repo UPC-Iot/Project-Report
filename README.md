@@ -280,9 +280,34 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. System Landscape Diagram
+
+  Este diagrama ofrece una visión general de la arquitectura del sistema, mostrando cómo interactúan sus componentes, módulos y sistemas relacionados. Es una herramienta fundamental para entender la estructura y las conexiones principales sin entrar en detalles técnicos profundos.
+
+  <br/>
+
+  <img src="img/C4-landscape.png">
+
+  <br/>
+
 #### 4.1.3.2. Context Level Diagrams
+
+  Este apartado se enfoca en la presentación del diagrama de contexto del software, el cual permite identificar el sistema y su interacción con el entorno, especialmente con los usuarios. A través de este diagrama, se destacan las principales conexiones y componentes clave dentro de la arquitectura general.
+
+  <img src="img/C4-Context.png">
+
+  <br/>
+
 #### 4.1.3.3. Container Level Diagrams
+
+  
 #### 4.1.3.4. Deployment Diagrams
+
+  Este diagrama muestra cómo los componentes del sistema se despliegan en el hardware, facilitando la planificación, optimización y gestión de sistemas de software complejos.
+
+  <img src="img/deplyoment-diagram.png">
+
+  <br/>
+
 ## 4.2. Tactical-Level Domain-Driven Design
 
 Se analizará el enfoque táctico del diseño de software aplicando los principios del Domain-Driven Design (DDD), tomando como base los bounded contexts que fueron establecidos con anterioridad.
