@@ -10,8 +10,8 @@
   <p><strong>Sección:</strong> 1ASI0572</p>
   <p><strong>Profesor:</strong> David Carlos Vera</p>
   <p><strong>"Informe de Trabajo Final"</strong></p>
-  <p><strong>Startup:</strong> Protectify</p>
-  <p><strong>Producto:</strong> SafeTech Solutions</p>
+  <p><strong>Startup:</strong> SafeTech Solutions</p>
+  <p><strong>Producto:</strong> Protectify</p>
 </div>
 
 
@@ -171,15 +171,25 @@
     - [4.1.3.3. Container Level Diagrams](#4133-container-level-diagrams)
     - [4.1.3.4. Deployment Diagrams](#4134-deployment-diagrams)
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-  - [4.2.X. Bounded Context: &lt;Bounded Context Name&gt;](#42x-bounded-context)
-    - [4.2.X.1. Domain Layer](#42x1-domain-layer)
-    - [4.2.X.2. Interface Layer](#42x2-interface-layer)
-    - [4.2.X.3. Application Layer](#42x3-application-layer)
-    - [4.2.X.4. Infrastructure Layer](#42x4-infrastructure-layer)
-    - [4.2.X.5. Component Level Diagrams](#42x5-component-level-diagrams)
-    - [4.2.X.6. Code Level Diagrams](#42x6-code-level-diagrams)
-      - [4.2.X.6.1. Class Diagrams](#42x61-class-diagrams)
-      - [4.2.X.6.2. Database Design Diagram](#42x62-database-design-diagram)
+  - [4.2.1. Bounded Context: Perfíl](#421-bounded-context-perfíl)
+    - [4.2.1.1. Domain Layer](#4211-domain-layer)
+    - [4.2.1.2. Interface Layer](#4212-interface-layer)
+    - [4.2.1.3. Application Layer](#4213-application-layer)
+    - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+    - [4.2.1.5. Component Level Diagrams](#4215-component-level-diagrams)
+    - [4.2.1.6. Code Level Diagrams](#4216-code-level-diagrams)
+      - [4.2.1.6.1. Class Diagrams](#42161-class-diagrams)
+      - [4.2.1.6.2. Database Design Diagram](#42162-database-design-diagram)
+  - [4.2.2. Bounded Context: Reconocimiento](#422-bounded-context-reconocimiento)
+    - [4.2.2.1. Domain Layer](#4221-domain-layer)
+    - [4.2.2.2. Interface Layer](#4222-interface-layer)
+    - [4.2.2.3. Application Layer](#4223-application-layer)
+    - [4.2.2.4. Infrastructure Layer](#4224-infrastructure-layer)
+    - [4.2.2.5. Component Level Diagrams](#4225-component-level-diagrams)
+    - [4.2.2.6. Code Level Diagrams](#4226-code-level-diagrams)
+      - [4.2.2.6.1. Class Diagrams](#42261-class-diagrams)
+      - [4.2.2.6.2. Database Design Diagram](#42262-database-design-diagram)
+
 
 
 # Student Outcome
@@ -202,7 +212,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
       <td>
         <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega tuve que reunirme con el grupo para acordar los puntos a tratar. Tuve que realizar el event storming para comprender la lógica del negocio y así poder explicarlo de forma gráfica los procesos que conlleva nuestro proyecto. Además, tuve que separar los procesos y los flujos para que tuvieran un orden y así sea entendible<br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1:</strong>Durante el desarrollo del proyecto, contribuí activamente al trabajo en equipo brindando liderazgo conjunto. Asumí la responsabilidad de tareas clave como el To-be Scenario Mapping, User Stories, Impact Mapping y la elaboración del Product Backlog, promoviendo una visión compartida del producto. Además, lideré la definición del diseño a nivel táctico mediante el Tactical-Level Domain-Driven Design, estructurando los Bounded Contexts y desarrollando diagramas a nivel de componentes, clases y base de datos, fomentando así una colaboración técnica efectiva entre los integrantes.<br><br>
-        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
+        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1: Durante esta entrega, participé activamente en las reuniones de coordinación con el equipo, proponiendo ideas y escuchando las opiniones de todos para lograr una mejor organización del trabajo. Asumí responsabilidades específicas como [aquí podrías agregar alguna tarea que realizaste, por ejemplo: ayudar en la elaboración de User Stories, revisión de entregables, organización de tareas, etc.]. Además, fomenté la colaboración al apoyar a mis compañeros en la resolución de dudas y asegurarme de que todos estuviéramos alineados con los objetivos del proyecto, promoviendo así un liderazgo compartido y un ambiente de trabajo participativo.</strong><br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1: En esta entrega, me encargué de realizar el análisis competitivo, evaluando a los principales competidores en el mercado para entender sus fortalezas y debilidades. A partir de ahí, pude identificar las oportunidades para mejorar nuestro producto y diferenciarlo de las opciones existentes. Además, llevé a cabo las entrevistas con los usuarios objetivo, recopilando información clave sobre sus necesidades y expectativas. Posteriormente, realicé un análisis detallado de las entrevistas, extrayendo patrones y características comunes que nos ayudaron a comprender mejor los arquetipos de usuario y los puntos críticos que debíamos abordar en el diseño del proyecto.</strong><br><br>
         <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong>Para este proyecto, participe con mi equipo de las reuniones y realice las actividades que quedamos a realizar. Pude hacer el As-Is Scenario Mapping, además del Empathy Mapping, User Persona, User Task Matrix, entre otras partes del capítulo 2. Por otro lado, como ya mencioné, pude conversar con mis compañeros en las reuniones para conocer sus opiniones respecto al tema elegido y saber que partes nos podríamos dividir entre todos, siempre teniendo en cuenta sus opiniones y sabiendo sus preferencias y el tiempo que tenían para realizar lo necesario para esta entrega.<br>
       </td>
@@ -213,7 +223,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
       <td>
         <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega me comuniqué con mis compañeros para poder trabajar diversos puntos del proyecto. Tuve que diseñar la arquitectura de la aplicación comprendiendo los Bounded Context y cómo interactúan entre si. Empleé el diagrama C4 para especificar cada parte del sistema para que los demás integrantes conocieran del proceso y las tecnologías del mismo sistema.<br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1: </strong>Durante el proyecto, fomenté un entorno colaborativo e inclusivo al promover una comunicación constante entre los miembros del equipo. Me enfoqué en establecer metas claras y compartidas, y planifiqué las tareas de forma estructurada mediante herramientas como el Product Backlog e Impact Mapping. Esto permitió organizar el trabajo de forma efectiva, facilitando el cumplimiento de objetivos dentro de los plazos establecidos, y asegurando que cada integrante tuviera claridad sobre su rol y responsabilidades.<br><br>
-        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
+        <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1: Durante esta entrega, participé activamente en la creación de un entorno colaborativo e inclusivo, manteniendo una comunicación constante con mis compañeros para coordinar avances y resolver dudas. Contribuí en la planificación de tareas distribuyendo actividades de manera equitativa y asegurándome de que todos tuviéramos metas claras para cumplir con los plazos establecidos. Además, estuve atento al progreso del equipo, apoyando en lo necesario para garantizar que los objetivos del proyecto se cumplieran de forma ordenada y efectiva.</strong><br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1: Durante esta entrega, trabajé activamente para crear un entorno colaborativo e inclusivo dentro del equipo. Me comuniqué de manera constante con mis compañeros para coordinar el análisis competitivo y las entrevistas, asegurando que todos estuviéramos alineados en la comprensión de los competidores y sus estrategias. Además, me encargué de registrar y analizar las entrevistas, extrayendo datos clave para la construcción de los arquetipos de usuario. Utilicé estos resultados para establecer metas claras y compartidas, lo que permitió planificar las tareas de manera estructurada. Como resultado, pudimos cumplir los objetivos establecidos de forma efectiva, garantizando una base sólida para las siguientes etapas del proyecto.</strong><br><br>
         <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong>Para este proyecto, me comunique activamente con mis compañeros, para siempre estar en la misma página y poder avanzar el trabajo de acuerdo al cronograma del curso. Además me ordenaba para que pueda completar con las actividades que me tocaba realizar del trabajo, y poder contribuir en cualquier reunión, siempre aportando ideas y comentarios para la mejora de este trabajo.<br>
       </td>
@@ -252,6 +262,7 @@ La visión de SafeTech Solutionses convertirse en un referente latinoamericano e
 | **Christian Andre Matos Fernandez (U202214162)**<br>Mi nombre es Christian Matos y actualmente curso el séptimo ciclo de la carrera de Ingeniería de Software. Tengo experiencia en desarrollo web y móvil, y a lo largo de mi formación he trabajado con una variedad de lenguajes y tecnologías que me han permitido adaptarme a diferentes tipos de proyectos. Utilizo Python y C++ para resolver problemas algorítmicos y de lógica, Java para aplicaciones estructuradas, JavaScript y TypeScript junto con Vue para el desarrollo frontend dinámico, .NET para servicios backend, y Kotlin para aplicaciones móviles. | ![image](img/perfil_matos.png) |
 | **Tomás Ortiz Fajardo (U201910146)**<br>Mi nombre es Tomás Ortiz Fajardo y me encuentro cursando el octavo ciclo de la carrera de Ingeniería de Software. Desde hace varios años he empezado a agarrar experiencia en diversos lenguajes de programación como Python, Javascript, Swift, entre otros. Para este trabajo aportaré con todos los conocimientos que tenga para que podamos sobresalir en el curso. | ![image](img/IMG_3824.jpg) |
 | **Renzo Manuel Ramos Ramirez (U202113745)**<br>Mi nombre es Renzo Ramos, soy un estudiante de la carrera Ingeniería de Software. Me interesa mucho el desarrollo de aplicaciones tanto web como móviles. También valoro mucho el trabajo en equipo y siempre trato de mantener una buena comunicación con mis compañeros. Siempre busco mejorar como desarrollador con cada proyecto. | ![image](img/perfil_Renzo.png) |
+| **Carlos Arturo Adrianzén Flores (U202215705)**<br>Soy estudiante de la carrera de Ingenieria de Software, me apasiona el desarrollo tecnologico, a lo largo de mi carreara he logrado ver distintos lenguajes de programación como c ++, python y java. Espero poder aprender mas de IOT durante el desarrollo de este proyecto.| ![image](img/ULTIMAFOTO.jpg) |
 
 
 
