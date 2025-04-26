@@ -299,7 +299,12 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 #### 4.1.3.3. Container Level Diagrams
 
-  
+  Este diagrama de contenedores representa la arquitectura de Protectify, donde se identifican distintos contenedores asociados a nuestros bounded context, así como una base de datos y una API. También se muestra la interacción entre ellos y su conexión con sistemas externos.
+
+  <img src="img/C4-Container.png">
+
+  <br/>
+
 #### 4.1.3.4. Deployment Diagrams
 
   Este diagrama muestra cómo los componentes del sistema se despliegan en el hardware, facilitando la planificación, optimización y gestión de sistemas de software complejos.
