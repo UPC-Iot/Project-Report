@@ -198,7 +198,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
     <tr>
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td>
-        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong><br><br>
+        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega tuve que reunirme con el grupo para acordar los puntos a tratar. Tuve que realizar el event storming para comprender la lógica del negocio y así poder explicarlo de forma gráfica los procesos que conlleva nuestro proyecto. Además, tuve que separar los procesos y los flujos para que tuvieran un orden y así sea entendible<br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1:</strong>Durante el desarrollo del proyecto, contribuí activamente al trabajo en equipo brindando liderazgo conjunto. Asumí la responsabilidad de tareas clave como el To-be Scenario Mapping, User Stories, Impact Mapping y la elaboración del Product Backlog, promoviendo una visión compartida del producto. Además, lideré la definición del diseño a nivel táctico mediante el Tactical-Level Domain-Driven Design, estructurando los Bounded Contexts y desarrollando diagramas a nivel de componentes, clases y base de datos, fomentando así una colaboración técnica efectiva entre los integrantes.<br><br>
         <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1:</strong><br><br>
@@ -209,7 +209,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
       <td>
-        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong><br><br>
+        <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega me comuniqué con mis compañeros para poder trabajar diversos puntos del proyecto. Tuve que diseñar la arquitectura de la aplicación comprendiendo los Bounded Context y cómo interactúan entre si. Empleé el diagrama C4 para especificar cada parte del sistema para que los demás integrantes conocieran del proceso y las tecnologías del mismo sistema.<br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1: </strong>Durante el proyecto, fomenté un entorno colaborativo e inclusivo al promover una comunicación constante entre los miembros del equipo. Me enfoqué en establecer metas claras y compartidas, y planifiqué las tareas de forma estructurada mediante herramientas como el Product Backlog e Impact Mapping. Esto permitió organizar el trabajo de forma efectiva, facilitando el cumplimiento de objetivos dentro de los plazos establecidos, y asegurando que cada integrante tuviera claridad sobre su rol y responsabilidades.<br><br>
         <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1:</strong><br><br>
