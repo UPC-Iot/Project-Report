@@ -10,8 +10,8 @@
   <p><strong>Sección:</strong> 1ASI0572</p>
   <p><strong>Profesor:</strong> David Carlos Vera</p>
   <p><strong>"Informe de Trabajo Final"</strong></p>
-  <p><strong>Startup:</strong> Protectify</p>
-  <p><strong>Producto:</strong> SafeTech Solutions</p>
+  <p><strong>Startup:</strong> SafeTech Solutions</p>
+  <p><strong>Producto:</strong> Protectify</p>
 </div>
 
 
@@ -171,15 +171,25 @@
     - [4.1.3.3. Container Level Diagrams](#4133-container-level-diagrams)
     - [4.1.3.4. Deployment Diagrams](#4134-deployment-diagrams)
 - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
-  - [4.2.X. Bounded Context: &lt;Bounded Context Name&gt;](#42x-bounded-context)
-    - [4.2.X.1. Domain Layer](#42x1-domain-layer)
-    - [4.2.X.2. Interface Layer](#42x2-interface-layer)
-    - [4.2.X.3. Application Layer](#42x3-application-layer)
-    - [4.2.X.4. Infrastructure Layer](#42x4-infrastructure-layer)
-    - [4.2.X.5. Component Level Diagrams](#42x5-component-level-diagrams)
-    - [4.2.X.6. Code Level Diagrams](#42x6-code-level-diagrams)
-      - [4.2.X.6.1. Class Diagrams](#42x61-class-diagrams)
-      - [4.2.X.6.2. Database Design Diagram](#42x62-database-design-diagram)
+  - [4.2.1. Bounded Context: Perfíl](#421-bounded-context-perfíl)
+    - [4.2.1.1. Domain Layer](#4211-domain-layer)
+    - [4.2.1.2. Interface Layer](#4212-interface-layer)
+    - [4.2.1.3. Application Layer](#4213-application-layer)
+    - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+    - [4.2.1.5. Component Level Diagrams](#4215-component-level-diagrams)
+    - [4.2.1.6. Code Level Diagrams](#4216-code-level-diagrams)
+      - [4.2.1.6.1. Class Diagrams](#42161-class-diagrams)
+      - [4.2.1.6.2. Database Design Diagram](#42162-database-design-diagram)
+  - [4.2.2. Bounded Context: Reconocimiento](#422-bounded-context-reconocimiento)
+    - [4.2.2.1. Domain Layer](#4221-domain-layer)
+    - [4.2.2.2. Interface Layer](#4222-interface-layer)
+    - [4.2.2.3. Application Layer](#4223-application-layer)
+    - [4.2.2.4. Infrastructure Layer](#4224-infrastructure-layer)
+    - [4.2.2.5. Component Level Diagrams](#4225-component-level-diagrams)
+    - [4.2.2.6. Code Level Diagrams](#4226-code-level-diagrams)
+      - [4.2.2.6.1. Class Diagrams](#42261-class-diagrams)
+      - [4.2.2.6.2. Database Design Diagram](#42262-database-design-diagram)
+
 
 
 # Student Outcome
