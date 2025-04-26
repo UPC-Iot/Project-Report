@@ -330,20 +330,41 @@ A continuación, realizamos un análisis competitivo para identificar oportunida
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-**Estrategia de diferenciación:**  
-CamGuard se posiciona mediante un sistema basado en inteligencia artificial con cámaras de alta resolución. Este sistema identifica personas desconocidas y activa mecanismos de respuesta, como emisión de humo y alertas automáticas al centro de seguridad más cercano.
+A continuación, se detallan las estrategias y tácticas preliminares que aplicará **SwiftPort** para afrontar las fortalezas de los competidores, aprovechar sus debilidades, y responder al contexto de oportunidades y amenazas identificadas en el análisis competitivo.
 
-**Estrategia de liderazgo en costos:**  
-Precios competitivos con beneficios tangibles. Ofrecemos opciones de pago flexibles y promociones por lanzamiento.
+## Estrategias
 
-**Estrategia de marketing:**  
-Presencia en redes sociales, creación de contenido educativo, colaboraciones con expertos en seguridad y alianzas estratégicas.
+- **Diferenciación mediante integración tecnológica**:  
+  Aprovechar la integración de **IoT, RFID, QR** y **dashboards colaborativos** como propuesta de valor única frente a plataformas tradicionales que no combinan múltiples tecnologías.
 
-**Tácticas específicas:**  
-- Estudios de mercado para adaptar funcionalidades según necesidades reales.  
-- Buscar financiamiento para mejorar nuestra tecnología.  
-- Establecer alianzas con empresas del rubro para reforzar nuestra propuesta de valor.
-- 
+- **Enfoque en la facilidad de adopción**:  
+  Reducir la barrera de entrada ofreciendo capacitaciones gratuitas, onboarding personalizado y una interfaz intuitiva, aprovechando las debilidades de los competidores que presentan curvas de aprendizaje elevadas o costos de implementación altos.
+
+- **Penetración de mercado en sectores subatendidos**:  
+  Atacar segmentos como minería, agroindustria y distribución regional, sectores que aún no han sido prioritarios para competidores como Flexport o WiseTech.
+
+- **Modelo de precios flexible**:  
+  Ofrecer un esquema de **suscripción mensual escalable** que se ajuste a diferentes tamaños de empresa, frente a los modelos de licenciamiento costoso y de alta inversión inicial que presentan competidores.
+
+- **Alianzas estratégicas locales**:  
+  Formar alianzas con operadores logísticos medianos y grandes a nivel regional para fortalecer la adopción de SwiftPort y superar la ventaja de redes globales de actores como Flexport.
+
+## Tácticas
+
+- **Pilotos y demos gratuitas en sectores clave**:  
+  Lanzar programas piloto de 30-60 días para demostrar el valor de la plataforma en campo, con especial enfoque en industrias de alta demanda logística.
+
+- **Eventos y ferias sectoriales**:  
+  Participar en eventos de logística, agroindustria y minería para aumentar la visibilidad y generar leads cualificados.
+
+- **Marketing de contenido técnico**:  
+  Crear artículos, whitepapers y casos de éxito orientados a mostrar la facilidad de integración de SwiftPort con ERP/CRM/WMS, resaltando nuestra ventaja competitiva.
+
+- **Campañas de adopción digital para PYMEs**:  
+  Lanzar campañas enfocadas en concientizar a pequeñas y medianas empresas sobre los beneficios de adoptar tecnología logística, para combatir la resistencia al cambio detectada como amenaza.
+
+- **Soporte técnico especializado 24/7**:  
+  Implementar soporte técnico con rápida atención para usuarios, reforzando la percepción de bajo riesgo al momento de adoptar nuestra solución.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
