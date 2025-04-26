@@ -211,7 +211,7 @@ CamGuard compite con empresas que brindan soluciones de seguridad para hogares y
 **¿Por qué llevar a cabo este análisis?**  
 El objetivo de este análisis es conocer mejor a los competidores y contrastar nuestra idea inicial con su verdadera propuesta de valor, identificando puntos de diferenciación que permitan a CamGuard destacar en el mercado de seguridad para hogares y pequeños negocios.
 
-|Competitive Analysis Landscape
+|Competitive Analysis Landscape| | | | |
 | Pregunta/Objetivo | **¿Por qué llevar a cabo este análisis?**<br>Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado, identificar ventajas competitivas y definir estrategias. |  |  |  |
 |-------------------|:---|:---|:---|:---|
 |                   | ![CamGuard Logo]() **CamGuard** | ![Verisure Logo]() **Verisure** | ![Prosegur Logo]() **Prosegur** | ![Grupo Navarro Logo]() **Grupo Navarro** |
