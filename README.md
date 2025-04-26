@@ -192,7 +192,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
       <th>Criterio específico</th>
       <th>Acciones realizadas</th>
       <th>Conclusiones</th>
-    </tr>
+    </tr> 
   </thead>
   <tbody>
     <tr>
@@ -212,7 +212,7 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
         <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega me comuniqué con mis compañeros para poder trabajar diversos puntos del proyecto. Tuve que diseñar la arquitectura de la aplicación comprendiendo los Bounded Context y cómo interactúan entre si. Empleé el diagrama C4 para especificar cada parte del sistema para que los demás integrantes conocieran del proceso y las tecnologías del mismo sistema.<br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1: </strong>Durante el proyecto, fomenté un entorno colaborativo e inclusivo al promover una comunicación constante entre los miembros del equipo. Me enfoqué en establecer metas claras y compartidas, y planifiqué las tareas de forma estructurada mediante herramientas como el Product Backlog e Impact Mapping. Esto permitió organizar el trabajo de forma efectiva, facilitando el cumplimiento de objetivos dentro de los plazos establecidos, y asegurando que cada integrante tuviera claridad sobre su rol y responsabilidades.<br><br>
         <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1:</strong><br><br>
-        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1:</strong><br><br>
+        <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1: Durante esta entrega, trabajé activamente para crear un entorno colaborativo e inclusivo dentro del equipo. Me comuniqué de manera constante con mis compañeros para coordinar el análisis competitivo y las entrevistas, asegurando que todos estuviéramos alineados en la comprensión de los competidores y sus estrategias. Además, me encargué de registrar y analizar las entrevistas, extrayendo datos clave para la construcción de los arquetipos de usuario. Utilicé estos resultados para establecer metas claras y compartidas, lo que permitió planificar las tareas de manera estructurada. Como resultado, pudimos cumplir los objetivos establecidos de forma efectiva, garantizando una base sólida para las siguientes etapas del proyecto.</strong><br><br>
         <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong>Para este proyecto, me comunique activamente con mis compañeros, para siempre estar en la misma página y poder avanzar el trabajo de acuerdo al cronograma del curso. Además me ordenaba para que pueda completar con las actividades que me tocaba realizar del trabajo, y poder contribuir en cualquier reunión, siempre aportando ideas y comentarios para la mejora de este trabajo.<br>
       </td>
       <td>TB1: El equipo fomentó un entorno colaborativo e inclusivo, donde todas las ideas fueron valoradas y consideradas en el desarrollo del proyecto. Se establecieron metas claras desde el inicio, se organizaron tareas de forma estructurada y se trabajó con disciplina para cumplir los objetivos planteados. Esta organización y compromiso grupal permitió avanzar de forma eficiente y cohesionada.</td>
