@@ -226,9 +226,9 @@ A continuación, realizamos un análisis competitivo para identificar oportunida
     </tr>
     <tr>
       <td colspan="2">PERFIL</td>
-      <td><picture><p align="center"><img src="img/Verisure_logo" alt="Verisure Logo" height="50" width="200"></p> </picture></td>
-      <td><picture><p align="center"><img src="img/Prosegur_logo" alt="Prosegur Logo" height="50" width="200"></p></picture></td>
-      <td><picture><p align="center"><img src="img/GrupoNavarro_logo" alt="Grupo Navarro Logo" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="img/Verisure_logo.png" alt="Verisure Logo" height="50" width="200"></p> </picture></td>
+      <td><picture><p align="center"><img src="img/Prosegur_logo.png" alt="Prosegur Logo" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="img/GrupoNavarro_logo.png" alt="Grupo Navarro Logo" height="50" width="200"></p></picture></td>
       <td><picture><p align="center"><img src="img/Controltech_logo.jpeg" alt="Otros" height="50" width="200"></p></picture></td>
       <td><picture><p align="center"><img src="img/Camguard_Logo.png alt="CamGuard Logo" height="50" width="200"></p></picture></td>
     </tr>
