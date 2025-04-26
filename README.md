@@ -199,17 +199,17 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-CamGuard compite con empresas que brindan soluciones de seguridad para hogares y negocios. A continuación se presentan tres competidores directos del mercado:
+Protectify compite con empresas que brindan soluciones de seguridad para hogares y negocios. A continuación se presentan tres competidores directos del mercado:
 
 - **Verisure**: Empresa internacional que ofrece soluciones de seguridad electrónica con monitoreo las 24 horas.
 - **Prosegur**: Empresa global de seguridad con un portafolio que incluye transporte de valores, vigilancia y servicios de ciberseguridad.
 - **Grupo Navarro**: Empresa peruana que comercializa e instala sistemas de seguridad, destacando por sus precios accesibles y cobertura nacional.
-- 
+
 ### 2.1.1. Análisis competitivo
 #### Competitive Analysis Landscape
 
 **¿Por qué llevar a cabo este análisis?**  
-El objetivo de este análisis es conocer mejor a los competidores y contrastar nuestra idea inicial con su verdadera propuesta de valor, identificando puntos de diferenciación que permitan a CamGuard destacar en el mercado de seguridad para hogares y pequeños negocios.
+El objetivo de este análisis es conocer mejor a los competidores y contrastar nuestra idea inicial con su verdadera propuesta de valor, identificando puntos de diferenciación que permitan a Protectify destacar en el mercado de seguridad para hogares y pequeños negocios.
 
 A continuación, realizamos un análisis competitivo para identificar oportunidades, amenazas, ventajas y posibles desventajas que podemos tener dentro del mercado en comparación a otras empresas que realicen actividades similares a las nuestras. De esta forma, podremos prepararnos para resaltar frente a los consumidores.
 
@@ -222,7 +222,7 @@ A continuación, realizamos un análisis competitivo para identificar oportunida
   <tbody>
     <tr>
       <td colspan="2" align="center">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5" align="center">Identificar las fortalezas, debilidades, oportunidades y amenazas de nuestra solución, CamGuard, frente a competidores consolidados del sector de seguridad, con el fin de validar nuestra propuesta de valor, afinar nuestra estrategia de posicionamiento y asegurar una ventaja competitiva sostenible en el mercado.</td>
+      <td colspan="5" align="center">Identificar las fortalezas, debilidades, oportunidades y amenazas de nuestra solución, Protectify, frente a competidores consolidados del sector de seguridad, con el fin de validar nuestra propuesta de valor, afinar nuestra estrategia de posicionamiento y asegurar una ventaja competitiva sostenible en el mercado.</td>
     </tr>
     <tr>
       <td colspan="2">PERFIL</td>
@@ -230,7 +230,7 @@ A continuación, realizamos un análisis competitivo para identificar oportunida
       <td><picture><p align="center"><img src="img/Prosegur_logo.png" alt="Prosegur Logo" height="50" width="200"></p></picture></td>
       <td><picture><p align="center"><img src="img/GrupoNavarro_logo.png" alt="Grupo Navarro Logo" height="50" width="200"></p></picture></td>
       <td><picture><p align="center"><img src="img/Controltech_logo.jpeg" alt="Otros" height="50" width="200"></p></picture></td>
-      <td><picture><p align="center"><img src="img/Camguard_Logo.png" alt="CamGuard Logo" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="img/protectify_logo.jpg" alt="Protectify Logo" height="50" width="200"></p></picture></td>
     </tr>
     <tr>
       <td rowspan="2">Perfil</td>
@@ -239,7 +239,7 @@ A continuación, realizamos un análisis competitivo para identificar oportunida
       <td>Multinacional de seguridad física y electrónica.</td>
       <td>Empresa peruana de seguridad privada y sistemas de alarma.</td>
       <td>Pequeños proveedores locales de alarmas.</td>
-      <td>CamGuard brinda seguridad inteligente con integración IoT, notificaciones móviles y atención personalizada 24/7.</td>
+      <td>Protectify brinda seguridad inteligente con integración IoT, notificaciones móviles y atención personalizada 24/7.</td>
     </tr>
     <tr>
       <td>Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
@@ -519,6 +519,7 @@ Con el fin de desarrollar un producto que satisfaga las necesidades de un client
 ### 2.3.1. User Personas
 
 <img src="img/User Persona.png" alt="User Persona" >
+
 ### 2.3.2. User Task Matrix
 
 | User Task                                                                 | Frecuencia     | Importancia |
@@ -533,9 +534,11 @@ Con el fin de desarrollar un producto que satisfaga las necesidades de un client
 ### 2.3.3. User Journey Mapping
 
 <img src="img/User Journey Mapping.jpeg" alt="User Journey Mapping" >
+
 ### 2.3.4. Empathy Mapping
 
 <img src="img/Empathy Mapping.png" alt="Empathy Mapping" >
+
 ### 2.3.5. As-is Scenario Mapping
 
 | Phases| Preparación para salir de la casa                                                                 | Salir de casa                                                                                          | Volver a casa                                                                                           |
