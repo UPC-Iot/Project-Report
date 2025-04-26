@@ -366,8 +366,94 @@ A continuación, se detallan las estrategias y tácticas preliminares que aplica
 - **Soporte técnico especializado 24/7**:  
   Implementar soporte técnico con rápida atención para usuarios, reforzando la percepción de bajo riesgo al momento de adoptar nuestra solución.
 ## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
-### 2.2.2. Registro de entrevistas
+
+
+En esta sección se aborda la investigación tomando como base la recolección de información a través de entrevistas a representantes de los segmentos objetivo.
+
+## 2.2.1. Diseño de Entrevistas
+
+Esta sección incluye la relación de preguntas principales y complementarias para entrevistas, dirigidas a cada uno de los segmentos. Es importante aplicar buenas prácticas en el diseño de entrevistas. También se debe considerar qué tipo de información principal y complementaria se necesita recolectar para construir los arquetipos, tales como características demográficas (género, edad, distrito de residencia, estado civil, familia, ocupación), así como otras características como personalidad, habilidades, marcas e influencias, dispositivos de preferencia, canales digitales de interacción, objetivos, frustraciones, biografía o background.
+
+### Preguntas Principales:
+1. ¿Cuáles son las principales preocupaciones respecto a la seguridad de tu hogar?
+2. ¿Has tenido alguna experiencia previa de robo o situaciones de inseguridad?
+3. ¿Utilizas actualmente algún sistema de seguridad en tu hogar? Si es así, ¿Qué tipo de seguridad empleas?
+4. ¿Cómo te sientes respecto a la tecnología de vigilancia existente?
+5. ¿Qué características consideras más importantes en un sistema de seguridad para tu hogar?
+6. ¿Cómo prefieres recibir notificaciones en caso de situaciones sospechosas?
+7. ¿Cuánto estarías dispuesto a gastar en un sistema de vigilancia para tu hogar?
+8. ¿Qué características adicionales te gustaría ver en un sistema de vigilancia?
+
+### Preguntas Complementarias:
+1. ¿Qué dispositivos prefieres usar para monitorear tu hogar (teléfono móvil, computadora)?
+2. ¿Qué marcas o tecnologías usas actualmente en tu vida cotidiana y qué tan satisfecho estás con ellas?
+3. ¿Cuál es tu principal frustración con los sistemas de seguridad actuales?
+4. ¿Estarías dispuesto a cambiar tu sistema de seguridad si ofreciera características innovadoras que mejoren tu experiencia?
+
+---
+
+### 2.2.2. Registro de Entrevistas
+
+A continuación se presentan las entrevistas realizadas, donde se especifican los detalles de cada entrevistado, su video y el resumen de la entrevista con sus características objetivas y subjetivas.
+
+### Segmento: Personas que residan en zonas urbanas dentro del distrito de Lima
+
+### Entrevistado #1: Nicolle Gonzales
+- **Sexo:** Femenino
+- **Edad:** 20
+- **Distrito:** San Juan de Lurigancho
+- **Nivel socioeconómico:** Clase B
+
+#### Entrevista:
+- **Link:** [https://youtu.be/SW0SmZon-fE](https://youtu.be/SW0SmZon-fE)
+- **Momento en el que inicia:** 0:00
+- **Duración:** 3:30
+
+#### Resumen:
+La entrevistada, Nicolle González Bolaños, de 20 años, expresó su preocupación por la posibilidad de contratar un servicio de seguridad que no cumpla con las expectativas, enfatizando la importancia de que el servicio funcione de manera confiable. Aunque no ha tenido experiencias previas de robos o situaciones de seguridad, actualmente utiliza cámaras de vigilancia en el exterior de su casa. Además, se siente positiva acerca de la tecnología de vigilancia actual, destacando la variedad de opciones avanzadas disponibles que brindan mayor seguridad y tranquilidad. 
+En cuanto a las características esenciales de un sistema de seguridad en el hogar, considera fundamental la detección de movimiento, especialmente durante ciertas horas del día. Para recibir notificaciones sobre situaciones sospechosas, prefiere alertas con un sonido distintivo que la mantenga informada sobre la fuente de la alerta. Respecto al presupuesto, está dispuesta a gastar entre 500 y 600 soles en un sistema de vigilancia.
+Finalmente, ella sugiere que una buena resolución de la cámara, la capacidad de identificar personas, una amplia cobertura visual y un almacenamiento eficiente de datos serían aspectos adicionales valiosos para un sistema de vigilancia.
+
+---
+
+### Entrevistado #2: Yasmin Calderón
+- **Sexo:** Femenino
+- **Edad:** 50
+- **Distrito:** San Juan de Lurigancho
+- **Nivel socioeconómico:** Clase B
+
+#### Entrevista:
+- **Link:** [https://youtu.be/Ma6YkZ45ZNs](https://youtu.be/Ma6YkZ45ZNs)
+- **Momento en el que inicia:** 0:00
+- **Duración:** 4:05
+
+#### Resumen:
+La entrevistada, Yasmin Calderón, de 50 años, mencionó que su principal preocupación es evitar que personas desconocidas ingresen a su casa y valora la vigilancia constante para identificar cualquier actividad sospechosa en su puerta. Aunque no ha tenido experiencias previas de robos en su casa, está considerando instalar cámaras de seguridad para mejorar la seguridad. Además, expresó una actitud positiva hacia la tecnología de vigilancia actual y la considera una excelente herramienta para brindar apoyo a los propietarios de viviendas.
+Las características más importantes para un sistema de seguridad en su hogar, según ella, incluyen una buena visibilidad, instalación confiable, capacidad de monitoreo en tiempo real desde dispositivos móviles o computadoras, y alertas audibles para situaciones sospechosas. 
+
+Prefiere recibir notificaciones de situaciones sospechosas a través de una alarma en su celular para que pueda ser informada de inmediato. En cuanto al presupuesto, Yasmin está dispuesta a gastar entre 500 y 700 soles en un sistema de vigilancia, siempre que demuestre su eficacia.
+
+Finalmente, sugiere que sería beneficioso tener alarmas o sonidos que alerten sobre actividades sospechosas, como personas que permanecen mucho tiempo en el área de entrada de su casa.
+
+---
+
+### Entrevistado #3: Ian Sanchez
+- **Sexo:** Masculino
+- **Edad:** 20
+- **Distrito:** Lince
+- **Nivel socioeconómico:** Clase B
+
+#### Entrevista:
+- **Link:** [https://youtu.be/fRC5i__QzLM](https://youtu.be/fRC5i__QzLM)
+- **Momento en el que inicia:** 0:00
+- **Duración:** 2:38
+
+#### Resumen:
+El entrevistado, Ian, tiene varias preocupaciones principales en cuanto a la seguridad de su hogar, que incluyen el robo, la intrusión de personas no autorizadas, la protección de su familia y sus bienes, así como la seguridad contra incendios y desastres naturales. Afortunadamente, no ha tenido experiencias previas de robo o situaciones de seguridad que lo hayan afectado directamente, pero es consciente de los problemas de delincuencia en su área.
+Actualmente, Ian utiliza un sistema de alarma básico con sensores en puertas y ventanas, además de cerraduras de seguridad en las puertas principales. Se siente positivo acerca de la tecnología de vigilancia actual y considera que puede ser una herramienta eficaz para mejorar la seguridad en su hogar.
+Para Ian, las características más importantes de un sistema de seguridad en el hogar incluyen la capacidad de monitoreo remoto a través de una aplicación móvil, notificaciones en tiempo real, sensores de movimiento, cámaras de alta resolución y una respuesta rápida de las autoridades en caso de una emergencia. Prefiere recibir notificaciones a través de su teléfono móvil y correo electrónico en caso de situaciones sospechosas.
+Ian está dispuesto a gastar hasta $1,000 en un sistema de vigilancia para su hogar, ya que considera que la seguridad de su familia y sus bienes es una inversión importante. Además, valora la facilidad de instalación y mantenimiento del sistema, así como la posibilidad de integrarlo con otros dispositivos inteligentes en su hogar para mayor comodidad y eficiencia.
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
