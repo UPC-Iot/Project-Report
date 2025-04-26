@@ -211,21 +211,122 @@ CamGuard compite con empresas que brindan soluciones de seguridad para hogares y
 **¿Por qué llevar a cabo este análisis?**  
 El objetivo de este análisis es conocer mejor a los competidores y contrastar nuestra idea inicial con su verdadera propuesta de valor, identificando puntos de diferenciación que permitan a CamGuard destacar en el mercado de seguridad para hogares y pequeños negocios.
 
-| Competitive Analysis Landscape |
-|:--|:--|:--|:--|:--|
-| **¿Por qué llevar a cabo este análisis?** | Este análisis se lleva a cabo para investigar, analizar y comparar el comportamiento de los competidores directos o indirectos en el mercado, identificar ventajas competitivas y definir estrategias. |  |  |  |
-|  | ![CamGuard Logo]() **CamGuard** | ![Verisure Logo]() **Verisure** | ![Prosegur Logo]() **Prosegur** | ![Grupo Navarro Logo]() **Grupo Navarro** |
-| **Perfil - Overview** | Empresa que brinda tranquilidad y protección a familias peruanas mediante soluciones de vigilancia avanzadas. | Empresa líder en seguridad electrónica para hogares y empresas. Protección contra intrusiones e incendios. | Servicios de vigilancia, transporte de valores, tecnología de seguridad. Seguridad para personas y empresas. | Venta e instalación de sistemas de seguridad. Productos de alta calidad a precios competitivos. |
-| **Ventaja competitiva** | Seguridad integral para el hogar, tecnología innovadora, monitoreo 24/7, conexión global, respuesta rápida. | Seguridad para el hogar, tecnología innovadora, monitoreo 24/7, presencia global. | Diversificación de servicios, experiencia global, amplio alcance. | Cobertura nacional, alianzas con marcas locales, precios cómodos. |
-| **Perfil de Marketing - Mercado objetivo** | Familias y pequeños negocios en Lima, Perú. | Familias y pequeños negocios. | Empresas, instituciones financieras, sector público y clientes globales. | Colegios e instituciones pequeñas. |
-| **Estrategias de marketing** | Redes sociales, landing page atractiva, participación en consorcios, ofertas de lanzamiento. | Publicidad en medios masivos, anuncios online, ferias de seguridad, programas de referidos. | Publicidad masiva, anuncios online, participación en ferias internacionales. | Redes sociales, landing page, alianzas estratégicas. |
-| **Perfil de Producto - Productos & Servicios** | Sistema de seguridad con IA, cámaras de alta nitidez, monitoreo 24/7. | Alarmas, monitoreo 24/7, cámaras de seguridad, servicios de respuesta a emergencias. | Seguridad empresarial, transporte de valores, ciberseguridad, consultoría de riesgos. | Cámaras de seguridad, cercos eléctricos, alarmas, intercomunicadores, alarmas contra incendio. |
-| **Precios & Costos** | Equipos: 800-1200 soles; Monitoreo: 100-150 soles/mes. | Equipos: 1600-2000 soles; Monitoreo: 170-220 soles/mes. | Equipos: 1000-1800 soles; Monitoreo: 120-180 soles/mes. | Equipos: 1000-1600 soles; Monitoreo: 100-150 soles/mes. |
-| **Canales de distribución** | Página web | Página web | Página web | Página web |
-| **Análisis SWOT - Fortalezas** | Especialización en hogares, respuesta rápida, monitoreo 24/7, conexión global. | Innovación tecnológica, monitoreo 24/7, presencia global. | Diversificación, experiencia global, reconocimiento de marca. | Cobertura nacional, precios accesibles, variedad de productos. |
-| **Análisis SWOT - Debilidades** | Alta dependencia tecnológica, alta competencia, menor posicionamiento de marca. | Enfoque limitado a segmentos específicos, dependencia económica. | Vulnerabilidad por evolución tecnológica rápida, falta de enfoque claro. | Menor reconocimiento de marca, falta de marketing fuerte. |
-| **Análisis SWOT - Oportunidades** | Expansión nacional, alianzas estratégicas, crecimiento del mercado. | Expansión geográfica, desarrollo hogar inteligente, alianzas tecnológicas. | Crecimiento en ciberseguridad, sostenibilidad, expansión de servicios. | Crecimiento del mercado nacional, alianzas estratégicas. |
-| **Análisis SWOT - Amenazas** | Cambios regulatorios, competencia intensa, crisis económica nacional. | Cambios regulatorios, incremento de competencia, amenazas cibernéticas. | Volatilidad económica global, competencia intensa, riesgos regulatorios. | Preferencia por grandes marcas, competencia consolidada. |
+A continuación, realizamos un análisis competitivo para identificar oportunidades, amenazas, ventajas y posibles desventajas que podemos tener dentro del mercado en comparación a otras empresas que realicen actividades similares a las nuestras. De esta forma, podremos prepararnos para resaltar frente a los consumidores.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="7"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5" align="center">Identificar las fortalezas, debilidades, oportunidades y amenazas de nuestra solución, CamGuard, frente a competidores consolidados del sector de seguridad, con el fin de validar nuestra propuesta de valor, afinar nuestra estrategia de posicionamiento y asegurar una ventaja competitiva sostenible en el mercado.</td>
+    </tr>
+    <tr>
+      <td colspan="2">PERFIL</td>
+      <td><picture><p align="center"><img src="assets/md-images/verisure.png" alt="Verisure Logo" height="50" width="200"></p> </picture></td>
+      <td><picture><p align="center"><img src="assets/md-images/prosegur.png" alt="Prosegur Logo" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="assets/md-images/grupo-navarro.png" alt="Grupo Navarro Logo" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="assets/md-images/otras.png" alt="Otros" height="50" width="200"></p></picture></td>
+      <td><picture><p align="center"><img src="assets/md-images/camguard.png" alt="CamGuard Logo" height="50" width="200"></p></picture></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Perfil</td>
+      <td>Overview</td>
+      <td>Empresa líder en alarmas para hogar y negocio con respuesta inmediata.</td>
+      <td>Multinacional de seguridad física y electrónica.</td>
+      <td>Empresa peruana de seguridad privada y sistemas de alarma.</td>
+      <td>Pequeños proveedores locales de alarmas.</td>
+      <td>CamGuard brinda seguridad inteligente con integración IoT, notificaciones móviles y atención personalizada 24/7.</td>
+    </tr>
+    <tr>
+      <td>Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+      <td>Respuesta inmediata y monitoreo constante con tecnología propia.</td>
+      <td>Cobertura internacional y servicios de seguridad diversificados.</td>
+      <td>Precios accesibles y presencia nacional.</td>
+      <td>Atención local rápida pero limitada en tecnología.</td>
+      <td>Alta personalización de servicios, bajo costo de implementación y acceso vía App de monitoreo en tiempo real.</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Perfil de Marketing</td>
+      <td>Mercado objetivo</td>
+      <td>Familias, pymes y grandes empresas.</td>
+      <td>Empresas, bancos, residenciales.</td>
+      <td>Familias y negocios locales.</td>
+      <td>Pequeños negocios, viviendas individuales.</td>
+      <td>Hogares de clase media, emprendimientos y pequeñas empresas urbanas.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de Marketing</td>
+      <td>Publicidad masiva, marketing digital, alianzas estratégicas.</td>
+      <td>Marketing corporativo, presencia en eventos de seguridad.</td>
+      <td>Marketing tradicional y boca a boca.</td>
+      <td>Promociones locales y anuncios comunitarios.</td>
+      <td>Campañas digitales geolocalizadas, marketing de contenido, recomendaciones personalizadas.</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Perfil del Producto</td>
+      <td>Productos & Servicios</td>
+      <td>Alarmas, sensores de movimiento, monitoreo remoto.</td>
+      <td>Vigilancia física, alarmas, transporte de valores.</td>
+      <td>Instalación de cámaras, alarmas y respuesta armada.</td>
+      <td>Alarmas básicas y cámaras de seguridad económicas.</td>
+      <td>Sistema IoT de seguridad, monitoreo vía App, asistencia inmediata y control de accesos remoto.</td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>Planes desde $30/mes + costo de instalación.</td>
+      <td>Precios por proyecto o servicio específico.</td>
+      <td>Planes económicos desde S/ 70/mes.</td>
+      <td>Pagos únicos accesibles o mensualidades bajas.</td>
+      <td>Suscripción mensual flexible desde $15, sin costos de instalación inicial.</td>
+    </tr>
+    <tr>
+      <td>Canales de Distribución (web / móvil)</td>
+      <td>Web, App móvil, atención telefónica.</td>
+      <td>Web, atención directa a empresas.</td>
+      <td>Web y puntos físicos de atención.</td>
+      <td>Tiendas locales y teléfono.</td>
+      <td>Web, App móvil, Chatbots, redes sociales.</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Análisis SWOT</td>
+      <td>Fortalezas</td>
+      <td>Fuerte marca, rapidez en instalación, buena atención postventa.</td>
+      <td>Infraestructura amplia, servicios diversificados.</td>
+      <td>Cercanía y precios bajos.</td>
+      <td>Atención rápida en zonas específicas.</td>
+      <td>Alta flexibilidad, costos accesibles, innovación tecnológica continua.</td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>Costos altos en comparación con otros locales.</td>
+      <td>Burocracia en atención a nuevos clientes.</td>
+      <td>Capacidad limitada para servicios de gran escala.</td>
+      <td>Falta de innovación tecnológica.</td>
+      <td>Reconocimiento de marca aún en desarrollo, dependencia de canales digitales.</td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>Crecimiento de la demanda de seguridad para hogares.</td>
+      <td>Expansión a nuevos sectores (industrial, tecnológico).</td>
+      <td>Mayor conciencia en seguridad local.</td>
+      <td>Expansión en zonas urbanas vulnerables.</td>
+      <td>Mercado emergente de hogares inteligentes y seguridad domiciliaria inteligente.</td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>Competencia más económica y agresiva.</td>
+      <td>Innovaciones de startups de seguridad tecnológica.</td>
+      <td>Empresas globales expandiéndose en Perú.</td>
+      <td>Mayor competencia tecnológica.</td>
+      <td>Adopción lenta en ciertos sectores, cambios regulatorios de privacidad y datos.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
