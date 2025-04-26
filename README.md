@@ -399,6 +399,9 @@ A continuación se presentan las entrevistas realizadas, donde se especifican lo
 ### Segmento: Personas que residan en zonas urbanas dentro del distrito de Lima
 
 ### Entrevistado #1: Nicolle Gonzales
+![Entrevista 1](img/Entrevista 1.png)
+
+
 - **Sexo:** Femenino
 - **Edad:** 20
 - **Distrito:** San Juan de Lurigancho
@@ -417,6 +420,8 @@ Finalmente, ella sugiere que una buena resolución de la cámara, la capacidad d
 ---
 
 ### Entrevistado #2: Yasmin Calderón
+![Entrevista 2](img/Entrevista 2.png)
+
 - **Sexo:** Femenino
 - **Edad:** 50
 - **Distrito:** San Juan de Lurigancho
@@ -438,6 +443,8 @@ Finalmente, sugiere que sería beneficioso tener alarmas o sonidos que alerten s
 ---
 
 ### Entrevistado #3: Ian Sanchez
+![Entrevista 3](img/Entrevista 3.png)
+
 - **Sexo:** Masculino
 - **Edad:** 20
 - **Distrito:** Lince
