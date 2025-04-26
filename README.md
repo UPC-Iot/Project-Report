@@ -455,7 +455,60 @@ Para Ian, las características más importantes de un sistema de seguridad en el
 Ian está dispuesto a gastar hasta $1,000 en un sistema de vigilancia para su hogar, ya que considera que la seguridad de su familia y sus bienes es una inversión importante. Además, valora la facilidad de instalación y mantenimiento del sistema, así como la posibilidad de integrarlo con otros dispositivos inteligentes en su hogar para mayor comodidad y eficiencia.
 
 ### 2.2.3. Análisis de entrevistas
+En esta sección se presenta el análisis de las entrevistas realizadas a los entrevistados del segmento objetivo. Cada característica se analiza con base en los hallazgos de las entrevistas registradas y los resúmenes de las mismas, proporcionando porcentajes representativos de los aspectos comunes de este segmento.
+
+## Segmento #1: Personas que residen en zonas urbanas dentro del distrito de Lima
+
+### Hallazgos Clave:
+
+#### 1. Preocupación Principal: Eficacia de los Servicios de Seguridad
+- **Porcentaje**: 100% (de los entrevistados)
+- **Descripción**: Todos los entrevistados comparten la preocupación sobre la eficacia de los servicios de seguridad contratados y la posibilidad de que no cumplan con lo prometido en caso de una emergencia. Esta preocupación resalta la importancia de la confiabilidad de los sistemas de seguridad en el hogar, como lo reflejan las respuestas en sus entrevistas. 
+  - **Fuente**: Nicolle, Yasmin, Ian.
+
+#### 2. Intrusión y Robo como Preocupaciones Comunes
+- **Porcentaje**: 100% (de los entrevistados)
+- **Descripción**: La intrusión y el robo son preocupaciones frecuentes. Todos los entrevistados expresaron el deseo de proteger sus hogares y bienes de personas no autorizadas. La seguridad del hogar es una prioridad común entre ellos.
+  - **Fuente**: Nicolle, Yasmin, Ian.
+
+#### 3. Falta de Experiencia Directa con Robos
+- **Porcentaje**: 100% (de los entrevistados)
+- **Descripción**: Ninguno de los entrevistados ha tenido experiencias previas de robo o situaciones de seguridad que los hayan afectado directamente en sus hogares. Sin embargo, mencionaron ser conscientes de la delincuencia en su entorno, lo que refuerza su deseo de contar con medidas preventivas.
+  - **Fuente**: Nicolle, Yasmin, Ian.
+
+#### 4. Uso Actual de Sistemas de Seguridad
+- **Porcentaje**: 66.7% (2 de 3 entrevistados)
+- **Descripción**: Dos de los entrevistados utilizan actualmente sistemas de seguridad en sus hogares, como cámaras de vigilancia. Esto refleja un interés por adoptar medidas preventivas. El tercer entrevistado está considerando implementarlos en el futuro.
+  - **Fuente**: Nicolle, Yasmin.
+
+#### 5. Percepción Positiva de la Tecnología de Vigilancia
+- **Porcentaje**: 100% (de los entrevistados)
+- **Descripción**: Todos los entrevistados tienen una percepción positiva de la tecnología de vigilancia actual, considerando que las opciones disponibles son eficaces y avanzadas en brindar seguridad. Ven la tecnología como una herramienta valiosa para mejorar la seguridad de sus hogares.
+  - **Fuente**: Nicolle, Yasmin, Ian.
+
+#### 6. Características Más Valoradas en un Sistema de Seguridad
+- **Porcentaje de entrevistados que valoran la Detección de Movimiento**: 100% (de los entrevistados)
+- **Porcentaje de entrevistados que valoran las Notificaciones en Tiempo Real**: 100% (de los entrevistados)
+- **Porcentaje de entrevistados que valoran el Monitoreo Remoto por Aplicación Móvil**: 66.7% (2 de 3 entrevistados)
+- **Descripción**: Los entrevistados coinciden en la importancia de características como la detección de movimiento y las notificaciones en tiempo real. Además, valoran el monitoreo remoto a través de aplicaciones móviles, ya que consideran estas características como fundamentales para la seguridad y la tranquilidad.
+  - **Fuente**: Nicolle, Yasmin, Ian.
+
+---
+
+## Conclusión General
+
+A través del análisis de las entrevistas, se pueden identificar varias características comunes entre los entrevistados de este segmento:
+
+- **Preocupación central sobre la confiabilidad** de los sistemas de seguridad, ya que todos los entrevistados temen que estos no cumplan con lo prometido en situaciones críticas.
+- **Preocupación por la intrusión y el robo**, que es una prioridad para la mayoría de los entrevistados, aunque no han experimentado robos directos en sus hogares, sino en su entorno.
+- **Interés en la tecnología de seguridad**, con un énfasis particular en la **detección de movimiento**, las **notificaciones en tiempo real** y el **monitoreo remoto** a través de aplicaciones móviles.
+- A pesar de no haber tenido experiencias directas con robos, los entrevistados están conscientes de la situación de inseguridad en su entorno y están tomando medidas preventivas como el uso de cámaras de vigilancia.
+
+Este análisis permite construir arquetipos de usuarios basados en las preocupaciones y necesidades comunes del segmento, destacando la importancia de contar con sistemas de seguridad confiables, accesibles y avanzados tecnológicamente.
+
 ## 2.3. Needfinding
+Con el fin de desarrollar un producto que satisfaga las necesidades de un cliente en particular, SecureWave identificará los User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+
 ### 2.3.1. User Personas
 
 <img src="img/User Persona.png" alt="User Persona" >
