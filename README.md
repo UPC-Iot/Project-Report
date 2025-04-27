@@ -1001,25 +1001,177 @@ Para analizar el nivel de dificultad de las tareas, utilizamos la secuencia de F
 
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
+   EventStorming es una técnica colaborativa y visual de modelado que permite descubrir, entender y mapear procesos complejos dentro de un dominio, ayudando a identificar eventos clave, actores involucrados y áreas de mejora en un sistema. Esta ocasión se mostrará el EventStorming realizado para Protectify.
+
+   <img src="img/eventstorming-intro.png">
+
 #### 4.1.1.1. Candidate Context Discovery
+
+  - **Reconocimiento Facial Context**
+
+  <img src="img/Bounded-context-2.png">
+
+  <br/>
+
+  - **Gestión de Perfiles Context**
+
+  <img src="img/Bounded-context-1.png">
+
 #### 4.1.1.2. Domain Message Flows Modeling
+
+  Durante este proceso, se identificaron los participantes y los mensajes intercambiados, además de modelar los flujos de información que los conectan.
+
+  <img src="img/message-flow-1.png">
+
+  <br/>
+
+  <img src="img/message-flow-2.png">
+
+  <br/>
+
+  <img src="img/message-flow-3.png">
+
+  <br/>
+
 #### 4.1.1.3. Bounded Context Canvases
+
+  Con el objetivo de documentar el funcionamiento de los bounded context de nuestra solución, se desarrollaron dos modelos, uno para cada bounded context. Estos describen los mensajes que intercambian, el tipo de mensaje y el mensaje ubicuo que emplean.
+
+  - **Reconocimiento Facial Context**
+
+  <img src="img/facial-canvas.png">
+
+  <br/>
+
+  - **Gestión de Perfiles Context**
+
+  <img src="img/perfil-canvas.png">
+
+  <br/>
+
 ### 4.1.2. Context Mapping
+
+  Para cumplir con los objetivos planteados de nuestro sistema, la Gestión de perfiles solicita información al Reconocimiento Facial para poder administrar la cara del usuario registrado, permitiendo una colaboración efectiva entre estos dos bounded context.
+
+  <img src="img/context-mapping.png">
+
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. System Landscape Diagram
+
+  Este diagrama ofrece una visión general de la arquitectura del sistema, mostrando cómo interactúan sus componentes, módulos y sistemas relacionados. Es una herramienta fundamental para entender la estructura y las conexiones principales sin entrar en detalles técnicos profundos.
+
+  <br/>
+
+  <img src="img/C4-landscape.png">
+
+  <br/>
+
 #### 4.1.3.2. Context Level Diagrams
+
+  Este apartado se enfoca en la presentación del diagrama de contexto del software, el cual permite identificar el sistema y su interacción con el entorno, especialmente con los usuarios. A través de este diagrama, se destacan las principales conexiones y componentes clave dentro de la arquitectura general.
+
+  <img src="img/C4-Context.png">
+
+  <br/>
+
 #### 4.1.3.3. Container Level Diagrams
+
+  Este diagrama de contenedores representa la arquitectura de Protectify, donde se identifican distintos contenedores asociados a nuestros bounded context, así como una base de datos y una API. También se muestra la interacción entre ellos y su conexión con sistemas externos.
+
+  <img src="img/C4-Container.png">
+
+  <br/>
+
 #### 4.1.3.4. Deployment Diagrams
+
+  Este diagrama muestra cómo los componentes del sistema se despliegan en el hardware, facilitando la planificación, optimización y gestión de sistemas de software complejos.
+
+  <img src="img/deplyoment-diagram.png">
+
+  <br/>
+
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Component Level Diagrams
-#### 4.2.X.6. Code Level Diagrams
-##### 4.2.X.6.1. Class Diagrams
-##### 4.2.X.6.2. Database Design Diagram
+
+Se analizará el enfoque táctico del diseño de software aplicando los principios del Domain-Driven Design (DDD), tomando como base los bounded contexts que fueron establecidos con anterioridad.
+
+### 4.2.1. Bounded Context: Perfíl
+
+En el siguiente apartado, se expondrán las clases que han sido definidas para el Perfil Context, abordando las diversas capas que comprenden el dominio, la interfaz, la aplicación y la infraestructura. Además, se incluirán los diagramas de componentes y el código correspondiente para ofrecer una visión integral de la implementación.
+
+#### 4.2.1.1. Domain Layer
+
+Se identificaron los aggregates , root y value object para el bounded context de Perfil.
+
+<img src="img/domain_layer_context_perfil.png" alt="Domain Layer Context Perfil" >
+
+#### 4.2.1.2. Interface Layer
+
+Especificamos el controlador para el bounded context de Perfil.
+
+<img src="img/interface_layer_context_perfil.png" alt="Interface Layer Context Perfil" >
+
+#### 4.2.1.3. Application Layer
+
+<img src="img/application_layer_context_perfil.png" alt="Application Layer Context Perfil" >
+
+#### 4.2.1.4. Infrastructure Layer
+
+Aquí, gestionamos la persistencia de datos, la comunicación con servicios externos y la infraestructura subyacente que sostiene nuestra aplicación para el bounded context de Perfil.
+
+<img src="img/infrastructure_layer_context_perfil.png" alt="Infrastructure Layer Context Perfil" >
+
+#### 4.2.1.5. Component Level Diagrams
+
+<img src="img/bounded_context_software_architecture_component_perfil.png" alt="Component Context Perfil" >
+
+#### 4.2.1.6. Code Level Diagrams
+##### 4.2.1.6.1. Class Diagrams
+
+<img src="img/bounded_context_software_architecture_code_level _diagrams.png" alt="Class Context Perfil" >
+
+
+##### 4.2.1.6.2. Database Design Diagram
+
+### 4.2.2. Bounded Context: Reconocimiento
+
+En el siguiente apartado, se expondrán las clases que han sido definidas para el Reconocimiento Context, abordando las diversas capas que comprenden el dominio, la interfaz, la aplicación y la infraestructura. Además, se incluirán los diagramas de componentes y el código correspondiente para ofrecer una visión integral de la implementación.
+
+#### 4.2.2.1. Domain Layer
+
+Se identificaron los aggregates , root y value object para el bounded context de Perfiles.
+
+<img src="img/domain_layer_context_reconcimiento.png" alt="Domain Layer Context Reconocimiento" >
+
+#### 4.2.2.2. Interface Layer
+
+Identificamos el controlador dentro del sistema encargado de operar y gestionar el bounded context de Reconocimiento Facial.
+
+<img src="img/interface_layer_context_reconocimiento.png" alt="Interface Layer Context Reconocimiento" >
+
+#### 4.2.2.3. Application Layer
+
+<img src="img/application_layer_context_reconocimiento.png" alt="Application Layer Context Reconocimiento" >
+
+#### 4.2.2.4. Infrastructure Layer
+
+Aquí, gestionamos la persistencia de datos, la comunicación con servicios externos y la infraestructura subyacente que sostiene nuestra aplicación para el bounded context de Reconocimiento Facial.
+
+<img src="img/infrastructure_layer_context_reconocimiento.png" alt="Infrastructure Layer Context Reconocimiento" >
+
+#### 4.2.2.5. Component Level Diagrams
+
+<img src="img/bounded_context_software_architecture_component_reconocimiento.png" alt="Component Context Reconocimiento" >
+
+#### 4.2.2.6. Code Level Diagrams
+##### 4.2.2.6.1. Class Diagrams
+
+<img src="img/bounded_context_software_architecture_code_level _diagrams_reconocimiento.png" alt="Class Context Perfil" >
+
+##### 4.2.2.6.2. Database Design Diagram
+
+<img src="img/Reconocimiento-bd.png" alt="Reconocimiento BD" >
+
 
 
 
