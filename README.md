@@ -355,6 +355,8 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 
 ##### 4.2.1.6.2. Database Design Diagram
 
+<img src="img/Database Design Diagram.jpeg">
+
 ### 4.2.2. Bounded Context: Reconocimiento
 
 En el siguiente apartado, se expondrán las clases que han sido definidas para el Reconocimiento Context, abordando las diversas capas que comprenden el dominio, la interfaz, la aplicación y la infraestructura. Además, se incluirán los diagramas de componentes y el código correspondiente para ofrecer una visión integral de la implementación.
