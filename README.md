@@ -7,7 +7,7 @@
   <p><strong>Carrera:</strong> Ingenieria de Software</p>
   <p><strong>Ciclo:</strong> 2025 - 1</p>
   <p><strong>Curso:</strong> Desarrollo de Soluciones IOT</p>
-  <p><strong>Sección:</strong> 1ASI0572</p>
+  <p><strong>Sección:</strong> 15260</p>
   <p><strong>Profesor:</strong> David Carlos Vera</p>
   <p><strong>"Informe de Trabajo Final"</strong></p>
   <p><strong>Startup:</strong> SafeTech Solutions</p>
@@ -112,6 +112,18 @@
 **Link del Repositorio**: [Protectify](https://github.com/UPC-Iot)
 
 # Project Report Collaboration Insights
+
+En el entregable de la TB1, cada uno de los participantes desarrollo los siguientes puntos:
+
+- Dam Rubianes, Frida Sofia: Capítulo I Introducción
+- Adrianzen Flores, Carlos Arturo: Capítulo II Requirements Elicitation & Analysis
+- Ortiz Fajardo, Tomás: Capítulo II Requirements Elicitation & Analysis
+- Matos Fernandez, Christian Andre: Capítulo III Requirements Specification & Capítulo IV: Solution Software Design
+- Ramos Ramirez, Renzo Manuel: Capítulo IV Solution Software Design
+
+<img src="img/collaboration_insight_tb1.png" alt="Collaboration TB1" >
+
+<img src="img/collaboration_tb1.png" alt="User Persona" >
 
 # Tabla de Contenido
 
