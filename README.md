@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <td><strong>4.0</strong></td>
-      <td>24 de abril de 2025</td>
+      <td>26 de abril de 2025</td>
       <td>
         <ul>
           <li>Ramos Ramirez, Renzo Manuel</li>
