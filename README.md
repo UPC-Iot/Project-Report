@@ -392,6 +392,8 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 
 ##### 4.2.2.6.2. Database Design Diagram
 
+<img src="img/Reconocimiento-bd.png" alt="Reconocimiento BD" >
+
 
 
 
