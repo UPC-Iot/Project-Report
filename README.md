@@ -1227,6 +1227,20 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 
 ## 5.1. Style Guidelines
 ### 5.1.1. General Style Guidelines
+
+Paleta de colores:
+![COLORES IOT](https://github.com/user-attachments/assets/5d2d70ac-0b00-4558-b873-1057fdf61e4e)
+
+| Uso                      | Color          | Código HEX | 
+| ------------------------ | -------------- | ---------- |
+| **Fondo principal**      | Gris claro | `#E6E8E6`  |
+| **Color de marca**       | Rojo oscuro            | `#862009`  | 
+| **Texto principal**      | Negro puro      | `#000000`  |
+| **Texto secundario**     | Gris oscuro    | `#26272C`  |
+| **Texto de contraste**     | Blanco puro    | `#FFFFFF`  |
+| **Fondo de tarjetas/ secciones**    | Rojo claro    | `#BF4D36`  |        
+| **Botones**          | Rojo oscuro    | `#862009`  |
+
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
 
 ## 5.2. Information Architecture
