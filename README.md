@@ -1242,7 +1242,9 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 | **Botones**          | Rojo oscuro    | `#862009`  |
 
 **Tipografia:** 
+
 ![image](https://github.com/user-attachments/assets/8799b432-cc6f-46cb-a7e5-ce1c430eeadf)
+
 ![image](https://github.com/user-attachments/assets/fc53d8fd-a076-4938-8f02-50cd68832047)
 
 **Espaciado**
@@ -1252,9 +1254,38 @@ Tamaño de letra: 16px
 
 Interlineado: 24px
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
-Nuestra página web ha sido diseñada para brindar una experiencia fluida y accesible en cualquier tipo de dispositivo que utilices. También adoptamos un diseño basado en el patrón en Z, que orienta naturalmente la vista del usuario hacia los elementos más relevantes, facilitando la comprensión inmediata del contenido clave sin esfuerzo.
+## Web: 
 
-Sabemos que la comodidad y la usabilidad son esenciales para una buena experiencia de navegación y lectura. Por ello, nos hemos enfocado en ofrecer un entorno visualmente atractivo, pero también práctico y optimizado. Nuestro objetivo es que cada usuario se sienta cómodo, valorado y completamente satisfecho al interactuar con nuestra plataforma.
+### Visuales
+- **Diseño adaptable (Responsive):** Uso de `media queries` para distintos tamaños de pantalla.
+- **Jerarquía visual clara:** Tipografía escalable (`rem`, `em`) y estructura visual consistente.
+- **Espaciado y márgenes fluidos:** Uso de `flexbox` o `grid` para mantener armonía visual.
+- **Paleta de colores accesible:** Alto contraste siguiendo las normas WCAG.
+- **Componentes reutilizables:** Botones, formularios y tarjetas con estilos uniformes.
+
+### Interacción
+- **Hover states visibles:** Cambios de color, sombra o escala al pasar el mouse.
+- **Navegación adaptable:** Menú fijo o hamburguesa según el tamaño de pantalla.
+- **Feedback inmediato:** Mensajes visuales de éxito o error en formularios y acciones.
+- **Transiciones suaves:** Animaciones `ease-in-out` de menos de 300ms.
+- **Scroll intuitivo:** Anclaje de secciones y navegación vertical fluida.
+
+---
+
+## Aplicacion Móvil
+
+### Visuales
+- **Diseño nativo o híbrido:** Siguiendo Material Design (Android) o Human Interface Guidelines (iOS).
+- **Tamaño de toque adecuado:** Botones de al menos `48x48dp`.
+- **Tipografía legible:** Textos grandes, espaciados y fácilmente legibles.
+- **Colores accesibles:** Uso estratégico para priorizar información.
+- **Íconos consistentes:** Estilo minimalista, coherente con las acciones.
+
+### Interacción
+- **Gestos táctiles naturales:** Swipe, tap, long press según convención de la plataforma.
+- **Animaciones de navegación:** Transiciones suaves entre pantallas (fade, slide).
+- **Carga progresiva o perezosa:** Optimización de contenido visible y rendimiento.
+- **Notificaciones no invasivas:** Claras, breves y contextuales.
 
 ## 5.2. Information Architecture
 ### 5.2.1. Organization Systems
