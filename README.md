@@ -1228,7 +1228,7 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 ## 5.1. Style Guidelines
 ### 5.1.1. General Style Guidelines
 
-Paleta de colores:
+**Paleta de colores:**
 ![COLORES IOT](https://github.com/user-attachments/assets/5d2d70ac-0b00-4558-b873-1057fdf61e4e)
 
 | Uso                      | Color          | Código HEX | 
@@ -1241,7 +1241,20 @@ Paleta de colores:
 | **Fondo de tarjetas/ secciones**    | Rojo claro    | `#BF4D36`  |        
 | **Botones**          | Rojo oscuro    | `#862009`  |
 
+**Tipografia:** 
+![image](https://github.com/user-attachments/assets/8799b432-cc6f-46cb-a7e5-ce1c430eeadf)
+![image](https://github.com/user-attachments/assets/fc53d8fd-a076-4938-8f02-50cd68832047)
+
+**Espaciado**
+Siguiendo las recomendaciones de especialistas en diseño de interfaces, se aconseja que el interlineado de los párrafos sea 1.5 veces el tamaño del texto, lo que facilita la lectura al crear una separación adecuada entre las líneas.
+
+Tamaño de letra: 16px
+
+Interlineado: 24px
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
+Nuestra página web ha sido diseñada para brindar una experiencia fluida y accesible en cualquier tipo de dispositivo que utilices. También adoptamos un diseño basado en el patrón en Z, que orienta naturalmente la vista del usuario hacia los elementos más relevantes, facilitando la comprensión inmediata del contenido clave sin esfuerzo.
+
+Sabemos que la comodidad y la usabilidad son esenciales para una buena experiencia de navegación y lectura. Por ello, nos hemos enfocado en ofrecer un entorno visualmente atractivo, pero también práctico y optimizado. Nuestro objetivo es que cada usuario se sienta cómodo, valorado y completamente satisfecho al interactuar con nuestra plataforma.
 
 ## 5.2. Information Architecture
 ### 5.2.1. Organization Systems
