@@ -1228,6 +1228,14 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 ## 5.1. Style Guidelines
 ### 5.1.1. General Style Guidelines
 
+**Logo:**
+Estilo minimalista con los colores rojo, gris y negro.
+
+El logo contiene la silueta de una camara en color rojo, con un circulo color gris a su alrededor y el fondo negro.
+
+<img width="246" alt="logo iot" src="https://github.com/user-attachments/assets/35f1bbe0-e06e-433c-b3d6-7eac5d6e0b4a" />
+
+
 **Paleta de colores:**
 ![COLORES IOT](https://github.com/user-attachments/assets/5d2d70ac-0b00-4558-b873-1057fdf61e4e)
 
@@ -1253,17 +1261,31 @@ Siguiendo las recomendaciones de especialistas en diseño de interfaces, se acon
 Tamaño de letra: 16px
 
 Interlineado: 24px
+
+## Tono y Lenguaje
+
+La comunicación de la marca debe reflejar un equilibrio entre profesionalismo y cercanía. Se ha definido el tono como:
+
+- **Serio pero accesible**
+- **Formal con toques de cercanía**
+- **Respetuoso y confiable**
+- **Sereno y profesional**
+
+  
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
+Esta sección describe los principios visuales y de interacción que guían el diseño de las interfaces en nuestras plataformas digitales. Se establecen lineamientos específicos para asegurar una experiencia coherente, intuitiva y accesible en todos los entornos: desde sitios web responsivos hasta aplicaciones móviles y dispositivos IoT.
+
+El objetivo es mantener una identidad visual unificada y una usabilidad óptima sin importar el tipo de dispositivo, adaptando cada interfaz a sus características particulares, capacidades técnicas y contexto de uso. Las decisiones aquí descritas permiten garantizar que cada punto de contacto con el usuario refleje los valores de la marca, priorizando la claridad, la eficiencia y la confianza.
 ## Web: 
 
-### Visuales
+### Estándares de Visuales
 - **Diseño adaptable (Responsive):** Uso de `media queries` para distintos tamaños de pantalla.
 - **Jerarquía visual clara:** Tipografía escalable (`rem`, `em`) y estructura visual consistente.
 - **Espaciado y márgenes fluidos:** Uso de `flexbox` o `grid` para mantener armonía visual.
 - **Paleta de colores accesible:** Alto contraste siguiendo las normas WCAG.
 - **Componentes reutilizables:** Botones, formularios y tarjetas con estilos uniformes.
 
-### Interacción
+### Estándares de Interacción
 - **Hover states visibles:** Cambios de color, sombra o escala al pasar el mouse.
 - **Navegación adaptable:** Menú fijo o hamburguesa según el tamaño de pantalla.
 - **Feedback inmediato:** Mensajes visuales de éxito o error en formularios y acciones.
@@ -1274,19 +1296,39 @@ Interlineado: 24px
 
 ## Aplicacion Móvil
 
-### Visuales
+### Estándares de Visuales
 - **Diseño nativo o híbrido:** Siguiendo Material Design (Android) o Human Interface Guidelines (iOS).
 - **Tamaño de toque adecuado:** Botones de al menos `48x48dp`.
 - **Tipografía legible:** Textos grandes, espaciados y fácilmente legibles.
 - **Colores accesibles:** Uso estratégico para priorizar información.
 - **Íconos consistentes:** Estilo minimalista, coherente con las acciones.
 
-### Interacción
+### Estándares de Interacción
 - **Gestos táctiles naturales:** Swipe, tap, long press según convención de la plataforma.
 - **Animaciones de navegación:** Transiciones suaves entre pantallas (fade, slide).
 - **Carga progresiva o perezosa:** Optimización de contenido visible y rendimiento.
 - **Notificaciones no invasivas:** Claras, breves y contextuales.
 
+---
+
+## IoT Application User Interface
+
+En las interfaces de usuario para aplicaciones IoT, se prioriza la **claridad visual**, la **respuesta rápida** y la **adaptación al entorno físico** en el que el dispositivo opera. Estas interfaces suelen estar presentes en dispositivos con pantallas pequeñas, controles táctiles limitados o interacción mínima.
+
+### Estándares Visuales
+
+- **Diseño minimalista:** Se eliminan elementos innecesarios para mantener la interfaz clara y fácil de usar.
+- **Colores funcionales:** Uso de colores altamente contrastantes para indicar estados.
+- **Tipografía legible:** Letras grandes y gruesas, fácilmente visibles a distancia o en condiciones de poca luz.
+- **Iconografía universal:** Uso de íconos simples e intuitivos.
+
+### Estándares de Interacción
+
+- **Interacción simple y directa:** Preferencia por botones físicos o virtuales grandes y claramente etiquetados.
+- **Retroalimentación inmediata:** Luces LED, sonidos o vibraciones que confirmen acciones.
+- **Automatización de tareas comunes:** Reducción de la intervención del usuario mediante flujos automáticos.
+- **Tiempo de respuesta bajo:** Las acciones deben ejecutarse casi en tiempo real para no generar desconfianza.
+  
 ## 5.2. Information Architecture
 ### 5.2.1. Organization Systems
 ### 5.2.2. Labeling Systems
