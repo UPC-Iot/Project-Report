@@ -1368,6 +1368,16 @@ En las interfaces de usuario para aplicaciones IoT, se prioriza la **claridad vi
 
 ### 5.2.1. Organization Systems
 
+Protectify organiza su contenido en dos niveles principales: una **landing page** accesible por navegador y una **aplicación móvil** como canal exclusivo de interacción funcional. La organización visual del contenido responde a principios jerárquicos, secuenciales y temáticos según el contexto de uso.
+
+- En la landing page, el contenido sigue un enfoque jerárquico que guía al visitante desde la propuesta de valor central (*Inicio*) hacia las secciones de *Sobre Nosotros*, *Servicios*, *Funcionamiento del sistema*, *Testimonios* y *Contacto*.
+
+- En la aplicación móvil, el usuario accede a funcionalidades organizadas en cinco secciones principales: *Inicio*, *Eventos*, *Personas Detectadas*, *Alertas* y *Configuración*. Cada una de estas contiene acciones específicas relacionadas a la seguridad del hogar inteligente.
+
+A continuación, se presenta el flujo general de navegación dentro de la app móvil:
+
+<img src="img/orgSystems.png">
+
 ### 5.2.2. Labeling Systems
 
 Dentro del encabezado principal de la landing page de Protectify se encuentran las etiquetas que organizan las secciones informativas clave del sitio. Estas etiquetas permiten a los usuarios acceder de manera rápida y directa al contenido más relevante sobre la propuesta de valor de la plataforma.
