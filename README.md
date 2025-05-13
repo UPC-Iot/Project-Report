@@ -1455,6 +1455,9 @@ La navegación de la landing page de Protectify ha sido diseñada para ofrecer u
 
 ### 5.4.2. Applications Wireflow Diagrams
 <img src="img/Wireflow_Full.jpeg">
+<img src="img/Wireflow_1.jpeg">
+<img src="img/Wireflow_2.jpeg">
+<img src="img/Wireflow_3.jpeg">
 
 ### 5.4.2. Applications Mock-ups
 
