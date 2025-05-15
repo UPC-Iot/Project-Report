@@ -1453,6 +1453,22 @@ La navegación de la landing page de Protectify ha sido diseñada para ofrecer u
 
 ### 5.4.1. Applications Wireframes
 
+<img src="img/Onboarding-1.png">
+<img src="img/Onboarding-1 (1).png">
+<img src="img/Sign-In.png">
+<img src="img/Sign-Up.png">
+<img src="img/Home.png">
+<img src="img/Facial List.png">
+<img src="img/Member Facial Register.png">
+<img src="img/Member Scane.png">
+<img src="img/Member Added.png">
+<img src="img/Cameras List.png">
+<img src="img/Camera Register.png">
+<img src="img/Camera Register (1).png">
+<img src="img/Edit Profile.png">
+
+
+
 ### 5.4.2. Applications Wireflow Diagrams
 <img src="img/Wireflow_Full.jpeg">
 <img src="img/Wireflow_1.jpeg">
@@ -1461,7 +1477,32 @@ La navegación de la landing page de Protectify ha sido diseñada para ofrecer u
 
 ### 5.4.2. Applications Mock-ups
 
+<img src="img/Mock-up OnBoarding.png">
+<img src="img/Mock-up OnBoarding 2.png">
+<img src="img/Mock-up Sing in.png">
+<img src="img/Mock-up Home.png">
+<img src="img/Mock-up Sign-Up.png">
+<img src="img/Mock-up Sign-Up Scane.png">
+<img src="img/Mock-up Sign-Up Scane Face Completed.png">
+<img src="img/Mock-up Sign-Up Completed.png">
+<img src="img/Mock-up Facial List.png">
+<img src="img/Mock-up Member Facial Register.png">
+<img src="img/Mock-up Register member.png">
+<img src="img/Mock-up Member Scane.png">
+<img src="img/Mock-up Member Added.png">
+<img src="img/Mock-up Cameras List.png">
+<img src="img/Mock-up Camera Register.png">
+<img src="img/Mock-up Camera Register (1).png">
+<img src="img/Mock-up Edit Profile.png">
+
+
 ### 5.4.3. Applications User Flow Diagrams
+
+<img src="img/UserFlow 1.png">
+<img src="img/UserFlow 2.png">
+<img src="img/UserFlow 3.png">
+<img src="img/UserFlow 4.png">
+<img src="img/UserFlow 5.png">
 
 ## 5.5. Applications Prototyping
 
