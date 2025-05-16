@@ -1252,8 +1252,96 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 
 ## 6.1. Software Configuration Management
 ### 6.1.1. Software Development Environment Configuration
+
+Diseño UX/UI del Producto
+
+Para el diseño de experiencia de usuario (UX), empleamos la herramienta UXPressia, donde desarrollamos elementos como User Persona, Empathy Mapping e Impact Mapping, entre otros. Esto nos permitió estructurar de manera adecuada los modelos de experiencia de usuario y comprender mejor las necesidades de nuestros segmentos objetivo. Además, los prototipos de la aplicación móvil fueron elaborados en Figma, lo que facilitó la creación de wireframes y mock-ups como referencia visual previa al desarrollo.
+
+Desarrollo de Software
+
+En cuanto a los entornos de desarrollo, optamos principalmente por WebStorm e IntelliJ IDEA, herramientas de JetBrains con las que tenemos mayor experiencia. Para la implementación, utilizamos tecnologías previamente aprendidas: HTML y CSS para la landing page, Java para el backend, JavaScript para el frontend web y Dart para la aplicación móvil.
+
+Pruebas de Software
+
+La realización de pruebas de aceptación es fundamental para validar que los criterios definidos realmente satisfacen las necesidades del negocio y cumplen con los requisitos establecidos. Para ello, empleamos el lenguaje Gherkin, que permite describir escenarios de prueba utilizando la estructura Given-When-Then. Este enfoque facilita la identificación de variables de entrada y salida, y resulta accesible para todos los miembros del equipo gracias a su sintaxis en lenguaje natural. De esta manera, se contribuye a asegurar la calidad del software, haciendo que las pruebas sean una parte esencial del proceso de desarrollo.
+
 ### 6.1.2. Source Code Management
+
+Usuarios de GitHub
+
+| Integrante                               | Usuario de GitHub      |
+|------------------------------------------|-------------|
+| Adrianzen Flores, Carlos Arturo          | choliwys  |
+| Dam Rubianes, Frida Sofia                | Frida-Dam  |
+| Matos Fernandez, Christian Andre         | FerKlox  |
+| Ortiz Fajardo, Tomás                     | U201910146  |
+| Ramos Ramirez, Renzo Manuel              | RenzoRamos07  |
+
+URL de la organización en GitHub: https://github.com/UPC-Iot
+
+
+Para gestionar el control de versiones durante el desarrollo, se empleará la metodología GitFlow. Este modelo organiza el trabajo en diferentes ramas, cada una con una función específica. Las ramas que se utilizarán son: Feature, Develop, Release y Main.
+
+
 ### 6.1.3. Source Code Style Guide & Conventions
+
+# Guía de Estilos y Convenciones por Lenguaje
+
+Durante el desarrollo del proyecto, se aplicarán diferentes lenguajes para la creación de la **Landing Page**, el **Frontend Web** y la **Aplicación Móvil**. A continuación, se describen las buenas prácticas y convenciones a seguir en cada uno.
+
+
+🟠 **HTML**
+
+HTML se usa para estructurar el contenido de una página web, permitiendo integrar elementos como texto, imágenes, formularios, entre otros.
+
+**Buenas prácticas:**
+- Iniciar siempre con `<!DOCTYPE html>`.
+- Seguir la estructura estándar: `<html>`, `<head>`, `<body>`.
+- Declarar el título de la página dentro de `<head>` usando `<title>`.
+- Mantener una indentación clara y uniforme.
+- Cerrar todas las etiquetas que lo requieran (como `<div>`, `<p>`, etc.).
+- Incluir el atributo `alt` en las imágenes para accesibilidad.
+
+🔵 **CSS**
+
+CSS se encarga de definir el aspecto visual de la web, desde colores hasta la disposición de elementos.
+
+**Buenas prácticas:**
+- Utilizar indentación consistente.
+- Usar nombres cortos y en minúsculas para clases y selectores.
+- Especificar colores en formato hexadecimal (ejemplo: `#024A86`).
+- Comentar los bloques de estilo explicando su finalidad.
+- Diseñar de forma responsive para adaptarse a diferentes dispositivos.
+
+
+🟡 **JavaScript**
+
+JavaScript añade funcionalidad e interactividad a la web, siendo esencial para ejecutar lógica del lado del cliente.
+
+**Buenas prácticas:**
+- Utilizar nombres descriptivos para variables, funciones y clases.
+- Documentar con comentarios cada bloque relevante de código.
+- Finalizar cada línea con `;` por consistencia.
+- Emplear `const` para valores constantes y `let` para variables que pueden cambiar.
+- Usar comparaciones estrictas (`===` y `!==`) para mayor seguridad.
+- Cuando se use TypeScript, definir tipos explícitos para evitar errores en tiempo de compilación.
+
+
+🟢 **Kotlin** (para Mobile App)
+
+Kotlin será el lenguaje utilizado en el desarrollo de la aplicación móvil, ofreciendo una sintaxis moderna, segura y concisa.
+
+**Buenas prácticas:**
+- Usar `UpperCamelCase` para clases y `lowerCamelCase` para variables y funciones.
+- Escoger nombres significativos y breves.
+- Mantener una indentación ordenada para facilitar la lectura del código.
+- Comentar bloques de código complejos o relevantes.
+- Evitar redundancias, aprovechando la sintaxis concisa de Kotlin.
+- Utilizar `val` para variables inmutables y `var` solo cuando sea necesario modificar su valor.
+
+
+
+
 ### 6.1.4. Software Deployment Configuration
 
 ## 6.2. Landing Page, Services & Applications Implementation
