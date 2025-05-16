@@ -1447,7 +1447,7 @@ La navegación de la landing page de Protectify ha sido diseñada para ofrecer u
 
 ### 5.3.1. Landing Page Wireframe
 
-A continuación, presentaremos nuestro landing page diseñado para presentarse en web browser. Este se encuentra dividido en secciones de forma que sea claro para el usuario encontrar la información que busca. De la misma forma, se incluye una cabecera que guía a las secciones inferiores dependiendo del aspecto que se desea conocer. En la primera sección, además, se inclya la opción de solicitar un demo y el eslogan de nuestro proyecto. De esta manera, el usuario se sentirá más atraído y motivado a probar nuestro producto. A su vez, el diseño en los wireframes buscamos plantear una estructura orientada a proveer al usuario con la mayor información posible sin sobrecargar las pantallas.
+A continuación se presentan los wireframes que muestran la estructura básica de la landing page sin tener cuenta elementos de diseño más complejos, como colores, imágenes. Este sirve para definir la estructura del contenido.
 
 ![Wireframe 1](img/Wireframes/LP_1.jpg)
 
