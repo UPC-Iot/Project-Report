@@ -1447,7 +1447,28 @@ La navegación de la landing page de Protectify ha sido diseñada para ofrecer u
 
 ### 5.3.1. Landing Page Wireframe
 
+A continuación, presentaremos nuestro landing page diseñado para presentarse en web browser. Este se encuentra dividido en secciones de forma que sea claro para el usuario encontrar la información que busca. De la misma forma, se incluye una cabecera que guía a las secciones inferiores dependiendo del aspecto que se desea conocer. En la primera sección, además, se inclya la opción de solicitar un demo y el eslogan de nuestro proyecto. De esta manera, el usuario se sentirá más atraído y motivado a probar nuestro producto. A su vez, el diseño en los wireframes buscamos plantear una estructura orientada a proveer al usuario con la mayor información posible sin sobrecargar las pantallas.
+
+![Wireframe 1](img/Wireframes/LP_1.jpg)
+
+![Wireframe 2](img/Wireframes/LP2.jpg)
+
+![Wireframe 3](img/Wireframes/LP3.jpg)
+
+link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Application-Flow-Diagram---WIP--Community-?node-id=103-427&t=sBzsNCsWwDYkDGSv-1
+
 ### 5.3.2. Landing Page Mock-up
+
+Continuando con nuestra landing page, mostraremos el mockup que hemos elaborado. Este ya incluye los colores y textos que mostraremos al usuario. Se conserva la estructura ordenada y se respetan los títulos y opciones de navegación anteriormente considerados.
+
+![Wireframe 1](img/Mockups/M1.jpg)
+
+![Wireframe 2](img/Mockups/M2.jpg)
+
+
+![Wireframe 3](img/Mockups/M3.jpg)
+
+link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Application-Flow-Diagram---WIP--Community-?node-id=103-427&t=sBzsNCsWwDYkDGSv-1
 
 ## 5.4. Applications UX/UI Design
 
