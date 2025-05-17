@@ -1339,21 +1339,93 @@ Kotlin será el lenguaje utilizado en el desarrollo de la aplicación móvil, of
 - Evitar redundancias, aprovechando la sintaxis concisa de Kotlin.
 - Utilizar `val` para variables inmutables y `var` solo cuando sea necesario modificar su valor.
 
-
-
-
 ### 6.1.4. Software Deployment Configuration
+
+Para la configuración del despliegue de la aplicación, se empleará Git como sistema de control de versiones distribuido, ampliamente adoptado en el desarrollo de software. Esta herramienta resulta fundamental para el trabajo colaborativo, ya que permite registrar y gestionar los cambios realizados por cada integrante del equipo. Entre sus principales ventajas destaca la capacidad de rastrear el historial de modificaciones en los archivos del proyecto, así como la posibilidad de crear y fusionar ramas, facilitando que varios desarrolladores trabajen en paralelo sin conflictos.
+
+Además, se utilizará GitHub como plataforma para alojar los repositorios de Git. GitHub es una de las plataformas más populares a nivel global, permitiendo gestionar repositorios tanto públicos como privados y almacenar el código en la nube. También ofrece acceso al historial completo de versiones, lo que posibilita volver a estados anteriores del proyecto si es necesario. Entre sus funcionalidades más útiles se encuentran los pull requests, que permiten solicitar revisiones y fusionar ramas de manera controlada.
+
+Para el despliegue de la Landing Page, se aprovechará GitHub Pages, un servicio gratuito de GitHub para alojar sitios web estáticos directamente desde un repositorio, simplificando la publicación sin preocuparse por la infraestructura de hosting.
+
+El Backend se desplegará en Railway, una plataforma que facilita el alojamiento de aplicaciones web y APIs en la nube, eliminando la necesidad de gestionar la infraestructura subyacente. Por último, para la aplicación web se utilizará Netlify, una solución moderna para el despliegue y alojamiento de aplicaciones web, que ofrece integración continua y escalabilidad automática.
 
 ## 6.2. Landing Page, Services & Applications Implementation
 ### 6.2.1. Sprint 1
-#### 6.2.1.1. Sprint Planning n
+#### 6.2.1.1. Sprint Planning 1
+
+El primer sprint fue organizado mediante una reunión presencial. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
+
+| **Sprint #**                        | **Sprint 1** |
+|-------------------------------------|-------------- |
+| **Sprint Planning Background**      |               |
+| **Date**                            | 2025-05-03    |
+| **Time**                            | 01:00 PM      |
+| **Location**                        | Virutal       |
+| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
+| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 1 Review Summary**      | No hubo sprint anterior |
+| **Sprint n - 1 Retrospective Summary** | No hubo sprint anterior |
+| **Sprint Goal & User Stories**        |              |
+| **Sprint 1 Goal**                     | Desarrollar la landing page, el frontend web, backend de la aplicación; asimismo, desplegar la landing page |
+| **Sprint 1 Velocity**                 | 15           |
+| **Sum of Story Points**               | 15           |
+
 #### 6.2.1.2. Aspect Leaders and Collaborators
-#### 6.2.1.3. Sprint Backlog n
+
+A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de Landing Page.
+
+| Integrantes                     | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de Landing Page |
+|---------------------------------|-----------------------|----------------------|---------------------------|----------------------------|
+| Adrianzen Flores, Carlos Arturo | choliwys              | -                    | C                         | -                          |
+| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                    | L                         | -                          |
+| Matos Fernandez, Christian Andre| FerKlox               | -                    | C                         | -                          |
+| Ortiz Fajardo, Tomás            | U201910146            | -                    | C                         | -                          |
+| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | -                    | C                         | L                          |
+
+#### 6.2.1.3. Sprint Backlog 1
+
+
+
 #### 6.2.1.4. Development Evidence for Sprint Review
+
+Para esta entrega, se realizo la landing page
+
+| Repository   | Branch | Commit Id                             | Commit Message            | Commit Message Body | Committed on (Date) |
+|--------------|--------|----------------------------------------|---------------------------|---------------------|---------------------|
+| landing-page | main   | 483a1787b3a277dfded660629ec80dadc4b6a334 | feature: Landing page v1   | none                | 08/05/2025          |
+| landing-page | main   | adb2204318a0d4ffff62ec03030993fbaa06d55b | feature: meta tags added   | none                | 08/05/2025          |
+
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
+
+No se realizo testing para esta entrega
+
 #### 6.2.1.6. Execution Evidence for Sprint Review
+
+Se ha desarrollado la landing page:
+
+<img src="img/inicio_landing.png" alt="Landing Page" >
+<img src="img/sobre-nostros_landing.png" alt="Landing Page" >
+<img src="img/servicios_landing.png" alt="Landing Page" >
+<img src="img/funcionamiento_landing.png" alt="Landing Page" >
+<img src="img/testimonios_landing.png" alt="Landing Page" >
+
+
 #### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+No se realizo servicios para esta entrega
+
 #### 6.2.1.8. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la landing se utilizó Netlify, una plataforma moderna que permite alojar y publicar sitios web estáticos de manera rápida y sencilla. Netlify facilita la integración continua y el despliegue automático desde el repositorio, lo que la convierte en una opción ideal para proyectos como landings, ofreciendo además escalabilidad y facilidad de administración.
+
+Link de la Url: https://protectifyproject.netlify.app
+
+<img src="img/inicio_landing.png" alt="Landing Page" >
+<img src="img/sobre-nostros_landing.png" alt="Landing Page" >
+<img src="img/servicios_landing.png" alt="Landing Page" >
+<img src="img/funcionamiento_landing.png" alt="Landing Page" >
+<img src="img/testimonios_landing.png" alt="Landing Page" >
+
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
 
