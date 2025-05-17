@@ -140,9 +140,21 @@ En el entregable de la TB1, cada uno de los participantes desarrollo los siguien
 - Matos Fernandez, Christian Andre: Capítulo III Requirements Specification & Capítulo IV: Solution Software Design
 - Ramos Ramirez, Renzo Manuel: Capítulo IV Solution Software Design
 
-<img src="img/collaboration_insight_tb1.png" alt="Collaboration TB1" >
+<img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" >
 
 <img src="img/collaboration_tb1.png" alt="User Persona" >
+
+En el entregable de la TP1, cada uno de los participantes desarrollo los siguientes puntos:
+
+- Dam Rubianes, Frida Sofia: Capítulo V: Solution UI/UX Design
+- Adrianzen Flores, Carlos Arturo: Capítulo V: Solution UI/UX Design
+- Ortiz Fajardo, Tomás: Capítulo V: Solution UI/UX Design
+- Matos Fernandez, Christian Andre: Capítulo V: Solution UI/UX Design & Capítulo VI: Product Implementation, Validation & Deployment
+- Ramos Ramirez, Renzo Manuel: Capítulo V: Solution UI/UX Design
+
+<img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" >
+
+<img src="img/collaboration_tp1.png" alt="Collaboration TP1" >
 
 # Tabla de Contenido
 
