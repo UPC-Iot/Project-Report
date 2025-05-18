@@ -124,6 +124,20 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td><strong>6.0</strong></td>
+      <td>18 de mayo de 2025</td>
+      <td>
+        <ul>
+          <li>Matos Fernandez, Christian Andre</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Correciones</li>
+        </ul>
+      </td>
+    </tr>
     
   </tbody>
 </table>
@@ -132,29 +146,49 @@
 
 # Project Report Collaboration Insights
 
-En el entregable de la TB1, cada uno de los participantes desarrollo los siguientes puntos:
 
-- Dam Rubianes, Frida Sofia: Capítulo I Introducción
-- Adrianzen Flores, Carlos Arturo: Capítulo II Requirements Elicitation & Analysis
-- Ortiz Fajardo, Tomás: Capítulo II Requirements Elicitation & Analysis
-- Matos Fernandez, Christian Andre: Capítulo III Requirements Specification & Capítulo IV: Solution Software Design
-- Ramos Ramirez, Renzo Manuel: Capítulo IV Solution Software Design
+<table>
+  <thead>
+    <tr>
+      <th>Entregables</th>
+      <th>Evidencias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>TB1:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo I: Introducción<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo II: Requirements Elicitation & Analysis<br>
+        • Ortiz Fajardo, Tomás – Capítulo II: Requirements Elicitation & Analysis<br>
+        • Matos Fernandez, Christian Andre – Capítulo III: Requirements Specification<br>
+        • Matos Fernandez, Christian Andre – Capítulo IV: Solution Software Design<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo IV: Solution Software Design
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" width="450"><br><br>
+        <img src="img/collaboration_tb1.png" alt="User Persona TB1" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>TP1:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo V: Solution UI/UX Design<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo V: Solution UI/UX Design<br>
+        • Ortiz Fajardo, Tomás – Capítulo V: Solution UI/UX Design<br>
+        • Matos Fernandez, Christian Andre – Capítulo V: UI/UX Design<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Implementation, Validation & Deployment<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo V: Solution UI/UX Design
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TP1" width="450"><br><br>
+        <img src="img/collaboration_tp1.png" alt="Collaboration TP1" width="450">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" >
 
-<img src="img/collaboration_tb1.png" alt="User Persona" >
-
-En el entregable de la TP1, cada uno de los participantes desarrollo los siguientes puntos:
-
-- Dam Rubianes, Frida Sofia: Capítulo V: Solution UI/UX Design
-- Adrianzen Flores, Carlos Arturo: Capítulo V: Solution UI/UX Design
-- Ortiz Fajardo, Tomás: Capítulo V: Solution UI/UX Design
-- Matos Fernandez, Christian Andre: Capítulo V: Solution UI/UX Design & Capítulo VI: Product Implementation, Validation & Deployment
-- Ramos Ramirez, Renzo Manuel: Capítulo V: Solution UI/UX Design
-
-<img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" >
-
-<img src="img/collaboration_tp1.png" alt="Collaboration TP1" >
 
 # Tabla de Contenido
 
@@ -351,7 +385,7 @@ La visión de SafeTech Solutionses convertirse en un referente latinoamericano e
 
 ## 1.2. Solution Profile
 
-Nuestra propuesta se centra en **Protectify**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de Protectify. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
+Nuestra propuesta es Protectify, un sistema de seguridad doméstica con inteligencia artificial. Usa cámaras de alta resolución para monitorear el hogar y, al detectar movimiento, emplea reconocimiento facial para identificar residentes y visitantes. Si detecta una persona desconocida, envía una alerta al usuario vía app, quien podrá confirmar si es un visitante o un posible intruso. Además, permite crear perfiles personalizados para visitantes frecuentes, facilitando la identificación.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -1527,23 +1561,48 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 
 ### 5.4.1. Applications Wireframes
 
-<img src="img/Onboarding-1.png">
-<img src="img/Onboarding-1 (1).png">
-<img src="img/Sign-In.png">
-<img src="img/Sign-Up.png">
-<img src="img/Home.png">
-<img src="img/Facial List.png">
-<img src="img/Member Facial Register.png">
-<img src="img/Member Scane.png">
-<img src="img/Member Added.png">
-<img src="img/Cameras List.png">
-<img src="img/Camera Register.png">
-<img src="img/Camera Register (1).png">
-<img src="img/Edit Profile.png">
-
-
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Onboarding-1.png" alt="Onboarding 1" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Onboarding-1 (1).png" alt="Onboarding 1 (1)" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Sign-In.png" alt="Sign-In" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Sign-Up.png" alt="Sign-Up" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Home.png" alt="Home" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Facial List.png" alt="Facial List" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Facial Register.png" alt="Member Facial Register" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Scane.png" alt="Member Scane" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Added.png" alt="Member Added" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Cameras List.png" alt="Cameras List" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Camera Register.png" alt="Camera Register" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Camera Register (1).png" alt="Camera Register (1)" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Edit Profile.png" alt="Edit Profile" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
 
 ### 5.4.2. Applications Wireflow Diagrams
+
 <img src="img/Wireflow_Full.jpeg">
 <img src="img/Wireflow_1.jpeg">
 <img src="img/Wireflow_2.jpeg">
@@ -1551,23 +1610,74 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 
 ### 5.4.2. Applications Mock-ups
 
-<img src="img/Mock-up OnBoarding.png">
-<img src="img/Mock-up OnBoarding 2.png">
-<img src="img/Mock-up Sing in.png">
-<img src="img/Mock-up Home.png">
-<img src="img/Mock-up Sign-Up.png">
-<img src="img/Mock-up Sign-Up Scane.png">
-<img src="img/Mock-up Sign-Up Scane Face Completed.png">
-<img src="img/Mock-up Sign-Up Completed.png">
-<img src="img/Mock-up Facial List.png">
-<img src="img/Mock-up Member Facial Register.png">
-<img src="img/Mock-up Register member.png">
-<img src="img/Mock-up Member Scane.png">
-<img src="img/Mock-up Member Added.png">
-<img src="img/Mock-up Cameras List.png">
-<img src="img/Mock-up Camera Register.png">
-<img src="img/Mock-up Camera Register (1).png">
-<img src="img/Mock-up Edit Profile.png">
+- **Mock-up OnBoarding:**  
+  Pantalla de bienvenida que introduce al usuario a Protectify
+  <img src="img/Mock-up OnBoarding.png" alt="Mock-up OnBoarding">
+
+- **Mock-up OnBoarding 2:**  
+  Segunda pantalla del proceso de onboarding, donde se continúa guiando al usuario sobre las características clave y el valor agregado que ofrece la app.  
+  <img src="img/Mock-up OnBoarding 2.png" alt="Mock-up OnBoarding 2">
+
+- **Mock-up Sing in:**  
+  Interfaz de inicio de sesión, permitiendo a los usuarios acceder de forma segura a su cuenta mediante sus credenciales personales.  
+  <img src="img/Mock-up Sing in.png" alt="Mock-up Sing in">
+
+- **Mock-up Sign-Up:**  
+  Formulario de registro para nuevos usuarios, facilitando la creación de una cuenta en Protectify de manera sencilla y rápida.  
+  <img src="img/Mock-up Sign-Up.png" alt="Mock-up Sign-Up">
+
+- **Mock-up Sign-Up Scane:**  
+  Proceso de registro que solicita al usuario realizar un escaneo facial como parte de la autenticación y configuración inicial de seguridad.  
+  <img src="img/Mock-up Sign-Up Scane.png" alt="Mock-up Sign-Up Scane">
+
+- **Mock-up Sign-Up Scane Face Completed:**  
+  Confirmación visual de que el escaneo facial se ha realizado correctamente, permitiendo al usuario continuar con el registro.  
+  <img src="img/Mock-up Sign-Up Scane Face Completed.png" alt="Mock-up Sign-Up Scane Face Completed">
+
+- **Mock-up Sign-Up Completed:**  
+  Pantalla que indica que el proceso de registro ha finalizado exitosamente y el usuario ya puede comenzar a utilizar la aplicación.  
+  <img src="img/Mock-up Sign-Up Completed.png" alt="Mock-up Sign-Up Completed">
+
+
+- **Mock-up Home:**  
+  Pantalla principal de la aplicación, donde el usuario puede visualizar el estado general de su sistema de seguridad y acceder rápidamente a las funciones más importantes.  
+  <img src="img/Mock-up Home.png" alt="Mock-up Home">
+
+- **Mock-up Facial List:**  
+  Muestra la lista de perfiles faciales registrados, permitiendo gestionar y visualizar las personas reconocidas por el sistema.  
+  <img src="img/Mock-up Facial List.png" alt="Mock-up Facial List">
+
+- **Mock-up Member Facial Register:**  
+  Interfaz para registrar un nuevo perfil facial, añadiendo información relevante del miembro para su identificación.  
+  <img src="img/Mock-up Member Facial Register.png" alt="Mock-up Member Facial Register">
+
+- **Mock-up Register member:**  
+  Formulario para agregar un nuevo miembro al sistema, completando los datos necesarios para su registro y posterior reconocimiento.  
+  <img src="img/Mock-up Register member.png" alt="Mock-up Register member">
+
+- **Mock-up Member Scane:**  
+  Pantalla donde se realiza el escaneo facial de un nuevo miembro para su registro en el sistema de seguridad.  
+  <img src="img/Mock-up Member Scane.png" alt="Mock-up Member Scane">
+
+- **Mock-up Member Added:**  
+  Confirmación de que el nuevo miembro ha sido añadido exitosamente a la base de datos de la aplicación.  
+  <img src="img/Mock-up Member Added.png" alt="Mock-up Member Added">
+
+- **Mock-up Cameras List:**  
+  Visualización de la lista de cámaras conectadas, permitiendo al usuario gestionar y monitorear cada dispositivo de seguridad instalado.  
+  <img src="img/Mock-up Cameras List.png" alt="Mock-up Cameras List">
+
+- **Mock-up Camera Register:**  
+  Formulario para registrar una nueva cámara en el sistema, ingresando los datos necesarios para su configuración y activación.  
+  <img src="img/Mock-up Camera Register.png" alt="Mock-up Camera Register">
+
+- **Mock-up Camera Register (1):**  
+  Pantalla de confirmación o detalles adicionales tras registrar una cámara, asegurando que el proceso se haya completado correctamente.  
+  <img src="img/Mock-up Camera Register (1).png" alt="Mock-up Camera Register (1)">
+
+- **Mock-up Edit Profile:**  
+  Interfaz para editar la información del perfil del usuario, permitiendo mantener los datos personales actualizados y personalizados.  
+  <img src="img/Mock-up Edit Profile.png" alt="Mock-up Edit Profile">
 
 
 ### 5.4.3. Applications User Flow Diagrams
@@ -1579,6 +1689,13 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 <img src="img/UserFlow 5.png">
 
 ## 5.5. Applications Prototyping
+
+Hemos realizdo un video sobre la aplicación movíl en figma:
+
+Link de youtube: https://www.youtube.com/watch?v=4RPSa_0qCEs
+
+
+<img src="img/prototyping.png">
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
@@ -1721,6 +1838,12 @@ A continuación se muestra la tabla de roles asignados a los miembros del equipo
 
 #### 6.2.1.3. Sprint Backlog 1
 
+Para este sprint hemos utilizado trello para asignar las tareas a cada miembro:
+
+<img src="img/trello_sprint_1.png" alt="Sprint 1" >
+
+Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
+
 |**Sprint #**|**Sprint 1**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
@@ -1783,5 +1906,7 @@ Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna
 ---
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
+
+Durante el desarrollo de la landing page, el miembro de equipo Renzo Ramos trabajó directamente sobre la rama main, centralizando los cambios y asegurando que cada avance estuviera disponible de inmediato para todos los integrantes.
 
 <img src="img/collboration_landing.png" alt="Landing Page">
