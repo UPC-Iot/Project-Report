@@ -1764,8 +1764,8 @@ A continuación se muestra la tabla de roles asignados a los miembros del equipo
 
 #### 6.2.1.3. Sprint Backlog 2
 
-| ID     | Historia de Usuario                                             | ID      | Historia de Usuario                                                                                                                | Prioridad | Estado     |
-|---------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| ID     | Historia de Usuario                                                                                                                   | Prioridad | Estado     |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
 | US-06   | Como usuario, quiero acceder a la visualización en tiempo real de todas mis cámaras de seguridad para poder monitorear mi hogar.   | Alta      | En progreso |
 | US-07   | Como usuario, quiero recibir notificaciones en tiempo real cuando una persona desconocida sea detectada por las cámaras.           | Alta      | En progreso |
 | US-08   | Como usuario, quiero acceder al historial de eventos para revisar y mantener un registro de detecciones y acciones.                | Alta      | Pendiente  |
