@@ -1722,3 +1722,100 @@ Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna
 ---
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
+
+
+---
+
+### 6.2.2. Sprint 2
+#### 6.2.1.1. Sprint Planning 2
+
+El segundo sprint fue organizado mediante una reunión presencial. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
+
+| **Sprint #**                        | **Sprint 2** |
+|-------------------------------------|--------------|
+| **Sprint Planning Background**      |              |
+| **Date**                            | 2025-06-03   |
+| **Time**                            | 01:00 PM     |
+| **Location**                        | Virtual      |
+| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
+| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 2 Review Summary**     | Se desarrollo la el landing page y la pagina web en su primera etapa |
+| **Sprint n - 2 Retrospective Summary** | Retraso en la integración del trabajo |
+| **Sprint Goal & User Stories**      |              |
+| **Sprint 2 Goal**                   | Implementar funcionalidades en la pagina web mejorando el frontend web y backend de la aplicación; asimismo, implementar la solucion IoT |
+| **Sprint 2 Velocity**               | 15           |
+| **Sum of Story Points**             | 15           |
+
+---
+
+#### 6.2.1.2. Aspect Leaders and Collaborators
+
+A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de Landing Page.
+
+| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de solución IoT |
+|----------------------------------|------------------------|------------------------|-----------------------------|------------------------------|
+| Adrianzen Flores, Carlos Arturo | choliwys              | -                      | C                           | -                            |
+| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | L                           | -                            |
+| Matos Fernandez, Christian Andre| FerKlox               | -                      | C                           | -                            |
+| Ortiz Fajardo, Tomás            | U201910146            | -                      | C                           | -                            |
+| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | -                      | C                           | L                            |
+
+---
+
+#### 6.2.1.3. Sprint Backlog 2
+
+<!-- (Contenido pendiente de ser completado) -->
+
+---
+
+#### 6.2.1.4. Development Evidence for Sprint Review
+
+Para esta entrega, se realizó la landing page:
+
+| Repository   | Branch | Commit Id                             | Commit Message            | Commit Message Body | Committed on (Date) |
+|--------------|--------|----------------------------------------|---------------------------|---------------------|---------------------|
+| landing-page | main   | 483a1787b3a277dfded660629ec80dadc4b6a334 | feature: Landing page v1   | none                | 08/05/2025          |
+| landing-page | main   | adb2204318a0d4ffff62ec03030993fbaa06d55b | feature: meta tags added   | none                | 08/05/2025          |
+
+---
+
+#### 6.2.1.5. Testing Suite Evidence for Sprint Review
+
+No se realizó testing para esta entrega.
+
+---
+
+#### 6.2.1.6. Execution Evidence for Sprint Review
+
+Se ha desarrollado la landing page:
+
+<img src="img/inicio_landing.png" alt="Landing Page">
+<img src="img/sobre-nostros_landing.png" alt="Landing Page">
+<img src="img/servicios_landing.png" alt="Landing Page">
+<img src="img/funcionamiento_landing.png" alt="Landing Page">
+<img src="img/testimonios_landing.png" alt="Landing Page">
+
+---
+
+#### 6.2.1.7. Services Documentation Evidence for Sprint Review
+
+No se realizaron servicios para esta entrega.
+
+---
+
+#### 6.2.1.8. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna que permite alojar y publicar sitios web estáticos de manera rápida y sencilla. Netlify facilita la integración continua y el despliegue automático desde el repositorio, lo que la convierte en una opción ideal para proyectos como landings, ofreciendo además escalabilidad y facilidad de administración.
+
+**Link de la URL**: [https://protectifyproject.netlify.app](https://protectifyproject.netlify.app)
+
+<img src="img/inicio_landing.png" alt="Landing Page">
+<img src="img/sobre-nostros_landing.png" alt="Landing Page">
+<img src="img/servicios_landing.png" alt="Landing Page">
+<img src="img/funcionamiento_landing.png" alt="Landing Page">
+<img src="img/testimonios_landing.png" alt="Landing Page">
+
+---
+
+#### 6.2.1.9. Team Collaboration Insights during Sprint
+
