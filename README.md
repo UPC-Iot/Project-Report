@@ -1733,7 +1733,7 @@ El segundo sprint fue organizado mediante una reunión presencial. A continuaci�
 
 | **Sprint #**                        | **Sprint 2** |
 |-------------------------------------|--------------|
-| **Sprint Planning Background**      |              |
+| **Sprint Planning Background**      | Este sprint se planifica tomando en cuenta los aprendizajes del sprint anterior, donde se presentaron desafíos que afectaron el ritmo de trabajo. El equipo ha decidido mantener como prioridad las historias pendientes e incluir nuevas tareas que aporten al objetivo del proyecto.             |
 | **Date**                            | 2025-06-03   |
 | **Time**                            | 01:00 PM     |
 | **Location**                        | Virtual      |
@@ -1741,7 +1741,7 @@ El segundo sprint fue organizado mediante una reunión presencial. A continuaci�
 | **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
 | **Sprint n - 2 Review Summary**     | Se desarrollo la el landing page y la pagina web en su primera etapa |
 | **Sprint n - 2 Retrospective Summary** | Retraso en la integración del trabajo |
-| **Sprint Goal & User Stories**      |              |
+| **Sprint Goal & User Stories**      | Este sprint se enfocará en completar la funcionalidad base para detectar eventos mediante sensores físicos y notificar al usuario a través de la app móvil/web, validando su funcionamiento en un entorno de pruebas.             |
 | **Sprint 2 Goal**                   | Implementar funcionalidades en la pagina web mejorando el frontend web y backend de la aplicación; asimismo, implementar la solucion IoT |
 | **Sprint 2 Velocity**               | 15           |
 | **Sum of Story Points**             | 15           |
@@ -1764,7 +1764,17 @@ A continuación se muestra la tabla de roles asignados a los miembros del equipo
 
 #### 6.2.1.3. Sprint Backlog 2
 
-<!-- (Contenido pendiente de ser completado) -->
+| ID     | Historia de Usuario                                             | ID      | Historia de Usuario                                                                                                                | Prioridad | Estado     |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| US-06   | Como usuario, quiero acceder a la visualización en tiempo real de todas mis cámaras de seguridad para poder monitorear mi hogar.   | Alta      | En progreso |
+| US-07   | Como usuario, quiero recibir notificaciones en tiempo real cuando una persona desconocida sea detectada por las cámaras.           | Alta      | En progreso |
+| US-08   | Como usuario, quiero acceder al historial de eventos para revisar y mantener un registro de detecciones y acciones.                | Alta      | Pendiente  |
+| US-09   | Como usuario, quiero personalizar mis preferencias de notificación para recibir alertas según mis necesidades.                     | Media     | Pendiente  |
+| US-11   | Como usuario, quiero modificar el video de la cámara para poder visualizar cómodamente los videos.                                 | Media     | Pendiente  |
+| US-12   | Como usuario, quiero crear perfiles de reconocimiento para que las cámaras reconozcan personas recurrentes en mi domicilio.        | Alta      | En progreso |
+| US-13   | Como usuario, quiero actualizar los perfiles de reconocimiento para tener noción de las personas incluidas.                        | Media     | Pendiente  |
+| US-14   | Como usuario, quiero eliminar perfiles de reconocimiento para tener actualizada la lista de invitados permitidos.                  | Media     | Pendiente  |
+| US-15   | Como usuario, quiero realizar un reconocimiento facial para tener guardado mi perfil.                                              | Alta      | En progreso |
 
 ---
 
