@@ -2102,6 +2102,19 @@ Durante este sprint, los integrantes trabajaron en ramas específicas según sus
 
 # Conclusiones
 
-# Bibliografía 
+- Durante el desarrollo de los sprints 1 y 2 del proyecto *Protectify*, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
 
-# Anexos
+- En el Sprint 2, el equipo centró sus esfuerzos en la implementación de funcionalidades clave: se actualizó la aplicación web, se lanzó la primera versión funcional de la app móvil y se desarrolló el backend con una API básica que permite el manejo de autenticaciones y alertas. Esto representa un paso fundamental hacia la integración del sistema con los dispositivos IoT.
+
+- El trabajo colaborativo y la organización por aspectos permitieron dividir de manera efectiva las tareas, mejorar los tiempos de entrega y aumentar la calidad de los desarrollos. A través del uso de herramientas como Trello, GitHub y plataformas de despliegue como Netlify y Vercel, se logró mantener la trazabilidad y visibilidad del trabajo en equipo.
+
+- Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto *Protectify* se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
+
+# Bibliografía
+
+- Spring Boot. (n.d.). *Spring Boot Reference Documentation*. Spring. https://docs.spring.io/spring-boot/docs/current/reference/html/
+- Android Developers. (n.d.). *Build your first app*. https://developer.android.com/training/basics/firstapp
+- Vercel. (n.d.). *Documentation*. https://vercel.com/docs
+- Netlify. (n.d.). *Netlify Docs*. https://docs.netlify.com/
+
+
