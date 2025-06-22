@@ -139,6 +139,23 @@
       </td>
     </tr>
     
+    <td><strong>7.0</strong></td>
+      <td>18 de junio de 2025</td>
+      <td>
+        <ul>
+          <li>Ramos Ramirez, Renzo Manuel</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Adrianzen Flores, Carlos Arturo</li>
+          <li>Ortiz Fajardo, Tomás</li>
+          <li>Dam Rubianes, Frida Sofia</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 2</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -179,6 +196,21 @@
         • Matos Fernandez, Christian Andre – Capítulo V: UI/UX Design<br>
         • Matos Fernandez, Christian Andre – Capítulo VI: Implementation, Validation & Deployment<br>
         • Ramos Ramirez, Renzo Manuel – Capítulo V: Solution UI/UX Design
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TP1" width="450"><br><br>
+        <img src="img/collaboration_tp1.png" alt="Collaboration TP1" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>TB2:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo VI: Sprint Planning, Aspect Leaders and Collaborators<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo VI: Solution UI/UX Design<br>
+        • Ortiz Fajardo, Tomás – Capítulo VI: Sprint Backlog 2,Development Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo VI: Team Collaboration Insights during Sprint, Validation Interviews
       </td>
       <td style="text-align:center;">
         <img src="img/collaboration_insight_tp1.png" alt="Collaboration TP1" width="450"><br><br>
