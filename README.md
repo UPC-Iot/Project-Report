@@ -138,7 +138,6 @@
         </ul>
       </td>
     </tr>
-    
     <td><strong>7.0</strong></td>
       <td>18 de junio de 2025</td>
       <td>
