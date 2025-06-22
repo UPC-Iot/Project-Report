@@ -1969,4 +1969,139 @@ Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna
 
 Durante el desarrollo de la landing page, el miembro de equipo Renzo Ramos trabajó directamente sobre la rama main, centralizando los cambios y asegurando que cada avance estuviera disponible de inmediato para todos los integrantes.
 
+
+
 <img src="img/collboration_landing.png" alt="Landing Page">
+
+
+
+
+## 6.2. Landing Page, Services & Applications Implementation
+
+### 6.2.2. Sprint 2
+
+#### 6.2.2.1. Sprint Planning 2
+
+El segundo sprint fue organizado mediante una reunión virtual. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
+
+| **Sprint #**                        | **Sprint 2** |
+|-------------------------------------|--------------|
+| **Sprint Planning Background**      |              |
+| **Date**                            | 2025-06-01   |
+| **Time**                            | 03:00 PM     |
+| **Location**                        | Virtual      |
+| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
+| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 1 Review Summary**     | Se completó correctamente la landing page inicial y el frontend web. |
+| **Sprint n - 1 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil. |
+| **Sprint Goal & User Stories**      |              |
+| **Sprint 2 Goal**                   | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas. |
+| **Sprint 2 Velocity**               | 18           |
+| **Sum of Story Points**             | 18           |
+
+---
+
+#### 6.2.2.2. Aspect Leaders and Collaborators
+
+A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de App Móvil.
+
+| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
+|----------------------------------|------------------------|------------------------|-----------------------------|--------------------------|
+| Adrianzen Flores, Carlos Arturo | choliwys              | C                      | C                           | -                        |
+| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | L                           | -                        |
+| Matos Fernandez, Christian Andre| FerKlox               | -                      | C                           | C                        |
+| Ortiz Fajardo, Tomás            | U201910146            | L                      | -                           | C                        |
+| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | C                      | -                           | L                        |
+
+---
+
+#### 6.2.2.3. Sprint Backlog 2
+
+Para este sprint se utilizó Trello para asignar las tareas a cada miembro:
+
+<img src="img/trello_sprint_1.png" alt="Sprint 1">
+
+Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
+
+|**Sprint #**|**Sprint 2**|||||||  
+| :- | :- | :- | :- | :- | :- | :- | :- |  
+|User Story|Work-Item / Task|||||||  
+|Id|Title|Id|Title|Description|Estimation|Assigned To|Status (To-Do / In-Process / Review / Done)|  
+|US-30|Nueva versión de app web|T10|Actualizar dashboard de cámaras|Actualizar interfaz web para mostrar cámaras conectadas|2|Carlos Arturo|Done|  
+|US-31|Primera versión de app móvil|T11|Desarrollar vista de alertas|Diseñar e implementar vista para alertas en tiempo real|2|Christian Andre|Done|  
+|US-32|Primera versión de app móvil|T12|Activar mecanismo de defensa|Permitir activación remota desde app móvil|1|Tomás Ortiz|Done|  
+|US-33|Desarrollo de backend|T13|Crear endpoint de login|Desarrollar endpoint básico para autenticación|1.5|Carlos Arturo|Done|  
+|US-34|Desarrollo de backend|T14|Endpoint de alertas|Endpoint para registrar y consultar alertas generadas|2|Renzo Ramos|Done|  
+|US-35|Desarrollo de backend|T15|Conectar backend con frontend|Integrar datos con dashboard web|2|Carlos Arturo|In-Process|  
+
+---
+
+#### 6.2.2.4. Development Evidence for Sprint Review
+
+Durante este sprint se desarrollaron los siguientes componentes:
+
+| Repository     | Branch | Commit Id                             | Commit Message             | Commit Message Body | Committed on (Date) |
+|----------------|--------|----------------------------------------|----------------------------|---------------------|---------------------|
+| app-web        | main   | a37cb8209d90ffb801e23a6d8a0f123c46c6c11d | feature: nueva vista de cámaras | none                | 10/06/2025          |
+| app-mobile     | main   | b99d12d4e93fcfa38e01b2c709e7a0cf118a8c32 | feature: alert system UI         | none                | 11/06/2025          |
+| backend-api    | main   | d710fa66eb52fbb270ed90a2b4db51cb5c17a8e7 | feature: login y alertas API     | none                | 12/06/2025          |
+
+---
+
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review
+
+Se realizaron pruebas unitarias básicas para los endpoints del backend. Se validó:
+
+- Login con credenciales válidas/erróneas.
+- Registro y consulta de alertas.
+- Conexión básica con app web.
+
+---
+
+#### 6.2.2.6. Execution Evidence for Sprint Review
+
+Capturas del funcionamiento:
+
+<img src="img/app_web_dashboard.png" alt="App Web">
+<img src="img/app_mobile_alertas.png" alt="App Móvil">
+<img src="img/api_postman_login.png" alt="Backend Login Test">
+<img src="img/api_postman_alertas.png" alt="Backend Alert Test">
+
+---
+
+#### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+Se documentaron los endpoints básicos del backend:
+
+- `POST /api/login`: Autenticación de usuarios.
+- `GET /api/alerts`: Consulta de alertas.
+- `POST /api/alerts`: Registro de nueva alerta.
+- `GET /api/cameras`: Listado de cámaras registradas.
+
+---
+
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+- App Web: desplegada con Vercel.  
+**URL**: [https://protectify-web.vercel.app](https://protectify-web.vercel.app)  
+- App Móvil: ejecutada en entorno local con Android Studio (emulador).  
+- API Backend: ejecutada localmente con Postman y disponible para pruebas en red local.
+
+---
+
+#### 6.2.2.9. Team Collaboration Insights during Sprint
+
+Durante este sprint, los integrantes trabajaron en ramas específicas según sus asignaciones. Se utilizó GitHub Projects para organizar el flujo de trabajo y mantener visibilidad del progreso.
+
+<img src="img/collaboration_sprint1.png" alt="Colaboración Sprint 2">
+
+
+
+<img src="img/collboration_landing.png" alt="Landing Page">
+
+
+# Conclusiones
+
+# Bibliografía 
+
+# Anexos
