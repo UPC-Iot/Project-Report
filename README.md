@@ -124,7 +124,37 @@
         </ul>
       </td>
     </tr>
-    
+    <tr>
+      <td><strong>6.0</strong></td>
+      <td>18 de mayo de 2025</td>
+      <td>
+        <ul>
+          <li>Matos Fernandez, Christian Andre</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Correciones</li>
+        </ul>
+      </td>
+    </tr>
+    <td><strong>7.0</strong></td>
+      <td>18 de junio de 2025</td>
+      <td>
+        <ul>
+          <li>Ramos Ramirez, Renzo Manuel</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Adrianzen Flores, Carlos Arturo</li>
+          <li>Ortiz Fajardo, Tomás</li>
+          <li>Dam Rubianes, Frida Sofia</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 2</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -132,17 +162,64 @@
 
 # Project Report Collaboration Insights
 
-En el entregable de la TB1, cada uno de los participantes desarrollo los siguientes puntos:
 
-- Dam Rubianes, Frida Sofia: Capítulo I Introducción
-- Adrianzen Flores, Carlos Arturo: Capítulo II Requirements Elicitation & Analysis
-- Ortiz Fajardo, Tomás: Capítulo II Requirements Elicitation & Analysis
-- Matos Fernandez, Christian Andre: Capítulo III Requirements Specification & Capítulo IV: Solution Software Design
-- Ramos Ramirez, Renzo Manuel: Capítulo IV Solution Software Design
+<table>
+  <thead>
+    <tr>
+      <th>Entregables</th>
+      <th>Evidencias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>TB1:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo I: Introducción<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo II: Requirements Elicitation & Analysis<br>
+        • Ortiz Fajardo, Tomás – Capítulo II: Requirements Elicitation & Analysis<br>
+        • Matos Fernandez, Christian Andre – Capítulo III: Requirements Specification<br>
+        • Matos Fernandez, Christian Andre – Capítulo IV: Solution Software Design<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo IV: Solution Software Design
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TB1" width="450"><br><br>
+        <img src="img/collaboration_tb1.png" alt="User Persona TB1" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>TP1:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo V: Solution UI/UX Design<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo V: Solution UI/UX Design<br>
+        • Ortiz Fajardo, Tomás – Capítulo V: Solution UI/UX Design<br>
+        • Matos Fernandez, Christian Andre – Capítulo V: UI/UX Design<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Implementation, Validation & Deployment<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo V: Solution UI/UX Design
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TP1" width="450"><br><br>
+        <img src="img/collaboration_tp1.png" alt="Collaboration TP1" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>TB2:</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo VI: Sprint Planning, Aspect Leaders and Collaborators<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo VI: Solution UI/UX Design<br>
+        • Ortiz Fajardo, Tomás – Capítulo VI: Sprint Backlog 2,Development Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo VI: Team Collaboration Insights during Sprint, Validation Interviews
+      </td>
+      <td style="text-align:center;">
+        <img src="img/collaboration_insight_tp1.png" alt="Collaboration TP1" width="450"><br><br>
+        <img src="img/collaboration_tp1.png" alt="Collaboration TP1" width="450">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="img/collaboration_insight_tb1.png" alt="Collaboration TB1" >
 
-<img src="img/collaboration_tb1.png" alt="User Persona" >
 
 # Tabla de Contenido
 
@@ -264,7 +341,20 @@ En el entregable de la TB1, cada uno de los participantes desarrollo los siguien
     - [6.2.1.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
     - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
     - [6.2.1.9. Team Collaboration Insights during Sprint](#6219-team-collaboration-insights-during-sprint)
-
+- [6.2.2. Sprint 2](#622-sprint-2)
+    - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
+    - [6.2.2.2. Aspect Leaders and Collaborators](#6212-aspect-leaders-and-collaborators)
+    - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)
+    - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
+    - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)
+    - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)
+    - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
+    - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
+    - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+- [6.3. Validation Interviews](#63-validation-interviews)
+  - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+  - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas)
+- [6.4. Video About-the-Product](#64-video-about-the-product)
 # Student Outcome
 
 ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un
@@ -284,23 +374,38 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td>
         <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega tuve que reunirme con el grupo para acordar los puntos a tratar. Tuve que realizar el event storming para comprender la lógica del negocio y así poder explicarlo de forma gráfica los procesos que conlleva nuestro proyecto. Además, tuve que separar los procesos y los flujos para que tuvieran un orden y así sea entendible<br><br>
+        <strong>TP1:</strong>Colaborar en la definición de sistemas de organización, etiquetado, navegación y etiquetas SEO fue una experiencia que exigió atención al detalle y coordinación constante con el equipo. Aportar desde lo estructural ayudó a mejorar la claridad y usabilidad del proyecto, y reafirmó en mí cómo el trabajo compartido, la comunicación abierta y el respeto por las ideas de otros pueden guiar al grupo hacia decisiones efectivas y bien fundamentadas. <br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1:</strong>Durante el desarrollo del proyecto, contribuí activamente al trabajo en equipo brindando liderazgo conjunto. Asumí la responsabilidad de tareas clave como el To-be Scenario Mapping, User Stories, Impact Mapping y la elaboración del Product Backlog, promoviendo una visión compartida del producto. Además, lideré la definición del diseño a nivel táctico mediante el Tactical-Level Domain-Driven Design, estructurando los Bounded Contexts y desarrollando diagramas a nivel de componentes, clases y base de datos, fomentando así una colaboración técnica efectiva entre los integrantes.<br><br>
+        <strong>TP1:</strong>Participar en el diseño de wireframes, mock-ups y flujos de usuario me permitió aportar una mirada clara sobre la experiencia del usuario y la organización visual de las aplicaciones. A lo largo del proceso, la interacción constante con el equipo ayudó a que cada aporte se integrara de forma coherente al conjunto. Esta dinámica colaborativa demostró que, cuando todos suman desde su rol, se construye una dirección compartida que fortalece el trabajo del grupo. <br><br>
         <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1: Durante esta entrega, participé activamente en las reuniones de coordinación con el equipo, proponiendo ideas y escuchando las opiniones de todos para lograr una mejor organización del trabajo. Además, fomenté la colaboración al apoyar a mis compañeros en la resolución de dudas y asegurarme de que todos estuviéramos alineados con los objetivos del proyecto, promoviendo así un liderazgo compartido y un ambiente de trabajo participativo.</strong><br><br>
+        <strong>TP1:</strong>Aportar a las guías de estilo me permitió contribuir activamente en la definición de una base visual coherente para el proyecto. Durante el proceso, la escucha y el intercambio constante con el equipo fueron claves para alinear ideas y mantener una dirección común. En ese espacio, descubrí cómo el compromiso y la colaboración también construyen liderazgo, incluso desde roles más técnicos o específicos. <br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1: En esta entrega, me encargué de realizar el análisis competitivo, evaluando a los principales competidores en el mercado para entender sus fortalezas y debilidades. A partir de ahí, pude identificar las oportunidades para mejorar nuestro producto y diferenciarlo de las opciones existentes. Además, llevé a cabo las entrevistas con los usuarios objetivo, recopilando información clave sobre sus necesidades y expectativas. Posteriormente, realicé un análisis detallado de las entrevistas, extrayendo patrones y características comunes que nos ayudaron a comprender mejor los arquetipos de usuario y los puntos críticos que debíamos abordar en el diseño del proyecto.</strong><br><br>
+        <strong>TP1:</strong>Participar en el diseño de la Landing Page me permitió aportar desde lo visual y lo funcional, escuchando las sugerencias del equipo y adaptando mis ideas al objetivo común. A través de pequeños aportes y colaboración constante, se generó una dinámica donde todos sumamos desde nuestro rol, contribuyendo a que el proyecto avanzara de forma coordinada. <br><br>
         <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong>Para este proyecto, participe con mi equipo de las reuniones y realice las actividades que quedamos a realizar. Pude hacer el As-Is Scenario Mapping, además del Empathy Mapping, User Persona, User Task Matrix, entre otras partes del capítulo 2. Por otro lado, como ya mencioné, pude conversar con mis compañeros en las reuniones para conocer sus opiniones respecto al tema elegido y saber que partes nos podríamos dividir entre todos, siempre teniendo en cuenta sus opiniones y sabiendo sus preferencias y el tiempo que tenían para realizar lo necesario para esta entrega.<br>
+        <strong>TP1:</strong>Elaborar los wireflow diagrams me permitió integrarme activamente en la construcción de la lógica visual y funcional de las aplicaciones. Fue un proceso donde las ideas se compartieron de manera fluida, y cada decisión se tomó considerando las necesidades del equipo. Esta experiencia reforzó en mí la importancia de sumar desde lo técnico, siendo parte de un liderazgo compartido que se construye a través del diálogo y la colaboración constante. <br><br>
       </td>
-      <td>TB1: A lo largo del proyecto, el equipo ejerció un liderazgo compartido, donde cada integrante asumió responsabilidades clave y contribuyó activamente a la toma de decisiones. El trabajo en equipo fue constante, basado en la confianza y el respeto mutuo, lo que permitió coordinar esfuerzos de manera equilibrada y mantener el rumbo del proyecto con una visión común.</td>
+      <td>
+      <strong>TB1:</strong> A lo largo del proyecto, el equipo ejerció un liderazgo compartido, donde cada integrante asumió responsabilidades clave y contribuyó activamente a la toma de decisiones. El trabajo en equipo fue constante, basado en la confianza y el respeto mutuo, lo que permitió coordinar esfuerzos de manera equilibrada y mantener el rumbo del proyecto con una visión común.<br><br>
+      <strong>TP1:</strong> A lo largo del desarrollo del proyecto, participar en distintas etapas vinculadas al diseño, organización y estructuración de interfaces me permitió aportar desde lo técnico sin perder de vista el trabajo en conjunto. En cada instancia, el diálogo con el equipo y la construcción compartida de decisiones fueron fundamentales. Esta experiencia me ayudó a comprender que el liderazgo también se refleja en la disposición a colaborar, en la escucha activa y en el compromiso con el objetivo común, más allá de un rol específico.<br><br>
+      </td>
     </tr>
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
       <td>
         <strong>Renzo Manuel Ramos Ramirez</strong><br><strong>TB1:</strong>En esta entrega me comuniqué con mis compañeros para poder trabajar diversos puntos del proyecto. Tuve que diseñar la arquitectura de la aplicación comprendiendo los Bounded Context y cómo interactúan entre si. Empleé el diagrama C4 para especificar cada parte del sistema para que los demás integrantes conocieran del proceso y las tecnologías del mismo sistema.<br><br>
+        <strong>TP1:</strong>La planificación y ejecución de estos sistemas se dio en un entorno donde el intercambio de ideas y la organización de tareas estuvieron siempre presentes. Ser parte de ese proceso me permitió trabajar de forma ordenada y aportar soluciones alineadas a los objetivos del equipo. Esta experiencia me mostró cómo un ambiente inclusivo y bien coordinado facilita el cumplimiento de metas compartidas de manera eficiente y colaborativa. <br><br>
         <strong>Christian Andre Matos Fernandez</strong><br><strong>TB1: </strong>Durante el proyecto, fomenté un entorno colaborativo e inclusivo al promover una comunicación constante entre los miembros del equipo. Me enfoqué en establecer metas claras y compartidas, y planifiqué las tareas de forma estructurada mediante herramientas como el Product Backlog e Impact Mapping. Esto permitió organizar el trabajo de forma efectiva, facilitando el cumplimiento de objetivos dentro de los plazos establecidos, y asegurando que cada integrante tuviera claridad sobre su rol y responsabilidades.<br><br>
+        <strong>TP1:</strong>El desarrollo de los distintos elementos visuales y funcionales se dio dentro de un marco de trabajo ordenado, donde las metas estaban bien definidas y cada etapa fue planificada en conjunto. Aportar en ese contexto me permitió no solo cumplir con las tareas asignadas, sino también adaptarme a los requerimientos del equipo, respetando tiempos y contribuyendo a un ambiente donde todas las ideas eran consideradas. <br><br>
         <strong>Frida Sofia Dam Rubianes</strong><br><strong>TB1: Durante esta entrega, participé activamente en la creación de un entorno colaborativo e inclusivo, manteniendo una comunicación constante con mis compañeros para coordinar avances y resolver dudas. Contribuí en la planificación de tareas distribuyendo actividades de manera equitativa y asegurándome de que todos tuviéramos metas claras para cumplir con los plazos establecidos. Además, estuve atento al progreso del equipo, apoyando en lo necesario para garantizar que los objetivos del proyecto se cumplieran de forma ordenada y efectiva.</strong><br><br>
+        <strong>TP1:</strong>El desarrollo de las guías de estilo fue una experiencia que integró distintas miradas del equipo. La planificación ordenada, el respeto por los criterios acordados y el trabajo conjunto hicieron posible cumplir con los tiempos y objetivos establecidos. Ser parte de ese proceso reafirmó en mí el valor de un entorno donde la colaboración y la claridad en las metas generan resultados sólidos y compartidos. <br><br>
         <strong>Carlos Arturo Adrianzen Flores</strong><br><strong>TB1: Durante esta entrega, trabajé activamente para crear un entorno colaborativo e inclusivo dentro del equipo. Me comuniqué de manera constante con mis compañeros para coordinar el análisis competitivo y las entrevistas, asegurando que todos estuviéramos alineados en la comprensión de los competidores y sus estrategias. Además, me encargué de registrar y analizar las entrevistas, extrayendo datos clave para la construcción de los arquetipos de usuario. Utilicé estos resultados para establecer metas claras y compartidas, lo que permitió planificar las tareas de manera estructurada. Como resultado, pudimos cumplir los objetivos establecidos de forma efectiva, garantizando una base sólida para las siguientes etapas del proyecto.</strong><br><br>
+        <strong>TP1:</strong>Desde la elaboración del wireframe hasta el mock-up, el proceso fue compartido y dialogado, con espacios para intercambiar ideas y ajustar según lo necesario. Valoro haber sido parte de un equipo donde se respetaron los tiempos y roles, y donde cada tarea respondió a una planificación clara que permitió cumplir los objetivos sin perder de vista la calidad del resultado. <br><br>
         <strong>Tomás Ortiz Fajardo</strong><br><strong>TB1:</strong>Para este proyecto, me comunique activamente con mis compañeros, para siempre estar en la misma página y poder avanzar el trabajo de acuerdo al cronograma del curso. Además me ordenaba para que pueda completar con las actividades que me tocaba realizar del trabajo, y poder contribuir en cualquier reunión, siempre aportando ideas y comentarios para la mejora de este trabajo.<br>
+        <strong>TP1:</strong>Trabajar en los wireflows implicó ajustarse a una planificación común, respetar tiempos y coordinar con los demás integrantes del equipo para mantener coherencia en el diseño. El ambiente de trabajo favoreció la participación y la escucha, lo que facilitó cumplir los objetivos de forma ordenada y con resultados alineados al enfoque del proyecto. Esta experiencia reafirmó en mí la importancia de la organización colectiva y del respeto mutuo en el desarrollo colaborativo. <br><br>
       </td>
-      <td>TB1: El equipo fomentó un entorno colaborativo e inclusivo, donde todas las ideas fueron valoradas y consideradas en el desarrollo del proyecto. Se establecieron metas claras desde el inicio, se organizaron tareas de forma estructurada y se trabajó con disciplina para cumplir los objetivos planteados. Esta organización y compromiso grupal permitió avanzar de forma eficiente y cohesionada.</td>
+      <td>TB1: El equipo fomentó un entorno colaborativo e inclusivo, donde todas las ideas fueron valoradas y consideradas en el desarrollo del proyecto. Se establecieron metas claras desde el inicio, se organizaron tareas de forma estructurada y se trabajó con disciplina para cumplir los objetivos planteados. Esta organización y compromiso grupal permitió avanzar de forma eficiente y cohesionada.<br><br>
+      <strong>TP1:</strong>Formar parte del proceso completo, desde la planificación visual hasta la definición estructural y funcional de las aplicaciones, me permitió integrarme a un entorno de trabajo participativo y bien organizado. Las metas se establecieron de forma clara, se respetaron los tiempos y cada aporte fue valorado dentro del equipo. Esta experiencia fortaleció mi capacidad para trabajar de manera ordenada, adaptarme a las necesidades del grupo y aportar activamente en un clima de respeto, colaboración y responsabilidad compartida.<br><br>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -339,7 +444,7 @@ La visión de SafeTech Solutionses convertirse en un referente latinoamericano e
 
 ## 1.2. Solution Profile
 
-Nuestra propuesta se centra en **Protectify**, un sistema de seguridad doméstica basado en inteligencia artificial. Este sistema utiliza cámaras de alta resolución que capturan imágenes con gran claridad, permitiendo una vigilancia efectiva del hogar. Cada vez que detecta movimiento, el sistema consulta una base de datos local con tecnología de reconocimiento facial para distinguir entre residentes habituales y personas desconocidas. Si identifica a alguien no reconocido, el sistema envía una alerta al propietario mediante la aplicación móvil de Protectify. El usuario podrá entonces decidir si se trata de un visitante o de un posible intruso. Si se confirma que es un ladrón, se activa un mecanismo que libera humo para obstruir la visibilidad del intruso y se notifica automáticamente a las autoridades más cercanas. Además, el usuario puede crear perfiles personalizados para visitantes frecuentes, acelerando así el proceso de identificación.
+Nuestra propuesta es Protectify, un sistema de seguridad doméstica con inteligencia artificial. Usa cámaras de alta resolución para monitorear el hogar y, al detectar movimiento, emplea reconocimiento facial para identificar residentes y visitantes. Si detecta una persona desconocida, envía una alerta al usuario vía app, quien podrá confirmar si es un visitante o un posible intruso. Además, permite crear perfiles personalizados para visitantes frecuentes, facilitando la identificación.
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -1515,23 +1620,48 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 
 ### 5.4.1. Applications Wireframes
 
-<img src="img/Onboarding-1.png">
-<img src="img/Onboarding-1 (1).png">
-<img src="img/Sign-In.png">
-<img src="img/Sign-Up.png">
-<img src="img/Home.png">
-<img src="img/Facial List.png">
-<img src="img/Member Facial Register.png">
-<img src="img/Member Scane.png">
-<img src="img/Member Added.png">
-<img src="img/Cameras List.png">
-<img src="img/Camera Register.png">
-<img src="img/Camera Register (1).png">
-<img src="img/Edit Profile.png">
-
-
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Onboarding-1.png" alt="Onboarding 1" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Onboarding-1 (1).png" alt="Onboarding 1 (1)" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Sign-In.png" alt="Sign-In" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Sign-Up.png" alt="Sign-Up" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Home.png" alt="Home" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Facial List.png" alt="Facial List" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Facial Register.png" alt="Member Facial Register" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Scane.png" alt="Member Scane" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Member Added.png" alt="Member Added" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Cameras List.png" alt="Cameras List" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Camera Register.png" alt="Camera Register" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Camera Register (1).png" alt="Camera Register (1)" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
+<div style="background:#f2f2f2; padding:16px; display:inline-block; border-radius:8px; margin:8px;">
+  <img src="img/Edit Profile.png" alt="Edit Profile" style="border:1px solid #ccc; border-radius:8px; max-width:300px;">
+</div>
 
 ### 5.4.2. Applications Wireflow Diagrams
+
 <img src="img/Wireflow_Full.jpeg">
 <img src="img/Wireflow_1.jpeg">
 <img src="img/Wireflow_2.jpeg">
@@ -1539,23 +1669,74 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 
 ### 5.4.2. Applications Mock-ups
 
-<img src="img/Mock-up OnBoarding.png">
-<img src="img/Mock-up OnBoarding 2.png">
-<img src="img/Mock-up Sing in.png">
-<img src="img/Mock-up Home.png">
-<img src="img/Mock-up Sign-Up.png">
-<img src="img/Mock-up Sign-Up Scane.png">
-<img src="img/Mock-up Sign-Up Scane Face Completed.png">
-<img src="img/Mock-up Sign-Up Completed.png">
-<img src="img/Mock-up Facial List.png">
-<img src="img/Mock-up Member Facial Register.png">
-<img src="img/Mock-up Register member.png">
-<img src="img/Mock-up Member Scane.png">
-<img src="img/Mock-up Member Added.png">
-<img src="img/Mock-up Cameras List.png">
-<img src="img/Mock-up Camera Register.png">
-<img src="img/Mock-up Camera Register (1).png">
-<img src="img/Mock-up Edit Profile.png">
+- **Mock-up OnBoarding:**  
+  Pantalla de bienvenida que introduce al usuario a Protectify
+  <img src="img/Mock-up OnBoarding.png" alt="Mock-up OnBoarding">
+
+- **Mock-up OnBoarding 2:**  
+  Segunda pantalla del proceso de onboarding, donde se continúa guiando al usuario sobre las características clave y el valor agregado que ofrece la app.  
+  <img src="img/Mock-up OnBoarding 2.png" alt="Mock-up OnBoarding 2">
+
+- **Mock-up Sing in:**  
+  Interfaz de inicio de sesión, permitiendo a los usuarios acceder de forma segura a su cuenta mediante sus credenciales personales.  
+  <img src="img/Mock-up Sing in.png" alt="Mock-up Sing in">
+
+- **Mock-up Sign-Up:**  
+  Formulario de registro para nuevos usuarios, facilitando la creación de una cuenta en Protectify de manera sencilla y rápida.  
+  <img src="img/Mock-up Sign-Up.png" alt="Mock-up Sign-Up">
+
+- **Mock-up Sign-Up Scane:**  
+  Proceso de registro que solicita al usuario realizar un escaneo facial como parte de la autenticación y configuración inicial de seguridad.  
+  <img src="img/Mock-up Sign-Up Scane.png" alt="Mock-up Sign-Up Scane">
+
+- **Mock-up Sign-Up Scane Face Completed:**  
+  Confirmación visual de que el escaneo facial se ha realizado correctamente, permitiendo al usuario continuar con el registro.  
+  <img src="img/Mock-up Sign-Up Scane Face Completed.png" alt="Mock-up Sign-Up Scane Face Completed">
+
+- **Mock-up Sign-Up Completed:**  
+  Pantalla que indica que el proceso de registro ha finalizado exitosamente y el usuario ya puede comenzar a utilizar la aplicación.  
+  <img src="img/Mock-up Sign-Up Completed.png" alt="Mock-up Sign-Up Completed">
+
+
+- **Mock-up Home:**  
+  Pantalla principal de la aplicación, donde el usuario puede visualizar el estado general de su sistema de seguridad y acceder rápidamente a las funciones más importantes.  
+  <img src="img/Mock-up Home.png" alt="Mock-up Home">
+
+- **Mock-up Facial List:**  
+  Muestra la lista de perfiles faciales registrados, permitiendo gestionar y visualizar las personas reconocidas por el sistema.  
+  <img src="img/Mock-up Facial List.png" alt="Mock-up Facial List">
+
+- **Mock-up Member Facial Register:**  
+  Interfaz para registrar un nuevo perfil facial, añadiendo información relevante del miembro para su identificación.  
+  <img src="img/Mock-up Member Facial Register.png" alt="Mock-up Member Facial Register">
+
+- **Mock-up Register member:**  
+  Formulario para agregar un nuevo miembro al sistema, completando los datos necesarios para su registro y posterior reconocimiento.  
+  <img src="img/Mock-up Register member.png" alt="Mock-up Register member">
+
+- **Mock-up Member Scane:**  
+  Pantalla donde se realiza el escaneo facial de un nuevo miembro para su registro en el sistema de seguridad.  
+  <img src="img/Mock-up Member Scane.png" alt="Mock-up Member Scane">
+
+- **Mock-up Member Added:**  
+  Confirmación de que el nuevo miembro ha sido añadido exitosamente a la base de datos de la aplicación.  
+  <img src="img/Mock-up Member Added.png" alt="Mock-up Member Added">
+
+- **Mock-up Cameras List:**  
+  Visualización de la lista de cámaras conectadas, permitiendo al usuario gestionar y monitorear cada dispositivo de seguridad instalado.  
+  <img src="img/Mock-up Cameras List.png" alt="Mock-up Cameras List">
+
+- **Mock-up Camera Register:**  
+  Formulario para registrar una nueva cámara en el sistema, ingresando los datos necesarios para su configuración y activación.  
+  <img src="img/Mock-up Camera Register.png" alt="Mock-up Camera Register">
+
+- **Mock-up Camera Register (1):**  
+  Pantalla de confirmación o detalles adicionales tras registrar una cámara, asegurando que el proceso se haya completado correctamente.  
+  <img src="img/Mock-up Camera Register (1).png" alt="Mock-up Camera Register (1)">
+
+- **Mock-up Edit Profile:**  
+  Interfaz para editar la información del perfil del usuario, permitiendo mantener los datos personales actualizados y personalizados.  
+  <img src="img/Mock-up Edit Profile.png" alt="Mock-up Edit Profile">
 
 
 ### 5.4.3. Applications User Flow Diagrams
@@ -1567,6 +1748,13 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
 <img src="img/UserFlow 5.png">
 
 ## 5.5. Applications Prototyping
+
+Hemos realizdo un video sobre la aplicación movíl en figma:
+
+Link de youtube: https://www.youtube.com/watch?v=4RPSa_0qCEs
+
+
+<img src="img/prototyping.png">
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
@@ -1709,6 +1897,12 @@ A continuación se muestra la tabla de roles asignados a los miembros del equipo
 
 #### 6.2.1.3. Sprint Backlog 1
 
+Para este sprint hemos utilizado trello para asignar las tareas a cada miembro:
+
+<img src="img/trello_sprint_1.png" alt="Sprint 1" >
+
+Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
+
 |**Sprint #**|**Sprint 1**|||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
@@ -1772,4 +1966,154 @@ Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna
 
 #### 6.2.1.9. Team Collaboration Insights during Sprint
 
+Durante el desarrollo de la landing page, el miembro de equipo Renzo Ramos trabajó directamente sobre la rama main, centralizando los cambios y asegurando que cada avance estuviera disponible de inmediato para todos los integrantes.
+
+
+
 <img src="img/collboration_landing.png" alt="Landing Page">
+
+
+
+
+## 6.2. Landing Page, Services & Applications Implementation
+
+### 6.2.2. Sprint 2
+
+#### 6.2.2.1. Sprint Planning 2
+
+El segundo sprint fue organizado mediante una reunión virtual. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
+
+| **Sprint #**                        | **Sprint 2** |
+|-------------------------------------|--------------|
+| **Sprint Planning Background**      |              |
+| **Date**                            | 2025-06-01   |
+| **Time**                            | 03:00 PM     |
+| **Location**                        | Virtual      |
+| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
+| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 1 Review Summary**     | Se completó correctamente la landing page inicial y el frontend web. |
+| **Sprint n - 1 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil. |
+| **Sprint Goal & User Stories**      |              |
+| **Sprint 2 Goal**                   | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas. |
+| **Sprint 2 Velocity**               | 18           |
+| **Sum of Story Points**             | 18           |
+
+---
+
+#### 6.2.2.2. Aspect Leaders and Collaborators
+
+A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de App Móvil.
+
+| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
+|----------------------------------|------------------------|------------------------|-----------------------------|--------------------------|
+| Adrianzen Flores, Carlos Arturo | choliwys              | C                      | C                           | -                        |
+| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | L                           | -                        |
+| Matos Fernandez, Christian Andre| FerKlox               | -                      | C                           | C                        |
+| Ortiz Fajardo, Tomás            | U201910146            | L                      | -                           | C                        |
+| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | C                      | -                           | L                        |
+
+---
+
+#### 6.2.2.3. Sprint Backlog 2
+
+Para este sprint se utilizó Trello para asignar las tareas a cada miembro:
+
+<img src="img/trello_sprint_1.png" alt="Sprint 1">
+
+Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
+
+|**Sprint #**|**Sprint 2**|||||||  
+| :- | :- | :- | :- | :- | :- | :- | :- |  
+|User Story|Work-Item / Task|||||||  
+|Id|Title|Id|Title|Description|Estimation|Assigned To|Status (To-Do / In-Process / Review / Done)|  
+|US-30|Nueva versión de app web|T10|Actualizar dashboard de cámaras|Actualizar interfaz web para mostrar cámaras conectadas|2|Carlos Arturo|Done|  
+|US-31|Primera versión de app móvil|T11|Desarrollar vista de alertas|Diseñar e implementar vista para alertas en tiempo real|2|Christian Andre|Done|  
+|US-32|Primera versión de app móvil|T12|Activar mecanismo de defensa|Permitir activación remota desde app móvil|1|Tomás Ortiz|Done|  
+|US-33|Desarrollo de backend|T13|Crear endpoint de login|Desarrollar endpoint básico para autenticación|1.5|Carlos Arturo|Done|  
+|US-34|Desarrollo de backend|T14|Endpoint de alertas|Endpoint para registrar y consultar alertas generadas|2|Renzo Ramos|Done|  
+|US-35|Desarrollo de backend|T15|Conectar backend con frontend|Integrar datos con dashboard web|2|Carlos Arturo|In-Process|  
+
+---
+
+#### 6.2.2.4. Development Evidence for Sprint Review
+
+Durante este sprint se desarrollaron los siguientes componentes:
+
+| Repository     | Branch | Commit Id                             | Commit Message             | Commit Message Body | Committed on (Date) |
+|----------------|--------|----------------------------------------|----------------------------|---------------------|---------------------|
+| app-web        | main   | a37cb8209d90ffb801e23a6d8a0f123c46c6c11d | feature: nueva vista de cámaras | none                | 10/06/2025          |
+| app-mobile     | main   | b99d12d4e93fcfa38e01b2c709e7a0cf118a8c32 | feature: alert system UI         | none                | 11/06/2025          |
+| backend-api    | main   | d710fa66eb52fbb270ed90a2b4db51cb5c17a8e7 | feature: login y alertas API     | none                | 12/06/2025          |
+
+---
+
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review
+
+Se realizaron pruebas unitarias básicas para los endpoints del backend. Se validó:
+
+- Login con credenciales válidas/erróneas.
+- Registro y consulta de alertas.
+- Conexión básica con app web.
+
+---
+
+#### 6.2.2.6. Execution Evidence for Sprint Review
+
+Capturas del funcionamiento:
+
+<img src="img/app_web_dashboard.png" alt="App Web">
+<img src="img/app_mobile_alertas.png" alt="App Móvil">
+<img src="img/api_postman_login.png" alt="Backend Login Test">
+<img src="img/api_postman_alertas.png" alt="Backend Alert Test">
+
+---
+
+#### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+Se documentaron los endpoints básicos del backend:
+
+- `POST /api/login`: Autenticación de usuarios.
+- `GET /api/alerts`: Consulta de alertas.
+- `POST /api/alerts`: Registro de nueva alerta.
+- `GET /api/cameras`: Listado de cámaras registradas.
+
+---
+
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+- App Web: desplegada con Vercel.  
+**URL**: [https://protectify-web.vercel.app](https://protectify-web.vercel.app)  
+- App Móvil: ejecutada en entorno local con Android Studio (emulador).  
+- API Backend: ejecutada localmente con Postman y disponible para pruebas en red local.
+
+---
+
+#### 6.2.2.9. Team Collaboration Insights during Sprint
+
+Durante este sprint, los integrantes trabajaron en ramas específicas según sus asignaciones. Se utilizó GitHub Projects para organizar el flujo de trabajo y mantener visibilidad del progreso.
+
+<img src="img/collaboration_sprint1.png" alt="Colaboración Sprint 2">
+
+
+
+<img src="img/collboration_landing.png" alt="Landing Page">
+
+
+# Conclusiones
+
+- Durante el desarrollo de los sprints 1 y 2 del proyecto *Protectify*, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
+
+- En el Sprint 2, el equipo centró sus esfuerzos en la implementación de funcionalidades clave: se actualizó la aplicación web, se lanzó la primera versión funcional de la app móvil y se desarrolló el backend con una API básica que permite el manejo de autenticaciones y alertas. Esto representa un paso fundamental hacia la integración del sistema con los dispositivos IoT.
+
+- El trabajo colaborativo y la organización por aspectos permitieron dividir de manera efectiva las tareas, mejorar los tiempos de entrega y aumentar la calidad de los desarrollos. A través del uso de herramientas como Trello, GitHub y plataformas de despliegue como Netlify y Vercel, se logró mantener la trazabilidad y visibilidad del trabajo en equipo.
+
+- Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto *Protectify* se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
+
+# Bibliografía
+
+- Spring Boot. (n.d.). *Spring Boot Reference Documentation*. Spring. https://docs.spring.io/spring-boot/docs/current/reference/html/
+- Android Developers. (n.d.). *Build your first app*. https://developer.android.com/training/basics/firstapp
+- Vercel. (n.d.). *Documentation*. https://vercel.com/docs
+- Netlify. (n.d.). *Netlify Docs*. https://docs.netlify.com/
+
+
