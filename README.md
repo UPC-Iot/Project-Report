@@ -155,6 +155,23 @@
         </ul>
       </td>
     </tr>
+    <td><strong>8.0</strong></td>
+      <td>09 de julio de 2025</td>
+      <td>
+        <ul>
+          <li>Ramos Ramirez, Renzo Manuel</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Adrianzen Flores, Carlos Arturo</li>
+          <li>Ortiz Fajardo, Tomás</li>
+          <li>Dam Rubianes, Frida Sofia</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 3</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -351,6 +368,17 @@
     - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
     - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
     - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+- [6.2.3. Sprint 3](#623-sprint-3)
+  - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
+  - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)
+  - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)
+  - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)
+  - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)
+  - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)
+  - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6237-services-documentation-evidence-for-sprint-review)
+  - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6238-software-deployment-evidence-for-sprint-review)
+  - [6.2.3.9. Team Collaboration Insights during Sprint](#6239-team-collaboration-insights-during-sprint)
+
 - [6.3. Validation Interviews](#63-validation-interviews)
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas)
