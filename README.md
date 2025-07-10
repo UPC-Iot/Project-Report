@@ -233,6 +233,22 @@
         <img src="img/collaboration_tp1.png" alt="Collaboration TP1" width="450">
       </td>
     </tr>
+    <tr>
+      <td>
+        <strong>TF</strong><br>
+        • Dam Rubianes, Frida Sofía – Capítulo VI: Sprint Planning, Aspect Leaders and Collaborators<br>
+        • Adrianzen Flores, Carlos Arturo – Capítulo VI: Solution UI/UX Design<br>
+        • Ortiz Fajardo, Tomás – Capítulo VI: Sprint Backlog 3,Development Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review<br>
+        • Matos Fernandez, Christian Andre – Capítulo VI: Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review<br>
+        • Ramos Ramirez, Renzo Manuel – Capítulo VI: Team Collaboration Insights during Sprint, Validation Interviews
+      </td>
+      <td style="text-align:center;">
+      <img src="img/tf/collaboration_tf.png" alt="Collaboration TF" width="450">
+        <br><br>
+        <img src="img/tf/collaboration_insight_tf.png" alt="Collaboration TF" width="450">
+      </td>
+    </tr>
   </tbody>
 </table>
 
