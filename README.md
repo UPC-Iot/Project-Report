@@ -2327,7 +2327,229 @@ Para la conexión del dispositivo al app movíl
 <img src="img/tf/insights_raspyberry.png" alt="Logo de UPC" width="100%">
 
 
+### 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
 
+Las entrevistas de validación se han diseñado considerando a los usuarios objetivos reales del producto Protectify, con el fin de obtener retroalimentación directa sobre la landing page y la aplicación móvil. Estas entrevistas son clave para evaluar la usabilidad, comprensión del valor ofrecido, interacción con las funciones principales del sistema y nivel de confianza percibida por los usuarios.
+
+Objetivos de la entrevista: 
+- Evaluar comprensión de la propuesta de valor en la landing page.
+
+- Observar la navegación del usuario en los flujos clave de la app.
+
+- Detectar obstáculos o dudas durante el uso de funciones principales.
+
+- Validar percepción de confianza y control por parte del usuario sobre la seguridad de su hogar.
+
+Elementos incluidos en la sesión de validación
+A. Landing Page
+- Claridad del mensaje principal
+
+- Jerarquía de contenido
+
+- Presentación de beneficios
+
+- Llamado a la acción (CTA)
+
+- Facilidad de navegación
+
+B. Aplicación Móvil Protectify
+
+| Funcionalidad      | Mock-ups evaluados                                              |
+| ------------------ | --------------------------------------------------------------- |
+| Onboarding         | OnBoarding, OnBoarding 2                                        |
+| Registro           | Sign-Up, Sign-Up Scane, Scane Face Completed, Sign-Up Completed |
+| Inicio de sesión   | Sign-In                                                         |
+| Home principal     | Home                                                            |
+| Gestión de rostros | Facial List, Register Member, Member Scane, Member Added        |
+| Gestión de cámaras | Cameras List, Camera Register (1)                               |
+| Perfil de usuario  | Edit Profile                                                    |
+
+#### User Flows incluidos en la sesión de validación
+User Flow 1: Landing Page
+
+- Ingreso a la web
+
+- Comprensión de propuesta de valor
+
+- Interacción con botón de registro o contacto
+
+User Flow 2: Registro e inicio en la app
+
+- Registro de usuario con escaneo facial
+
+- Inicio de sesión
+
+User Flow 3: Gestión de seguridad
+
+- Visualización de estado general del hogar
+
+- Registro de miembros y sus rostros
+
+- Registro y visualización de cámaras
+
+- Simulación de alerta (evento sospechoso)
+
+### 6.3.2. Registro de Entrevistas.
+
+Entrevista 1
+| Campo           | Valor                                               |
+| --------------- | --------------------------------------------------- |
+| Nombre          | Ana Rodríguez Peña                                  |
+| Edad            | 27                                                  |
+| Distrito        | Miraflores                                          |
+| URL Video       | [Ver video](https://web.microsoftstream.com/video1_entrevista) |
+| Inicio/Duración | 00:00 / 05:10                                       |
+
+
+Resumen de la sesión:
+Ana resaltó la claridad de la interfaz móvil, especialmente durante el proceso de escaneo facial. Mencionó que la landing page era simple pero que podría profundizar en los beneficios del producto. Encontró muy útil la opción de crear perfiles familiares. Sugirió añadir una opción de "simulación de emergencia".
+
+
+Entrevista 2
+| Campo           | Valor                                               |
+| --------------- | --------------------------------------------------- |
+| Nombre          | Luis Chávez Rivas                                   |
+| Edad            | 34                                                  |
+| Distrito        | San Borja                                           |
+| URL Video       | [Ver video](https://web.microsoftstream.com/video2_entrevista) |
+| Inicio/Duración | 00:00 / 04:45                                       |
+
+Resumen de la sesión:
+Luis valoró la experiencia fluida desde el registro hasta la navegación general en la app. Notó que al registrar una cámara no se muestra un mensaje claro de confirmación, lo que podría dejar dudas. La landing page le pareció atractiva pero comentó que el CTA no destaca lo suficiente.
+
+
+
+Entevista 3
+| Campo           | Valor                                               |
+| --------------- | --------------------------------------------------- |
+| Nombre          | Rosa Cárdenas Tapia                                 |
+| Edad            | 42                                                  |
+| Distrito        | San Juan de Lurigancho                              |
+| URL Video       | [Ver video](https://web.microsoftstream.com/video3_entrevista) |
+| Inicio/Duración | 00:00 / 06:20                                       |
+
+Resumen de la sesión:
+Rosa, quien ya fue víctima de robo, mostró gran interés por las alertas en tiempo real. Tuvo algunas dificultades iniciales en el registro facial, pero luego entendió la funcionalidad. Sugirió incluir un pequeño tutorial al ingresar a la app por primera vez.
+
+### 6.3.3. Evaluaciones según heurísticas.
+
+##  Evaluación según heurísticas
+
+### Información general
+
+- **CARRERA**: Ingeniería de Software  
+- **CURSO**: Desarrollo de Soluciones IoT  
+- **SECCIÓN**: 15260 
+- **PROFESORES**: Todos  
+- **AUDITOR**: Protectify  
+- **CLIENTES**: Entrevistados de validación
+
+---
+
+### SITE o APP A EVALUAR
+
+- **Aplicación móvil**: Protectify App (Android/iOS)  
+- **Landing Page**: protectify.pe (versión prototipo)
+
+---
+
+### TAREAS A EVALUAR
+
+Incluidas:
+
+1. Registro de nuevo usuario  
+2. Escaneo facial  
+3. Registro de nuevo miembro  
+4. Registro de cámara  
+5. Recepción de alerta  
+6. Edición de perfil  
+7. Navegación por landing page  
+
+No incluidas (a futuro):
+
+1. Integración con fuerzas del orden  
+2. Envío automático de grabaciones  
+3. Vista compartida para familiares  
+4. Dashboard web complementario  
+
+---
+
+### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser superado fácilmente por el usuario o ocurre con baja frecuencia. |
+| 2     | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar. Prioridad baja. |
+| 3     | Problema mayor: ocurre frecuentemente y afecta la experiencia. Requiere corrección con prioridad alta. |
+| 4     | Problema muy grave: impide que el usuario continúe. Requiere corrección inmediata. |
+
+---
+
+###  Tabla resumen de hallazgos
+
+| # | Problema detectado                                               | Severidad | Heurística violada                                      |
+|---|------------------------------------------------------------------|-----------|----------------------------------------------------------|
+| 1 | No hay botón de retroceso en escaneo facial                     | 2         | Usabilidad: Libertad y control del usuario               |
+| 2 | Texto muy pequeño en onboarding                                 | 1         | Usabilidad: Visibilidad y legibilidad                    |
+| 3 | No hay feedback tras registrar una cámara                       | 1        | Usabilidad: Feedback claro                               |
+| 4 | CTA poco visible en la landing page                             | 2         | Arquitectura de información: Claridad visual             |
+| 5 | Dificultad para volver a editar rostro escaneado                | 1         | Usabilidad: Flexibilidad y eficiencia de uso             |
+
+---
+
+###  Descripción de problemas
+
+#### Problema #1: No hay botón de retroceso en escaneo facial
+- **Severidad**: 2  
+- **Heurística violada**: Usabilidad – Libertad y control del usuario  
+- **Descripción**: Durante el escaneo facial inicial, el usuario no puede cancelar ni regresar, lo que genera frustración si quiere modificar algo.  
+- **Recomendación**: Incluir botón de “Volver” o “Cancelar” claramente visible durante el escaneo.
+
+---
+
+#### Problema #2: Texto muy pequeño en la pantalla de onboarding
+- **Severidad**: 1  
+- **Heurística violada**: Usabilidad – Visibilidad y legibilidad  
+- **Descripción**: En algunos dispositivos el texto es difícil de leer, especialmente en la sección de descripción de beneficios.  
+- **Recomendación**: Aumentar el tamaño de fuente y asegurar contraste con el fondo.
+
+---
+
+#### Problema #3: No hay confirmación al registrar una cámara
+- **Severidad**: 1  
+- **Heurística violada**: Usabilidad – Feedback claro  
+- **Descripción**: Luego de registrar una cámara, la aplicación no muestra ningún mensaje de éxito ni validación visual.  
+- **Recomendación**: Mostrar alerta de “Cámara registrada correctamente” o animación de confirmación.
+
+---
+
+#### Problema #4: CTA poco visible en la landing page
+- **Severidad**: 2  
+- **Heurística violada**: Arquitectura de información – Claridad visual  
+- **Descripción**: El botón de “Regístrate ahora” no resalta respecto al diseño general y puede pasar desapercibido.  
+- **Recomendación**: Usar colores contrastantes, agrandar el botón y colocarlo en una sección más visible.
+
+---
+
+#### Problema #5: No es posible editar el rostro escaneado fácilmente
+- **Severidad**: 1 
+- **Heurística violada**: Usabilidad – Flexibilidad y eficiencia de uso  
+- **Descripción**: Si el escaneo facial no es correcto, el usuario no puede modificarlo desde la sección de perfil.  
+- **Recomendación**: Incluir opción de reescanear rostro desde configuración o perfil.
+
+---
+
+### 6.4. Video About-the-Product.
+
+Como parte del proceso de validación y comunicación del modelo de negocio de Protectify, se ha elaborado un video promocional que resume las principales características, beneficios y funcionalidades del producto. Este video también incluye escenas de interacción real con la aplicación móvil y opiniones de usuarios pertenecientes al segmento objetivo previamente identificado.
+
+El video ha sido subido a las plataformas Microsoft Stream y YouTube para su difusión.
+
+ **Microsoft Stream**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)]  
+ **YouTube**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)]
+
+![Screenshot del video](URL_DE_SCREENSHOT)
 
 # Conclusiones
 
