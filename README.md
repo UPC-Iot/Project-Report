@@ -155,6 +155,23 @@
         </ul>
       </td>
     </tr>
+    <td><strong>8.0</strong></td>
+      <td>09 de julio de 2025</td>
+      <td>
+        <ul>
+          <li>Ramos Ramirez, Renzo Manuel</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Adrianzen Flores, Carlos Arturo</li>
+          <li>Ortiz Fajardo, Tomás</li>
+          <li>Dam Rubianes, Frida Sofia</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Sprint 3</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -351,6 +368,17 @@
     - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
     - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
     - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+- [6.2.3. Sprint 3](#623-sprint-3)
+  - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
+  - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)
+  - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)
+  - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)
+  - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)
+  - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)
+  - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6237-services-documentation-evidence-for-sprint-review)
+  - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6238-software-deployment-evidence-for-sprint-review)
+  - [6.2.3.9. Team Collaboration Insights during Sprint](#6239-team-collaboration-insights-during-sprint)
+
 - [6.3. Validation Interviews](#63-validation-interviews)
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas)
@@ -2039,11 +2067,15 @@ Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
 
 Durante este sprint se desarrollaron los siguientes componentes:
 
-| Repository     | Branch | Commit Id                             | Commit Message             | Commit Message Body | Committed on (Date) |
-|----------------|--------|----------------------------------------|----------------------------|---------------------|---------------------|
-| app-web        | main   | a37cb8209d90ffb801e23a6d8a0f123c46c6c11d | feature: nueva vista de cámaras | none                | 10/06/2025          |
-| app-mobile     | main   | b99d12d4e93fcfa38e01b2c709e7a0cf118a8c32 | feature: alert system UI         | none                | 11/06/2025          |
-| backend-api    | main   | d710fa66eb52fbb270ed90a2b4db51cb5c17a8e7 | feature: login y alertas API     | none                | 12/06/2025          |
+| Repository         | Branch   | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
+|--------------------|----------|-----------|--------------------------------------------------------|---------------------|----------------------|
+| protectify-backend | release  | 69e7459   | feat: added Dockerfile                                 | none                | 2025-07-09           |
+| protectify-backend | main     | 7602dbf   | feat: added enum DOOR                                  | none                | 2025-07-08           |
+| protectify-backend | main     | 7a27522   | feat: added security bounded context                   | none                | 2025-07-07           |
+| protectify-backend | main     | a5cc556   | feat: added iam bounded context, profiles bounded context | none              | 2025-07-06           |
+| protectify-backend | develop  | 5857111   | Primer commit                                          | none                | 2025-07-05           |
+| protectify-backend | main     | a9b93ad   | Initial commit                                         | none                | 2025-07-04           |
+
 
 ---
 
@@ -2099,6 +2131,204 @@ Durante este sprint, los integrantes trabajaron en ramas específicas según sus
 <img src="img/collboration_landing.png" alt="Landing Page">
 
 
+## 6.2.3. Sprint 3
+### 6.2.3.1. Sprint Planning 3
+
+El segundo sprint fue organizado mediante una reunión virtual. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
+
+| **Sprint #**                        | **Sprint 3** |
+|-------------------------------------|--------------|
+| **Sprint Planning Background**      |              |
+| **Date**                            | 2025-06-27   |
+| **Time**                            | 03:00 PM     |
+| **Location**                        | Virtual      |
+| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
+| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 2 Review Summary**     | Se completó correctamente el backend  |
+| **Sprint n - 2 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil. |
+| **Sprint Goal & User Stories**      |              |
+| **Sprint 3 Goal**                   | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas. |
+| **Sprint 3 Velocity**               | 27           |
+| **Sum of Story Points**             | 27           |
+
+### 6.2.3.2. Aspect Leaders and Collaborators
+
+A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de App Móvil.
+
+| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
+|----------------------------------|------------------------|------------------------|-----------------------------|--------------------------|
+| Adrianzen Flores, Carlos Arturo | choliwys              | -                      | -                           | -                        |
+| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | -                           | -                        |
+| Matos Fernandez, Christian Andre| FerKlox               | C                      | -                           | C                        |
+| Ortiz Fajardo, Tomás            | U201910146            | -                      | -                           | -                        |
+| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | C                      | -                           | C                        |
+
+---
+
+### 6.2.3.3. Sprint Backlog 3
+
+## 🗂️ Sprint # | Sprint 3
+
+| User Story | Title | Task ID | Task Title | Description | Estimation | Assigned To | Status |
+|------------|-------|---------|-------------|-------------|------------|--------------|--------|
+| US-01 | Registro de usuario | T01 | Crear formulario de registro | Formulario con validación y persistencia de datos | 2 | Christian Andre | Done |
+| US-02 | Editar perfil de usuario | T02 | Implementar edición de perfil | Edición de nombre, correo, foto y contraseña | 1.5 | Tomás Ortiz | Done |
+| US-03 | Iniciar sesión | T03 | Desarrollar login seguro | Autenticación con token JWT | 1.5 | Carlos Arturo | Done |
+| US-04 | Cambiar contraseña | T04 | Vista para cambio de contraseña | Cambio de clave con validación y confirmación | 1 | Renzo Ramos | Done |
+| US-05 | Cerrar sesión | T05 | Implementar logout | Eliminación de token y redirección segura | 0.5 | Christian Andre | Done |
+| US-06 | Visualizar cámaras en tiempo real | T06 | Integrar feed en tiempo real | Visualización en vivo usando WebRTC | 2 | Tomás Ortiz | Done |
+| US-07 | Notificaciones de alerta | T07 | Crear sistema de notificaciones | Notificaciones push y locales ante eventos | 2 | Carlos Arturo | Done |
+| US-08 | Historial de eventos | T08 | Mostrar historial de alertas | Listado de eventos por fecha y hora | 1.5 | Renzo Ramos | Done |
+| US-09 | Ajustes de notificaciones | T09 | Vista de configuración | Permitir al usuario activar/desactivar alertas | 1 | Christian Andre | Done |
+| US-10 | Alarmas personalizadas | T10 | Crear regla de alarma | Permitir configurar umbrales de alerta | 1.5 | Tomás Ortiz | Done |
+| US-11 | Configurar video de cámara | T11 | Ajustar calidad/resolución | Configuración por usuario de la cámara | 1 | Renzo Ramos | Done |
+| US-12 | Crear perfil facial | T12 | Agregar rostro autorizado | Captura de rostro y persistencia de datos | 2 | Carlos Arturo | Done |
+| US-13 | Actualizar perfil facial | T13 | Editar datos faciales | Reentrenar o reemplazar perfiles faciales | 1.5 | Tomás Ortiz | Done |
+| US-14 | Eliminar perfil facial | T14 | Borrar perfil de base de datos | Eliminación segura desde app | 1 | Christian Andre | Done |
+| US-15 | Reconocimiento facial | T15 | Activar detección en vivo | Asociar alertas a reconocimiento facial | 2.5 | Renzo Ramos | Done |
+| US-16 | Compartir acceso | T16 | Enviar invitación por correo | Crear rol invitado y control de acceso | 1.5 | Carlos Arturo | Done |
+| US-17 | Eventos en calendario | T17 | Sincronizar con calendario | Registrar alertas en calendario vinculado | 1 | Christian Andre | Done |
+| US-18 | Informe semanal | T18 | Generar reporte PDF | Resumen de actividad semanal por email | 1.5 | Tomás Ortiz | Done |
+| US-19 | Contactar centro de seguridad | T19 | Crear botón de emergencia | Envío automático de alerta al centro | 1.5 | Renzo Ramos | Done |
+| US-20 | Info de contacto de emergencia | T20 | Mostrar información clave | Teléfonos y contactos cercanos | 1 | Carlos Arturo | Done |
+| US-21 | Mensaje de contacto web | T21 | Formulario de contacto | Envío de mensajes al equipo técnico | 1 | Christian Andre | Done |
+| US-22 | Redes sociales | T22 | Mostrar enlaces y contenido | Visualización de Instagram y Facebook | 0.5 | Renzo Ramos | Done |
+| US-23 | Barra de navegación web | T23 | Crear navegación interactiva | Acceso rápido a secciones informativas | 1 | Tomás Ortiz | Done |
+
+### 6.2.3.4. Development Evidence for Sprint Review
+
+
+| Repository         | Branch         | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
+|--------------------|----------------|-----------|--------------------------------------------------------|---------------------|----------------------|
+| protectify-backend | release         | 69e7459   | feat: added Dockerfile                                 | none                | 2025-07-09           |
+| protectify-backend | main            | 7602dbf   | feat: added enum DOOR                                  | none                | 2025-07-08           |
+| protectify-backend | main            | 7a27522   | feat: added security bounded context                   | none                | 2025-07-07           |
+| protectify-backend | main            | a5cc556   | feat: added iam bounded context, profiles bounded context | none             | 2025-07-06           |
+| protectify-backend | develop         | 5857111   | Primer commit                                          | none                | 2025-07-05           |
+| protectify-backend | main            | a9b93ad   | Initial commit                                         | none                | 2025-07-04           |
+| protectify-frontend| feature/visitor | ccdf361   | fix: fixed form data                                   | none                | 2025-07-09           |
+| protectify-frontend| feature/visitor | f2f803c   | feat: added visitorList & visitorForm                  | none                | 2025-07-08           |
+| protectify-frontend| develop         | adf04ce   | Merge pull request #1 from UPC-Iot/feature/auth        | none                | 2025-07-08           |
+| protectify-frontend| feature/auth    | 66df1fa   | feat: navigation for certain screens added             | none                | 2025-07-07           |
+| protectify-frontend| feature/auth    | 43855d8   | Merge branch 'feature/auth' of https://github.com/UPC-Iot/Frontend into feature/auth | none | 2025-07-07           |
+| protectify-frontend| feature/auth    | 8512999   | feat: Navigation added                                 | none                | 2025-07-06           |
+| protectify-frontend| feature/auth    | 6468d43   | feat: added home screen                                | none                | 2025-07-06           |
+| protectify-frontend| feature/auth    | 7e0acad   | feat: updated owner repository                         | none                | 2025-07-05           |
+| protectify-frontend| feature/auth    | d3ba1d9   | feat: updated manifest                                 | none                | 2025-07-05           |
+| protectify-frontend| feature/auth    | 7c51fb3   | feat: added userDao                                    | none                | 2025-07-04           |
+| protectify-frontend| feature/auth    | 120e49a   | fix: fixed dependencies                                | none                | 2025-07-04           |
+| protectify-frontend| feature/auth    | 1c089a6   | feat: added CloudStorage                               | none                | 2025-07-03           |
+
+### 6.2.3.5. Testing Suite Evidence for Sprint Review
+
+### 6.2.3.6. Execution Evidence for Sprint Review
+
+## 🚀 Avances en la Implementación
+
+Durante esta entrega se avanzó con varios componentes clave del proyecto:
+
+- ✅ **Implementación de la aplicación móvil:** Se desarrollaron funcionalidades esenciales de la app, permitiendo la interacción del usuario con el sistema.
+
+![Avance de la app móvil](img/tf/frontend.png)
+
+- ✅ **Implementación del backend:** Se continuó con el desarrollo y despliegue del backend, incluyendo los servicios REST documentados mediante Swagger.
+
+![Documentación Swagger del backend](img/tf/swagger.png)
+
+- ✅ **Conexión con dispositivos físicos:** Se logró establecer la comunicación entre la app móvil y los dispositivos físicos (como sensores o placas Arduino), permitiendo pruebas reales del sistema.
+
+![Conexión con Arduino](img/tf/arduino.jpg)
+![Dispositivo físico conectado](img/tf/fisico.jpg)
+
+
+### 6.2.3.7. Services Documentation Evidence for Sprint Review
+
+## 📘 Endpoints de la API - Protectify
+
+Link del swagger: https://backend-mdxg.onrender.com/swagger-ui/index.html
+
+| Método | Endpoint                                             | Descripción                                            |
+|--------|------------------------------------------------------|--------------------------------------------------------|
+| POST   | `/api/v1/authentication/sign-up`                    | Registro de nuevo usuario                              |
+| POST   | `/api/v1/authentication/sign-in`                    | Inicio de sesión (autenticación)                       |
+| GET    | `/api/v1/alerts`                                    | Listar todas las alertas                              |
+| POST   | `/api/v1/alerts`                                    | Crear una nueva alerta                                |
+| GET    | `/api/v1/alerts/{id}`                               | Obtener alerta por ID                                 |
+| PUT    | `/api/v1/alerts/{id}`                               | Actualizar alerta por ID                              |
+| DELETE | `/api/v1/alerts/{id}`                               | Eliminar alerta por ID                                |
+| GET    | `/api/v1/alerts/owner/{ownerId}`                    | Listar alertas por dueño                              |
+| GET    | `/api/v1/alerts/house/{houseId}`                    | Listar alertas por casa                               |
+| GET    | `/api/v1/devices`                                   | Listar todos los dispositivos                         |
+| POST   | `/api/v1/devices`                                   | Crear nuevo dispositivo                               |
+| GET    | `/api/v1/devices/{id}`                              | Obtener dispositivo por ID                            |
+| PUT    | `/api/v1/devices/{id}`                              | Actualizar dispositivo por ID                         |
+| DELETE | `/api/v1/devices/{id}`                              | Eliminar dispositivo por ID                           |
+| GET    | `/api/v1/devices/owner/{ownerId}`                   | Listar dispositivos por dueño                         |
+| GET    | `/api/v1/devices/house/{houseId}`                   | Listar dispositivos por casa                          |
+| GET    | `/api/v1/houses`                                    | Listar todas las casas                                |
+| POST   | `/api/v1/houses`                                    | Crear nueva casa                                      |
+| GET    | `/api/v1/houses/{id}`                               | Obtener casa por ID                                   |
+| PUT    | `/api/v1/houses/{id}`                               | Actualizar casa por ID                                |
+| DELETE | `/api/v1/houses/{id}`                               | Eliminar casa por ID                                  |
+| GET    | `/api/v1/houses/owner/{ownerId}`                    | Listar casas por dueño                                |
+| GET    | `/api/v1/notifications`                             | Listar todas las notificaciones                       |
+| POST   | `/api/v1/notifications`                             | Crear nueva notificación                              |
+| GET    | `/api/v1/notifications/{id}`                        | Obtener notificación por ID                           |
+| PUT    | `/api/v1/notifications/{id}`                        | Actualizar notificación por ID                        |
+| DELETE | `/api/v1/notifications/{id}`                        | Eliminar notificación por ID                          |
+| GET    | `/api/v1/notifications/user/{userId}`               | Listar notificaciones por ID de usuario               |
+| GET    | `/api/v1/profiles`                                  | Listar todos los perfiles                             |
+| POST   | `/api/v1/profiles`                                  | Crear nuevo perfil                                    |
+| GET    | `/api/v1/profiles/{id}`                             | Obtener perfil por ID                                 |
+| PUT    | `/api/v1/profiles/{id}`                             | Actualizar perfil por ID                              |
+| DELETE | `/api/v1/profiles/{id}`                             | Eliminar perfil por ID                                |
+| GET    | `/api/v1/profiles/{userId}/user`                    | Obtener perfil por ID de usuario                      |
+| GET    | `/api/v1/visitors`                                  | Listar todos los visitantes                           |
+| POST   | `/api/v1/visitors`                                  | Crear nuevo visitante                                 |
+| GET    | `/api/v1/visitors/{id}`                             | Obtener visitante por ID                              |
+| PUT    | `/api/v1/visitors/{id}`                             | Actualizar visitante por ID                           |
+| DELETE | `/api/v1/visitors/{id}`                             | Eliminar visitante por ID                             |
+| GET    | `/api/v1/visitors/owner/{ownerId}`                  | Listar visitantes por dueño                           |
+| GET    | `/api/v1/visitors/house/{houseId}`                  | Listar visitantes por casa                            |
+| GET    | `/api/v1/users`                                     | Listar todos los usuarios                             |
+| GET    | `/api/v1/users/{id}`                                | Obtener usuario por ID                                |
+| GET    | `/api/v1/owners`                                    | Listar todos los dueños                               |
+| GET    | `/api/v1/owners/{id}`                               | Obtener dueño por ID                                  |
+| GET    | `/api/v1/owners/{userId}/user`                      | Obtener dueño por ID de usuario                       |
+
+
+### 6.2.3.8. Software Deployment Evidence for Sprint Review
+
+## 🌐 Despliegue del Backend
+
+Para el despliegue del backend del sistema se utilizaron los siguientes servicios:
+
+- **Base de datos:** Fue implementada y alojada en la plataforma **Railway**, permitiendo una gestión en la nube accesible y eficiente.
+- **Aplicación backend:** El backend desarrollado en Spring Boot fue desplegado en **Render**, lo cual permite exponer los endpoints públicamente a través de un dominio accesible.
+- **Documentación API:** Se utilizó **Swagger UI** para documentar y probar los endpoints del backend de forma interactiva.
+
+### 🖼️ Evidencias de despliegue
+
+![Railway - Base de datos desplegada](img/tf/railway.png)
+![Render - Backend desplegado](img/tf/render.png)
+![Swagger - Documentación de API](img/tf/swagger.png)
+
+🔗 **Enlace a Swagger UI:**  
+[https://backend-mdxg.onrender.com/swagger-ui/index.html](https://backend-mdxg.onrender.com/swagger-ui/index.html)
+
+### 6.2.3.9. Team Collaboration Insights during Sprint
+
+Para el desarrollo del backend se muestra la colaboración de los integrantes:
+
+<img src="img/tf/insights_backend.png" alt="Logo de UPC" width="100%">
+
+Para la conexión del dispositivo al app movíl
+
+<img src="img/tf/insights_raspyberry.png" alt="Logo de UPC" width="100%">
+
+
+
+
 # Conclusiones
 
 - Durante el desarrollo de los sprints 1 y 2 del proyecto *Protectify*, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
@@ -2108,6 +2338,7 @@ Durante este sprint, los integrantes trabajaron en ramas específicas según sus
 - El trabajo colaborativo y la organización por aspectos permitieron dividir de manera efectiva las tareas, mejorar los tiempos de entrega y aumentar la calidad de los desarrollos. A través del uso de herramientas como Trello, GitHub y plataformas de despliegue como Netlify y Vercel, se logró mantener la trazabilidad y visibilidad del trabajo en equipo.
 
 - Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto *Protectify* se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
+
 
 # Bibliografía
 
