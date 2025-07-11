@@ -602,7 +602,7 @@ Logramos identificar que un factor crítico que pone en riesgo la seguridad de l
 
 #### 1.2.2.4. Lean UX Canvas
 
-![image](https://github.com/user-attachments/assets/f5e27911-b081-4dc5-b6fa-03628aa33355)
+<img src="img/tf/lean_ux_canvas.png" alt="Lean UX Canvas" width="100%">
 
 ## 1.3. Segmentos objetivo
 
