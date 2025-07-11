@@ -2562,10 +2562,9 @@ Como parte del proceso de validación y comunicación del modelo de negocio de P
 
 El video ha sido subido a las plataformas Microsoft Stream y YouTube para su difusión.
 
- **Microsoft Stream**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)]  
- **YouTube**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)]
+ **YouTube**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)
 
-![Screenshot del video](URL_DE_SCREENSHOT)
+![Screenshot del video](img/ssvideo.png)
 
 # Conclusiones
 
