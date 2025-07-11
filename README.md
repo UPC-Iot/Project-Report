@@ -2568,6 +2568,8 @@ El video ha sido subido a las plataformas Microsoft Stream y YouTube para su dif
 
 # Conclusiones
 
+- A través de entrevistas y pruebas, se validó que existe un interés genuino por soluciones de seguridad inteligentes. Los usuarios valoran la facilidad de uso, la notificación instantánea de eventos sospechosos y la posibilidad de gestionar perfiles.
+
 - Durante el desarrollo de los sprints 1 y 2 del proyecto *Protectify*, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
 
 - En el Sprint 2, el equipo centró sus esfuerzos en la implementación de funcionalidades clave: se actualizó la aplicación web, se lanzó la primera versión funcional de la app móvil y se desarrolló el backend con una API básica que permite el manejo de autenticaciones y alertas. Esto representa un paso fundamental hacia la integración del sistema con los dispositivos IoT.
@@ -2576,6 +2578,21 @@ El video ha sido subido a las plataformas Microsoft Stream y YouTube para su dif
 
 - Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto *Protectify* se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
 
+- Protectify demostró que es posible integrar sensores, cámaras, microcontroladores y algoritmos de reconocimiento facial en un sistema funcional de seguridad para el hogar. La arquitectura distribuida (dispositivo, backend, app) permitió un monitoreo en tiempo real y la personalización por usuario.
+
+- Se identificaron desafíos técnicos como la estabilidad de la conexión entre el dispositivo IoT y el backend, el consumo energético del sistema embebido y la precisión del modelo de reconocimiento facial. Estos se abordaron con soluciones parciales, pero requieren más iteraciones.
+
+# Recomendaciones
+
+- Se recomienda investigar y aplicar técnicas de bajo consumo energético y optimización de código embebido para asegurar mayor autonomía del hardware, especialmente en contextos donde no hay alimentación constante.
+
+- El sistema puede beneficiarse de modelos de reconocimiento facial más entrenados o específicos al entorno doméstico. También se podría añadir detección de movimiento o patrones anómalos.
+
+- Se debe reforzar la encriptación de los datos transmitidos y almacenados (imágenes, perfiles de usuarios, logs de eventos), incorporando estándares de ciberseguridad como HTTPS, tokens JWT, y cifrado en el dispositivo.
+
+- Para futuras versiones se debería considerar la capacidad del sistema de manejar múltiples dispositivos por hogar, así como perfiles diferenciados por usuario (admin, visitante, familia, etc.).
+
+- Es crucial probar el sistema en distintos hogares reales, con diferentes condiciones de conectividad, iluminación y distribución, para identificar mejoras específicas antes de una versión comercial.
 
 # Bibliografía
 
