@@ -245,7 +245,7 @@
       <td style="text-align:center;">
       <img src="img/tf/collaboration_tf.png" alt="Collaboration TF" width="450">
         <br><br>
-        <img src="img/tf/collaboration_insight_tf.png" alt="Collaboration TF" width="450">
+        <img src="img/tf/xd.png" alt="Collaboration TF" width="450">
       </td>
     </tr>
   </tbody>
