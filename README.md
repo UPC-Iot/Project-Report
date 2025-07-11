@@ -2405,7 +2405,7 @@ Entrevista 1
 | Edad | 27 |
 | Distrito | Miraflores |
 | URL Video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218352_upc_edu_pe/EU_a7QbipMdBgkn-Z5rjRroBIKTAxbu2Jvab2YBaDrrDPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oyy0ni) |
-| Inicio/Duración | 00:00 / 05:10 |
+| Inicio/Duración | 00:00 / 03:17 |
 
 Resumen de la sesión:
 Ana resaltó la claridad de la interfaz móvil, especialmente durante el proceso de escaneo facial. Mencionó que la landing page era simple pero que podría profundizar en los beneficios del producto. Encontró muy útil la opción de crear perfiles familiares. Sugirió añadir una opción de "simulación de emergencia".
@@ -2417,7 +2417,7 @@ Entrevista 2
 | Edad | 34 |
 | Distrito | San Borja |
 | URL Video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218352_upc_edu_pe/Ea1rMFRxm1NFp5XDMv0qyQQBoqpirbmoIFvYDQS0Pn4uUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=StP5pc) |
-| Inicio/Duración | 00:00 / 04:45 |
+| Inicio/Duración | 00:00 / 02:49 |
 
 Resumen de la sesión:
 Luis valoró la experiencia fluida desde el registro hasta la navegación general en la app. Notó que al registrar una cámara no se muestra un mensaje claro de confirmación, lo que podría dejar dudas. La landing page le pareció atractiva pero comentó que el CTA no destaca lo suficiente.
@@ -2428,7 +2428,7 @@ Entevista 3
 | Nombre | Rosalino Cárdenas Tapia |
 | Edad | 42 |
 | Distrito | San Juan de Lurigancho |
-| URL Video | [Ver video](https://upcedupe-my.sharepoint.com/personal/u202113745_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113745%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideos%20iot%2FValidation%20intervew%20Renzo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef1daa6e0%2Daf6d%2D47e5%2D9649%2D2505c8a6d65e) |
+| URL Video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113745_upc_edu_pe/EaDLEx8OoLpFjVyCoToK16ABTcqNtbL6hw2taMOoCLcD6w?e=eg7TR9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Inicio/Duración | 00:00 / 04:43 |
 
 Resumen de la sesión:
