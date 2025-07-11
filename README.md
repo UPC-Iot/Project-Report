@@ -179,7 +179,6 @@
 
 # Project Report Collaboration Insights
 
-
 <table>
   <thead>
     <tr>
@@ -251,8 +250,6 @@
     </tr>
   </tbody>
 </table>
-
-
 
 # Tabla de Contenido
 
@@ -375,16 +372,17 @@
     - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
     - [6.2.1.9. Team Collaboration Insights during Sprint](#6219-team-collaboration-insights-during-sprint)
 - [6.2.2. Sprint 2](#622-sprint-2)
-    - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
-    - [6.2.2.2. Aspect Leaders and Collaborators](#6212-aspect-leaders-and-collaborators)
-    - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)
-    - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
-    - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)
-    - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)
-    - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
-    - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
-    - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
+  - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
+  - [6.2.2.2. Aspect Leaders and Collaborators](#6212-aspect-leaders-and-collaborators)
+  - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)
+  - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
+  - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)
+  - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)
+  - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
+  - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
+  - [6.2.2.9. Team Collaboration Insights during Sprint](#6229-team-collaboration-insights-during-sprint)
 - [6.2.3. Sprint 3](#623-sprint-3)
+
   - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
   - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)
   - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)
@@ -399,6 +397,7 @@
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas)
 - [6.4. Video About-the-Product](#64-video-about-the-product)
+
 # Student Outcome
 
 ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un
@@ -1177,48 +1176,46 @@ Epics
 
 **EP008 :** Como usuario, quiero explorar de manera interactiva la landing page, participando activamente en sus funcionalidades para obtener información detallada sobre la aplicación y, finalmente, tener la posibilidad de descargarla.
 
-| User Story ID | Título                                           |
-| ------------- | ------------------------------------------------ |
-| US-24         | Visualización de la sección Inicio               |
-| US-25         | Visualización de la sección Sobre Nosotros       |
-| US-26         | Visualización de la sección Servicios            |
-| US-27         | Visualización de la sección Funcionamiento       |
-| US-28         | Visualización de la sección Testimonios          |
-
-
+| User Story ID | Título                                     |
+| ------------- | ------------------------------------------ |
+| US-24         | Visualización de la sección Inicio         |
+| US-25         | Visualización de la sección Sobre Nosotros |
+| US-26         | Visualización de la sección Servicios      |
+| US-27         | Visualización de la sección Funcionamiento |
+| US-28         | Visualización de la sección Testimonios    |
 
 ---
 
-|**User Story ID**|**Título**|**Descripción**|**Criterio de aceptación**|**Relación (EPIC ID)**|
-| :- | :- | :- | :- | :- |
-|**US-01**|Registro de usuario|Como nuevo usuario, quiero registrarme en la aplicación para poder tener mi cuenta.|<p>**Escenario 1:** Acceso del usuario a la página de registro</p><p>Dado que el usuario haya descargado la aplicación y abra la aplicación</p><p>Cuando el usuario se encuentra en la página de "Inicio de sesión"</p><p>Y haga clic en el botón "Registrarse",</p><p>Entonces, la aplicación mostrará la página de registro.</p><p>**Escenario 2:** Registro exitoso del usuario </p><p>Dado que el usuario se encuentra en la página de registro</p><p>Cuando el usuario ingrese sus datos </p><p>Y el usuario haga clic en el botón "Registrarse”</p><p>Entonces la aplicación registrará al usuario y guardará su cuenta.</p><p>**Escenario 3:** Registro del usuario con datos inválidos</p><p>Dado que el usuario se encuentra en la página de registro,</p><p>Cuando el usuario ingrese sus datos de manera incompleta o con datos no válidos</p><p>Y el usuario haga clic en el botón "Registrarse"</p><p>Entonces la aplicación mostrará un mensaje de error</p><p>Y borrará los datos ingresados. </p>|**EP01**|
-|**US-02**|Editar perfil del usuario|Como usuario registrado, quiero modificar mi perfil para tener mi información actualizada en el sistema.|<p>**Escenario 1:** Acceso del usuario a "Mi perfil"</p><p>Dado que el usuario está registrado en la aplicación</p><p>Cuando el usuario seleccione su perfil, Entonces el sistema presentará la página "Mi perfil”</p><p>**Escenario 2:** El usuario elige  editar su perfil</p><p>Dado que el usuario se encuentra en la página "Mi perfil" con los datos personales visibles</p><p>Cuando el usuario haga clic en el botón "Editar perfil"</p><p>Entonces, el sistema mostrará la página de edición de perfil.</p><p>**Escenario 3:** Actualización exitosa de los datos del perfil del usuario</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles</p><p>Cuando el usuario introduzca sus nuevos datos</p><p>Y el usuario haga clic en el botón "Cambiar"</p><p>Entonces el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.</p><p>**Escenario 4:** Actualización de los datos del perfil del usuario con información inválida o incompleta</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles</p><p>Cuando el usuario ingrese datos incompletos o inválidos</p><p>Y el usuario haga clic en el botón "Actualizar"</p><p>Entonces la aplicación mostrará un mensaje de "Error"</p><p>Y borrará los datos ingresados.</p>|**EP01**|
-|**US-03**|Iniciar sesión en la aplicación|Como usuario registrado, quiero iniciar sesión en la aplicación para acceder dentro de ella.|<p>**Escenario 1:** Acceso del usuario a la página de inicio de sesión</p><p>Dado que el usuario inicia la aplicación</p><p>Y el usuario no ha iniciado sesión previamente o se ha desconectado</p><p>Cuando el usuario seleccione el botón "Iniciar Sesión"</p><p>Entonces, la aplicación exhibirá la página de inicio de sesión.</p><p>**Escenario 2:** Inicio de sesión exitoso del usuario</p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando el usuario ingrese sus credenciales válidas</p><p>Y el usuario haga clic en el botón "Iniciar Sesión"</p><p>Entonces, el usuario será autenticado</p><p>Y redirigido a la página principal de la aplicación.</p><p>**Escenario 3:** Intento de inicio de sesión fallido </p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando el usuario introduzca credenciales inválidas</p><p>Y el usuario haga clic en el botón "Iniciar Sesión"</p><p>Entonces la aplicación mostrará un mensaje de error que indica que las credenciales son incorrectas.</p>|**EP01**|
-|**US-04**|Cambiar Contraseña|Como usuario registrado, quiero cambiar mi contraseña para tener una mayor seguridad.|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando el usuario se dirija a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para modificar la contraseña.</p><p>**Escenario 2:** Cambio exitoso de la contraseña </p><p>Dado que el usuario se encuentra en la página de cambio de contraseña</p><p>Cuando el usuario introduzca su contraseña actual y la nueva contraseña en dos ocasiones</p><p>Y después haga clic en el botón "Cambiar Contraseña"</p><p>Entonces la aplicación realizará el cambio de contraseña</p><p>Y mostrará un mensaje de confirmación.</p><p>**Escenario 3:** Intento de cambio de contraseña fallido </p><p>Dado que el usuario se halla en la página de cambio de contraseña</p><p>Cuando el usuario introduzca una contraseña actual incorrecta o incompleta, luego ingrese la nueva contraseña dos veces</p><p>Y seleccione el botón "Cambiar Contraseña" </p><p>Entonces la aplicación desplegará un mensaje de error que señala que la contraseña actual es incorrecta.</p>|**EP01**|
-|**US-05**|Cerrar Sesión|Como usuario registrado, quiero cerrar sesión en la aplicación para que mi cuenta no quede guardada en mi móvil.|<p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando el usuario acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para cerrar sesión.</p><p>**Escenario 2:** Cierre de sesión exitoso por parte del usuario</p><p>Dado que el usuario se encuentra en la página de cierre de sesión</p><p>Cuando el usuario seleccione el botón "Cerrar Sesión"</p><p>Entonces, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.</p>|**EP01**|
-|**US-06**|Visualización en tiempo real de cámaras de seguridad|Como usuario, quiero acceder a la visualización en tiempo real de todas mis cámaras de seguridad para poder monitorear mi hogar en cualquier momento.|<p>**Escenario 1**: Usuario accede a la visualización en tiempo real</p><p>Dado que el usuario ha iniciado sesión en la aplicación Protectify</p><p>Cuando el usuario seleccione la opción "Ver cámaras en tiempo real"</p><p>Entonces, la aplicación mostrará una vista en tiempo real de todas las cámaras de seguridad registradas en su cuenta.</p><p>**Escenario 2:** Usuario cambia la vista de la cámara</p><p>Dado que el usuario está viendo las imágenes en tiempo real de sus cámaras de seguridad</p><p>Cuando el usuario toque una cámara específica en la vista en tiempo real</p><p>Entonces, la aplicación cambiará la vista para mostrar solo la imagen en tiempo real de la cámara seleccionada.</p><p>**Escenario 3:** Usuario activa el audio de la cámara</p><p>Dado que el usuario está viendo las imágenes en tiempo real de una cámara de seguridad</p><p>Cuando el usuario active la opción de "Audio" en la cámara seleccionada</p><p>Entonces, la aplicación permitirá al usuario escuchar el sonido ambiente capturado por esa cámara.</p>|**EP02**|
-|**US-07**|Notificaciones de alerta|Como usuario, quiero recibir notificaciones en tiempo real cuando una persona desconocida sea detectada por las cámaras de seguridad para estar al tanto de posibles amenazas en mi propiedad.|<p>**Escenario 1:** Usuario recibe una notificación de alerta</p><p>Dado que la cámara de seguridad detecta a una persona desconocida</p><p>Cuando la aplicación identifica al individuo como desconocido</p><p>Entonces, la aplicación enviará una notificación instantánea al propietario con información sobre la persona detectada y la opción de marcarla como ladrón o no.</p><p>**Escenario 2:** Usuario marca a una persona como ladrón</p><p>Dado que el usuario ha recibido una notificación de alerta sobre una persona desconocida</p><p>Cuando el usuario seleccione la opción "Marcar como ladrón"</p><p>Entonces, la aplicación registrará a la persona como un ladrón en el historial de eventos y activará el dispositivo de seguridad.</p><p>**Escenario 3:** Usuario desactiva las notificaciones de alerta temporalmente</p><p>Dado que el usuario ha recibido varias notificaciones de alerta y desea un breve período de tranquilidad</p><p>Cuando el usuario seleccione la opción "Desactivar notificaciones por 1 hora"</p><p>Entonces, la aplicación dejará de enviar notificaciones de alerta durante el período especificado y luego las reanudará automáticamente.</p>|**EP02**|
-|**US-08**|Historial de eventos|Como usuario, quiero acceder al historial de eventos para revisar y mantener un registro de todas las detecciones de personas desconocidas y las acciones tomadas en mi propiedad.|<p>**Escenario 1:** Usuario accede al historial de eventos</p><p>Dado que el usuario está autenticado en la aplicación Protectify</p><p>Cuando el usuario seleccione la opción "Historial de eventos"</p><p>Entonces, la aplicación mostrará una lista cronológica de todas las detecciones de personas desconocidas, indicando si fueron marcadas como ladrones o no y si se activó el dispositivo de seguridad.</p><p>**Escenario 2:** Usuario filtra el historial por fecha</p><p>Dado que el usuario está viendo el historial de eventos</p><p>Cuando el usuario seleccione una fecha específica en la que ocurrieron eventos</p><p>Entonces, la aplicación mostrará solo los eventos que ocurrieron en la fecha seleccionada en el historial.</p><p>**Escenario 3:** Usuario borra un evento del historial</p><p>Dado que el usuario está viendo el historial de eventos</p><p>Cuando el usuario seleccione un evento específico en el historial</p><p>Y el usuario seleccione la opción "Borrar evento"</p><p>Entonces, la aplicación eliminará ese evento del historial de eventos.</p>|**EP02**|
-|**US-09**|Ajustes de notificaciones|Como usuario, quiero personalizar mis preferencias de notificación para recibir alertas de acuerdo a mis necesidades y establecer momentos de tranquilidad cuando lo requiera.|<p>**Escenario 1:** Usuario accede a las preferencias de notificación</p><p>Dado que el usuario ha iniciado sesión en la aplicación Protectify</p><p>Cuando el usuario vaya a la sección de "Ajustes de notificaciones"</p><p>Entonces, la aplicación permitirá al usuario personalizar la configuración de notificaciones, incluyendo el tipo de alertas que desea recibir y la forma en que desea recibirlas.</p><p>**Escenario 2:** Usuario desactiva las notificaciones de sonido</p><p>Dado que el usuario está en la sección de "Ajustes de notificaciones"</p><p>Cuando el usuario desactive la opción de "Notificaciones de sonido"</p><p>Entonces, la aplicación dejará de enviar notificaciones auditivas al dispositivo del usuario, pero seguirá enviando notificaciones visuales.</p><p>**Escenario 3:** Usuario programa un horario de notificaciones silenciosas</p><p>Dado que el usuario está en la sección de "Ajustes de notificaciones"</p><p>Cuando el usuario configure un horario de notificaciones silenciosas, por ejemplo, durante las horas de sueño</p><p>Entonces, la aplicación dejará de enviar notificaciones de sonido durante el período especificado.</p>|**EP03**|
-|**US-10**|Configuración de alarmas personalizadas|Como usuario, deseo configurar alarmas personalizadas, como sirenas o notificaciones específicas, en caso de intrusión, para estar informado de manera efectiva en situaciones de seguridad.|<p>**Escenario 1:** Acceso a la configuración de alarmas personalizadas.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de alarmas personalizadas.</p><p>Cuando, el usuario selecciona la opción para configurar una alarma personalizada.</p><p>Entonces, se mostrará un formulario de configuración de alarma.</p><p>**Escenario 2:** Elección del tipo de alarma y modo de ser notificado en caso de intrusión.</p><p>Dado que, el usuario ha completado el formulario de configuración de alarma personalizada.</p><p>Cuando, el usuario guarda la configuración de la alarma personalizada.</p><p>Entonces, la alarma se configurará según las preferencias del usuario, y se notificará al usuario de acuerdo con las opciones seleccionadas.</p>|**EP03**|
-|**US-11**|Configurar video de la cámara|Como usuario quiero modificar el video de la cámara para poder visualizar cómodamente los videos.|<p>**Escenario 1:** Usuario entra a la seccion configuracion de video</p><p>Dado que el usuario está en la página principal y quiere cambiar lo colores del video</p><p>Cuando el usuario da click en configuracion/video</p><p>Entonces, se abre la sección de ajustes de video.</p><p>**Escenario 2:** Usuario cambia valores en las sección ajustes de video</p><p>Dado que el usuario está en la sección ajustes de video</p><p>Cuando el usuario realiza algún cambio en los valores</p><p>Entonces se guardarán los cambios en la visualización de los videos.</p>|**EP03**|
-|**US-12**|Crear perfiles de reconocimiento|Como usuario quiero crear perfiles de reconocimiento para que las cámaras reconozcan a las personas recurrentes en mi domicilio.|<p>**Escenario 1:** Entrar a la sección perfiles</p><p>Dado que el usuario está en la página principal y quiere registrar un nuevo perfil</p><p>Cuando el usuario haga click en Perfiles/Registrar perfil</p><p>Entonces se abrirá la ventana de registro de perfiles.</p><p>**Escenario 2:** Crear un nuevo perfil</p><p>Dado que el usuario se encuentra en la ventana de registro de perfiles</p><p>Cuando el usuario llene todo los requerimientos ( nombre, apellido, celular, relación) y le de al click guardar</p><p>Entonces se almacenará el nuevo usuario en la base de datos y se mostrará un mensaje de operación exitosa.</p>|**EP04**|
-|**US-13**|Actualizar perfiles de reconocimiento|Como usuario quiero poder actualizar los perfiles de reconocimiento para tener noción de las personas incluidas en la lista.|<p>**Escenario 1:** Entrar a la lista de perfiles</p><p>Dado que el usuario está en la página principal</p><p>Cuando el usuario haga click en Perfiles</p><p>Entonces se abrirá una ventana con todos los perfiles registrados en la base de datos</p><p>**Escenario 2:** Actualizar información de perfiles</p><p>Dado que el usuario está en la página de Perfiles</p><p>Cuando el usuario seleccione un perfil y elija la opción ‘Actualizar información’</p><p>Entonces se abrirá una ventana para el registro de los nuevo datos</p><p>**Escenario 3:** Confirmar actualización</p><p>Dado que el usuario está en la ventana ‘Actualización de perfil’</p><p>Cuando llene todos los atributos  (nombre, apellido, celular, relación)</p><p>Y de click en confirmar</p><p>Entonces se actualizará la información de dicho perfil en la base de datos</p><p>Y se mostrará un mensaje de operación exitosa.</p>|**EP04**|
-|**US-14**|Eliminación de perfiles de reconocimiento|Como usuario quiero eliminar perfiles de reconocimiento para tener actualizado mis invitados permitidos.|<p>**Escenario 1:** Eliminar el perfil seleccionado</p><p>Dado que el usuario se encuentra en la página de Perfiles</p><p>Cuando el usuario selecciona un usuario</p><p>Y elige la opción eliminar perfil</p><p>Entonces el perfil se eliminará de la lista de Perfiles</p><p>Y se mostrará un mensaje de operación exitosa.</p>|**EP04**|
-|**US-15**|Reconocimiento facial|Como usuario quiero realizar un reconocimiento facial, para tener guardado mi perfil.|<p>\*\*Escenario 1:\*\*Entrar a reconocimiento facial</p><p>Dado que el usuario está en la ventana de Perfiles</p><p>Cuando el usuario seleccione un perfil y haga clic en añadir reconocimiento facial.</p><p>Entonces se abrirá una ventana dedicada al reconocimiento facial.</p><p>\*\*Escenario 2:\*\*Registras reconocimiento facial</p><p>Dado que el usuario se encuentra en la ventana Registro Facial</p><p>Cuando el usuario está realizando el proceso de registro facial y logra realizar todos los movimientos correctamente.</p><p>Entonces se mostrará un mensaje de registro de exitoso</p><p>**Escenario 3:** Error en medio reconocimiento facial</p><p>Dado que el usuario se encuentra realizando el reconocimiento facial</p><p>Cuando el usuario realiza un mal movimiento en el proceso</p><p>Entonces se muestra un mensaje de alinear correctamente la postura</p>|**EP04**|
-|**US-16**|Compartir acceso con invitados|Como usuario, deseo poder compartir acceso a mis cámaras con invitados temporales, como familiares que visitan mi hogar, para que puedan ver las cámaras durante su estadía.|<p>**Escenario 1:** Acceder a la configuración de acceso compartido.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de acceso compartido.</p><p>Cuando, el usuario selecciona la opción para agregar un nuevo invitado.</p><p>Entonces, se mostrará un formulario para ingresar los detalles del invitado.</p><p>**Escenario 2:** Invitación a un invitado.</p><p>Dado que, el usuario ha ingresado los detalles del invitado en el formulario.</p><p>Cuando el usuario selecciona la opción para enviar la invitación.</p><p>Entonces, se generará un enlace de invitación que se enviará al invitado.</p><p>Y, el usuario podrá establecer un período de acceso temporal para el invitado.</p><p>Y, se mostrará un mensaje de confirmación de la invitación enviada con éxito.</p>|**EP05**|
-|**US-17**|Registro de eventos en calendario|Como usuario, deseo poder registrar eventos importantes en un calendario integrado en la aplicación, para mantener un registro de eventos relevantes relacionados con la seguridad de mi hogar.|<p>**Escenario 1:** Usuario accede al calendario dentro de la aplicación.</p><p>Dado que, el usuario se encuentra en la ventana de calendario.</p><p>Cuando el usuario selecciona la opción para agregar un nuevo evento.</p><p>Entonces, se abrirá un formulario para ingresar los detalles del evento.</p><p>**Escenario 2:** Usuario registra eventos y recibe notificaciones previas.</p><p>Dado que, el usuario ha ingresado los detalles del evento en el formulario.</p><p>Cuando el usuario selecciona la opción para guardar el evento en el calendario.</p><p>Entonces, el evento se registrará en el calendario de la aplicación.</p><p>Y, el usuario recibirá notificaciones previas al evento en las fechas programadas.</p>|**EP05**|
-|**US-18**|Informe de seguridad semanal|Como usuario, deseo recibir un informe semanal de seguridad que resuma la actividad de las cámaras en mi hogar, para estar al tanto de lo que ha sucedido durante la semana.|<p>**Escenario 1:** Informe semanal por correo electrónico.</p><p>Dado que, el usuario ha configurado la opción de recibir un informe semanal.</p><p>Cuando llega el día programado para el envío del informe semanal.</p><p>Entonces, la aplicación enviará un correo electrónico al usuario con el informe adjunto.</p><p>**Escenario 2:** El informe contiene estadísticas de detección de movimiento y reconocimiento facial.</p><p>Dado que, el usuario ha recibido el informe semanal por correo electrónico.</p><p>Cuando el usuario abre el informe adjunto.</p><p>Entonces, el informe contendrá estadísticas detalladas sobre la detección de movimiento y el reconocimiento facial registrados durante la semana.</p>|**EP05**|
-|**US-19**|Contactar al centro de seguridad|Como usuario, quiero tener la capacidad de comunicarme rápidamente con el centro de seguridad más cercano en caso de emergencia para obtener ayuda inmediata y proteger mi seguridad y la de mi familia.|<p>**Escenario 1:** Usuario solicita ayuda al centro de seguridad</p><p>Dado que el usuario se encuentra en una situación de emergencia y necesita asistencia inmediata</p><p>Cuando el usuario seleccione la opción "Contactar al centro de seguridad"</p><p>Entonces, la aplicación enviará una alerta automática al centro de seguridad más cercano junto con la ubicación del usuario y otra información relevante para solicitar ayuda.</p><p>**Escenario 2:** Usuario cancela la solicitud de ayuda</p><p>Dado que el usuario ha solicitado ayuda al centro de seguridad</p><p>Cuando el usuario seleccione la opción "Cancelar solicitud de ayuda"</p><p>Entonces, la aplicación detendrá la alerta automática y notificará al usuario que la solicitud ha sido cancelada con éxito.</p><p>**Escenario 3:** Centro de seguridad responde a la solicitud</p><p>Dado que el centro de seguridad ha recibido una solicitud de ayuda</p><p>Cuando el centro de seguridad envíe una respuesta al usuario o tome medidas apropiadas</p><p>Entonces, la aplicación notificará al usuario sobre la respuesta o acciones tomadas por el centro de seguridad.</p>|**EP06**|
-|**US-20**|Información de contacto de emergencia|Como usuario, deseo proporcionar información de contacto de emergencia a la aplicación, como números de teléfono de familiares o amigos en caso de alerta, para garantizar una respuesta rápida en situaciones de emergencia.|<p>**Escenario 1:** Acceso a la configuración de información de contacto de emergencia.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de información de contacto de emergencia.</p><p>Cuando, el usuario selecciona la opción para agregar información de contacto de emergencia.</p><p>Entonces, se mostrará un formulario para ingresar los detalles de contacto de emergencia.</p><p>**Escenario 2:** Información de contacto almacenada.</p><p>Dado que, el usuario ha ingresado la información de contacto de emergencia en el formulario.</p><p>Cuando, el usuario guarda la información de contacto de emergencia.</p><p>Entonces, la información de contacto se almacenará en la</p>|**EP06**|
-|**US-21**|Envío de Mensaje a la Empresa para Consultas|Como usuario, quiero establecer contacto con la empresa para enviar un mensaje detallado con el objetivo de resolver algunas dudas que puedan surgir durante mi experiencia en la plataforma.|<p>**Escenario 1**: Envío Exitoso de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa correctamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se envía el mensaje exitosamente, mostrando el mensaje "Mensaje enviado con éxito".</p><p>**Escenario 2:** Datos Incorrectos en el Envío de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa incorrectamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se muestra el mensaje "Datos incorrectos".</p><p>**Escenario 3:** Datos Incompletos en el Envío de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa incorrectamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se muestra el mensaje "Datos incompletos".</p>|**EP07**|
-|**US-22**|Visualización de contenido en Redes Sociales|Como usuario, quiero explorar y visualizar la información de la empresa a través de las redes sociales para obtener detalles adicionales y tener una comprensión más completa de la misma.|<p>**Escenario 1:** Acceso a Redes Sociales desde el Pie de Página</p><p>Dado que el usuario está navegando en la página y se encuentra en el pie de página,</p><p>cuando presiona uno de los iconos de las redes sociales: Instagram, Facebook, Twitter o Youtube,</p><p>Entonces la página lo redirige a otra ventana con enlace a la red social seleccionada.</p>|**EP07**|
-|**US-23**|Exploración selectiva con la barra de navegación|Como usuario, quiero explorar la página web utilizando los botones de la barra de navegación superior para dirigirme a la sección de mi elección.|<p>**Escenario 1:** Navegación con Botones de la Barra</p><p>Dado que el usuario está navegando en la página web,</p><p>cuando selecciona un botón de la barra de navegación: "Contáctanos", "Acerca de", "Descarga" o "Inicio",</p><p>Entonces la página lo redireccionará a la sección elegida por el usuario.</p>|**EP07**|
-|**US-24**|Visualización de la sección Inicio|Como usuario visitante, quiero visualizar la sección de inicio de la aplicación para entender rápidamente el propósito del servicio y su propuesta de valor.|<p>**Escenario 1:** Navegación con Botones de la Barra</p><p>Dado que soy un usuario que accede a la página principal,</p><p><br>Cuando se carga la sección de inicio,</p><p><br>Entonces debo ver un encabezado destacado, una descripción clara del servicio y un botón de acción visible.</p>|**EP08**|
-|**US-25**|Visualización de la sección Sobre Nosotros|Como usuario interesado, quiero acceder a la sección “Sobre Nosotros” para conocer más sobre la empresa, su misión y visión.|<p></p><p>Dado que estoy navegando en la página principal,<br>Cuando hago clic o me desplazo a la sección "Sobre Nosotros",<br>Entonces debo ver información relevante sobre la empresa, incluyendo misión, visión y una breve historia.</p>|**EP08**|
-|**US-26**|Visualización de la sección Servicios|Como usuario potencial, quiero visualizar la sección de servicios para conocer qué soluciones me ofrece la plataforma.|Dado que soy un usuario que visita el sitio,<br>Cuando accedo a la sección "Servicios",<br>Entonces debo ver los distintos servicios ofrecidos con sus respectivas descripciones e ilustraciones.|**EP08**|
-|**US-27**|Visualización de la sección Funcionamiento|Como usuario curioso, quiero entender cómo funciona la plataforma para saber cómo usarla correctamente.|Dado que deseo conocer cómo funciona el sistema,<br>Cuando accedo a la sección "Funcionamiento",<br>Entonces debo visualizar una guía visual o paso a paso del proceso de uso de la plataforma**.**|**EP08**|
-|**US-28**|Visualización de la sección Testimonios|Como usuario indeciso, quiero leer testimonios de otros usuarios para generar confianza en el servicio.|Dado que estoy evaluando si confiar en el servicio,<br>Cuando accedo a la sección "Testimonios",<br>Entonces debo ver experiencias de otros usuarios presentadas de manera clara y atractiva.|**EP08**|
+| **User Story ID** | **Título**                                           | **Descripción**                                                                                                                                                                                                               | **Criterio de aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | **Relación (EPIC ID)** |
+| :---------------- | :--------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| **US-01**         | Registro de usuario                                  | Como nuevo usuario, quiero registrarme en la aplicación para poder tener mi cuenta.                                                                                                                                           | <p>**Escenario 1:** Acceso del usuario a la página de registro</p><p>Dado que el usuario haya descargado la aplicación y abra la aplicación</p><p>Cuando el usuario se encuentra en la página de "Inicio de sesión"</p><p>Y haga clic en el botón "Registrarse",</p><p>Entonces, la aplicación mostrará la página de registro.</p><p>**Escenario 2:** Registro exitoso del usuario </p><p>Dado que el usuario se encuentra en la página de registro</p><p>Cuando el usuario ingrese sus datos </p><p>Y el usuario haga clic en el botón "Registrarse”</p><p>Entonces la aplicación registrará al usuario y guardará su cuenta.</p><p>**Escenario 3:** Registro del usuario con datos inválidos</p><p>Dado que el usuario se encuentra en la página de registro,</p><p>Cuando el usuario ingrese sus datos de manera incompleta o con datos no válidos</p><p>Y el usuario haga clic en el botón "Registrarse"</p><p>Entonces la aplicación mostrará un mensaje de error</p><p>Y borrará los datos ingresados. </p>                                                                                                                                                                                                                                                                                                                                                                    | **EP01**               |
+| **US-02**         | Editar perfil del usuario                            | Como usuario registrado, quiero modificar mi perfil para tener mi información actualizada en el sistema.                                                                                                                      | <p>**Escenario 1:** Acceso del usuario a "Mi perfil"</p><p>Dado que el usuario está registrado en la aplicación</p><p>Cuando el usuario seleccione su perfil, Entonces el sistema presentará la página "Mi perfil”</p><p>**Escenario 2:** El usuario elige  editar su perfil</p><p>Dado que el usuario se encuentra en la página "Mi perfil" con los datos personales visibles</p><p>Cuando el usuario haga clic en el botón "Editar perfil"</p><p>Entonces, el sistema mostrará la página de edición de perfil.</p><p>**Escenario 3:** Actualización exitosa de los datos del perfil del usuario</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles</p><p>Cuando el usuario introduzca sus nuevos datos</p><p>Y el usuario haga clic en el botón "Cambiar"</p><p>Entonces el sistema actualizará la información del perfil del usuario con los nuevos datos ingresados.</p><p>**Escenario 4:** Actualización de los datos del perfil del usuario con información inválida o incompleta</p><p>Dado que el usuario se encuentra en la página de edición de perfil con los datos personales visibles</p><p>Cuando el usuario ingrese datos incompletos o inválidos</p><p>Y el usuario haga clic en el botón "Actualizar"</p><p>Entonces la aplicación mostrará un mensaje de "Error"</p><p>Y borrará los datos ingresados.</p> | **EP01**               |
+| **US-03**         | Iniciar sesión en la aplicación                      | Como usuario registrado, quiero iniciar sesión en la aplicación para acceder dentro de ella.                                                                                                                                  | <p>**Escenario 1:** Acceso del usuario a la página de inicio de sesión</p><p>Dado que el usuario inicia la aplicación</p><p>Y el usuario no ha iniciado sesión previamente o se ha desconectado</p><p>Cuando el usuario seleccione el botón "Iniciar Sesión"</p><p>Entonces, la aplicación exhibirá la página de inicio de sesión.</p><p>**Escenario 2:** Inicio de sesión exitoso del usuario</p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando el usuario ingrese sus credenciales válidas</p><p>Y el usuario haga clic en el botón "Iniciar Sesión"</p><p>Entonces, el usuario será autenticado</p><p>Y redirigido a la página principal de la aplicación.</p><p>**Escenario 3:** Intento de inicio de sesión fallido </p><p>Dado que el usuario se encuentra en la página de inicio de sesión</p><p>Cuando el usuario introduzca credenciales inválidas</p><p>Y el usuario haga clic en el botón "Iniciar Sesión"</p><p>Entonces la aplicación mostrará un mensaje de error que indica que las credenciales son incorrectas.</p>                                                                                                                                                                                                                                                                                                              | **EP01**               |
+| **US-04**         | Cambiar Contraseña                                   | Como usuario registrado, quiero cambiar mi contraseña para tener una mayor seguridad.                                                                                                                                         | <p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando el usuario se dirija a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para modificar la contraseña.</p><p>**Escenario 2:** Cambio exitoso de la contraseña </p><p>Dado que el usuario se encuentra en la página de cambio de contraseña</p><p>Cuando el usuario introduzca su contraseña actual y la nueva contraseña en dos ocasiones</p><p>Y después haga clic en el botón "Cambiar Contraseña"</p><p>Entonces la aplicación realizará el cambio de contraseña</p><p>Y mostrará un mensaje de confirmación.</p><p>**Escenario 3:** Intento de cambio de contraseña fallido </p><p>Dado que el usuario se halla en la página de cambio de contraseña</p><p>Cuando el usuario introduzca una contraseña actual incorrecta o incompleta, luego ingrese la nueva contraseña dos veces</p><p>Y seleccione el botón "Cambiar Contraseña" </p><p>Entonces la aplicación desplegará un mensaje de error que señala que la contraseña actual es incorrecta.</p>                                                                                                                                                                                                                                 | **EP01**               |
+| **US-05**         | Cerrar Sesión                                        | Como usuario registrado, quiero cerrar sesión en la aplicación para que mi cuenta no quede guardada en mi móvil.                                                                                                              | <p>**Escenario 1:** Acceso del usuario a la configuración de la cuenta</p><p>Dado que el usuario ha iniciado sesión en la aplicación</p><p>Cuando el usuario acceda a la sección de configuración de la cuenta</p><p>Entonces la aplicación mostrará la opción para cerrar sesión.</p><p>**Escenario 2:** Cierre de sesión exitoso por parte del usuario</p><p>Dado que el usuario se encuentra en la página de cierre de sesión</p><p>Cuando el usuario seleccione el botón "Cerrar Sesión"</p><p>Entonces, la aplicación concluirá la sesión del usuario y lo redirigirá a la página de inicio de sesión.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **EP01**               |
+| **US-06**         | Visualización en tiempo real de cámaras de seguridad | Como usuario, quiero acceder a la visualización en tiempo real de todas mis cámaras de seguridad para poder monitorear mi hogar en cualquier momento.                                                                         | <p>**Escenario 1**: Usuario accede a la visualización en tiempo real</p><p>Dado que el usuario ha iniciado sesión en la aplicación Protectify</p><p>Cuando el usuario seleccione la opción "Ver cámaras en tiempo real"</p><p>Entonces, la aplicación mostrará una vista en tiempo real de todas las cámaras de seguridad registradas en su cuenta.</p><p>**Escenario 2:** Usuario cambia la vista de la cámara</p><p>Dado que el usuario está viendo las imágenes en tiempo real de sus cámaras de seguridad</p><p>Cuando el usuario toque una cámara específica en la vista en tiempo real</p><p>Entonces, la aplicación cambiará la vista para mostrar solo la imagen en tiempo real de la cámara seleccionada.</p><p>**Escenario 3:** Usuario activa el audio de la cámara</p><p>Dado que el usuario está viendo las imágenes en tiempo real de una cámara de seguridad</p><p>Cuando el usuario active la opción de "Audio" en la cámara seleccionada</p><p>Entonces, la aplicación permitirá al usuario escuchar el sonido ambiente capturado por esa cámara.</p>                                                                                                                                                                                                                                                                                                               | **EP02**               |
+| **US-07**         | Notificaciones de alerta                             | Como usuario, quiero recibir notificaciones en tiempo real cuando una persona desconocida sea detectada por las cámaras de seguridad para estar al tanto de posibles amenazas en mi propiedad.                                | <p>**Escenario 1:** Usuario recibe una notificación de alerta</p><p>Dado que la cámara de seguridad detecta a una persona desconocida</p><p>Cuando la aplicación identifica al individuo como desconocido</p><p>Entonces, la aplicación enviará una notificación instantánea al propietario con información sobre la persona detectada y la opción de marcarla como ladrón o no.</p><p>**Escenario 2:** Usuario marca a una persona como ladrón</p><p>Dado que el usuario ha recibido una notificación de alerta sobre una persona desconocida</p><p>Cuando el usuario seleccione la opción "Marcar como ladrón"</p><p>Entonces, la aplicación registrará a la persona como un ladrón en el historial de eventos y activará el dispositivo de seguridad.</p><p>**Escenario 3:** Usuario desactiva las notificaciones de alerta temporalmente</p><p>Dado que el usuario ha recibido varias notificaciones de alerta y desea un breve período de tranquilidad</p><p>Cuando el usuario seleccione la opción "Desactivar notificaciones por 1 hora"</p><p>Entonces, la aplicación dejará de enviar notificaciones de alerta durante el período especificado y luego las reanudará automáticamente.</p>                                                                                                                                                                                   | **EP02**               |
+| **US-08**         | Historial de eventos                                 | Como usuario, quiero acceder al historial de eventos para revisar y mantener un registro de todas las detecciones de personas desconocidas y las acciones tomadas en mi propiedad.                                            | <p>**Escenario 1:** Usuario accede al historial de eventos</p><p>Dado que el usuario está autenticado en la aplicación Protectify</p><p>Cuando el usuario seleccione la opción "Historial de eventos"</p><p>Entonces, la aplicación mostrará una lista cronológica de todas las detecciones de personas desconocidas, indicando si fueron marcadas como ladrones o no y si se activó el dispositivo de seguridad.</p><p>**Escenario 2:** Usuario filtra el historial por fecha</p><p>Dado que el usuario está viendo el historial de eventos</p><p>Cuando el usuario seleccione una fecha específica en la que ocurrieron eventos</p><p>Entonces, la aplicación mostrará solo los eventos que ocurrieron en la fecha seleccionada en el historial.</p><p>**Escenario 3:** Usuario borra un evento del historial</p><p>Dado que el usuario está viendo el historial de eventos</p><p>Cuando el usuario seleccione un evento específico en el historial</p><p>Y el usuario seleccione la opción "Borrar evento"</p><p>Entonces, la aplicación eliminará ese evento del historial de eventos.</p>                                                                                                                                                                                                                                                                                       | **EP02**               |
+| **US-09**         | Ajustes de notificaciones                            | Como usuario, quiero personalizar mis preferencias de notificación para recibir alertas de acuerdo a mis necesidades y establecer momentos de tranquilidad cuando lo requiera.                                                | <p>**Escenario 1:** Usuario accede a las preferencias de notificación</p><p>Dado que el usuario ha iniciado sesión en la aplicación Protectify</p><p>Cuando el usuario vaya a la sección de "Ajustes de notificaciones"</p><p>Entonces, la aplicación permitirá al usuario personalizar la configuración de notificaciones, incluyendo el tipo de alertas que desea recibir y la forma en que desea recibirlas.</p><p>**Escenario 2:** Usuario desactiva las notificaciones de sonido</p><p>Dado que el usuario está en la sección de "Ajustes de notificaciones"</p><p>Cuando el usuario desactive la opción de "Notificaciones de sonido"</p><p>Entonces, la aplicación dejará de enviar notificaciones auditivas al dispositivo del usuario, pero seguirá enviando notificaciones visuales.</p><p>**Escenario 3:** Usuario programa un horario de notificaciones silenciosas</p><p>Dado que el usuario está en la sección de "Ajustes de notificaciones"</p><p>Cuando el usuario configure un horario de notificaciones silenciosas, por ejemplo, durante las horas de sueño</p><p>Entonces, la aplicación dejará de enviar notificaciones de sonido durante el período especificado.</p>                                                                                                                                                                                         | **EP03**               |
+| **US-10**         | Configuración de alarmas personalizadas              | Como usuario, deseo configurar alarmas personalizadas, como sirenas o notificaciones específicas, en caso de intrusión, para estar informado de manera efectiva en situaciones de seguridad.                                  | <p>**Escenario 1:** Acceso a la configuración de alarmas personalizadas.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de alarmas personalizadas.</p><p>Cuando, el usuario selecciona la opción para configurar una alarma personalizada.</p><p>Entonces, se mostrará un formulario de configuración de alarma.</p><p>**Escenario 2:** Elección del tipo de alarma y modo de ser notificado en caso de intrusión.</p><p>Dado que, el usuario ha completado el formulario de configuración de alarma personalizada.</p><p>Cuando, el usuario guarda la configuración de la alarma personalizada.</p><p>Entonces, la alarma se configurará según las preferencias del usuario, y se notificará al usuario de acuerdo con las opciones seleccionadas.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **EP03**               |
+| **US-11**         | Configurar video de la cámara                        | Como usuario quiero modificar el video de la cámara para poder visualizar cómodamente los videos.                                                                                                                             | <p>**Escenario 1:** Usuario entra a la seccion configuracion de video</p><p>Dado que el usuario está en la página principal y quiere cambiar lo colores del video</p><p>Cuando el usuario da click en configuracion/video</p><p>Entonces, se abre la sección de ajustes de video.</p><p>**Escenario 2:** Usuario cambia valores en las sección ajustes de video</p><p>Dado que el usuario está en la sección ajustes de video</p><p>Cuando el usuario realiza algún cambio en los valores</p><p>Entonces se guardarán los cambios en la visualización de los videos.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **EP03**               |
+| **US-12**         | Crear perfiles de reconocimiento                     | Como usuario quiero crear perfiles de reconocimiento para que las cámaras reconozcan a las personas recurrentes en mi domicilio.                                                                                              | <p>**Escenario 1:** Entrar a la sección perfiles</p><p>Dado que el usuario está en la página principal y quiere registrar un nuevo perfil</p><p>Cuando el usuario haga click en Perfiles/Registrar perfil</p><p>Entonces se abrirá la ventana de registro de perfiles.</p><p>**Escenario 2:** Crear un nuevo perfil</p><p>Dado que el usuario se encuentra en la ventana de registro de perfiles</p><p>Cuando el usuario llene todo los requerimientos ( nombre, apellido, celular, relación) y le de al click guardar</p><p>Entonces se almacenará el nuevo usuario en la base de datos y se mostrará un mensaje de operación exitosa.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **EP04**               |
+| **US-13**         | Actualizar perfiles de reconocimiento                | Como usuario quiero poder actualizar los perfiles de reconocimiento para tener noción de las personas incluidas en la lista.                                                                                                  | <p>**Escenario 1:** Entrar a la lista de perfiles</p><p>Dado que el usuario está en la página principal</p><p>Cuando el usuario haga click en Perfiles</p><p>Entonces se abrirá una ventana con todos los perfiles registrados en la base de datos</p><p>**Escenario 2:** Actualizar información de perfiles</p><p>Dado que el usuario está en la página de Perfiles</p><p>Cuando el usuario seleccione un perfil y elija la opción ‘Actualizar información’</p><p>Entonces se abrirá una ventana para el registro de los nuevo datos</p><p>**Escenario 3:** Confirmar actualización</p><p>Dado que el usuario está en la ventana ‘Actualización de perfil’</p><p>Cuando llene todos los atributos  (nombre, apellido, celular, relación)</p><p>Y de click en confirmar</p><p>Entonces se actualizará la información de dicho perfil en la base de datos</p><p>Y se mostrará un mensaje de operación exitosa.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **EP04**               |
+| **US-14**         | Eliminación de perfiles de reconocimiento            | Como usuario quiero eliminar perfiles de reconocimiento para tener actualizado mis invitados permitidos.                                                                                                                      | <p>**Escenario 1:** Eliminar el perfil seleccionado</p><p>Dado que el usuario se encuentra en la página de Perfiles</p><p>Cuando el usuario selecciona un usuario</p><p>Y elige la opción eliminar perfil</p><p>Entonces el perfil se eliminará de la lista de Perfiles</p><p>Y se mostrará un mensaje de operación exitosa.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **EP04**               |
+| **US-15**         | Reconocimiento facial                                | Como usuario quiero realizar un reconocimiento facial, para tener guardado mi perfil.                                                                                                                                         | <p>\*\*Escenario 1:\*\*Entrar a reconocimiento facial</p><p>Dado que el usuario está en la ventana de Perfiles</p><p>Cuando el usuario seleccione un perfil y haga clic en añadir reconocimiento facial.</p><p>Entonces se abrirá una ventana dedicada al reconocimiento facial.</p><p>\*\*Escenario 2:\*\*Registras reconocimiento facial</p><p>Dado que el usuario se encuentra en la ventana Registro Facial</p><p>Cuando el usuario está realizando el proceso de registro facial y logra realizar todos los movimientos correctamente.</p><p>Entonces se mostrará un mensaje de registro de exitoso</p><p>**Escenario 3:** Error en medio reconocimiento facial</p><p>Dado que el usuario se encuentra realizando el reconocimiento facial</p><p>Cuando el usuario realiza un mal movimiento en el proceso</p><p>Entonces se muestra un mensaje de alinear correctamente la postura</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **EP04**               |
+| **US-16**         | Compartir acceso con invitados                       | Como usuario, deseo poder compartir acceso a mis cámaras con invitados temporales, como familiares que visitan mi hogar, para que puedan ver las cámaras durante su estadía.                                                  | <p>**Escenario 1:** Acceder a la configuración de acceso compartido.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de acceso compartido.</p><p>Cuando, el usuario selecciona la opción para agregar un nuevo invitado.</p><p>Entonces, se mostrará un formulario para ingresar los detalles del invitado.</p><p>**Escenario 2:** Invitación a un invitado.</p><p>Dado que, el usuario ha ingresado los detalles del invitado en el formulario.</p><p>Cuando el usuario selecciona la opción para enviar la invitación.</p><p>Entonces, se generará un enlace de invitación que se enviará al invitado.</p><p>Y, el usuario podrá establecer un período de acceso temporal para el invitado.</p><p>Y, se mostrará un mensaje de confirmación de la invitación enviada con éxito.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **EP05**               |
+| **US-17**         | Registro de eventos en calendario                    | Como usuario, deseo poder registrar eventos importantes en un calendario integrado en la aplicación, para mantener un registro de eventos relevantes relacionados con la seguridad de mi hogar.                               | <p>**Escenario 1:** Usuario accede al calendario dentro de la aplicación.</p><p>Dado que, el usuario se encuentra en la ventana de calendario.</p><p>Cuando el usuario selecciona la opción para agregar un nuevo evento.</p><p>Entonces, se abrirá un formulario para ingresar los detalles del evento.</p><p>**Escenario 2:** Usuario registra eventos y recibe notificaciones previas.</p><p>Dado que, el usuario ha ingresado los detalles del evento en el formulario.</p><p>Cuando el usuario selecciona la opción para guardar el evento en el calendario.</p><p>Entonces, el evento se registrará en el calendario de la aplicación.</p><p>Y, el usuario recibirá notificaciones previas al evento en las fechas programadas.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **EP05**               |
+| **US-18**         | Informe de seguridad semanal                         | Como usuario, deseo recibir un informe semanal de seguridad que resuma la actividad de las cámaras en mi hogar, para estar al tanto de lo que ha sucedido durante la semana.                                                  | <p>**Escenario 1:** Informe semanal por correo electrónico.</p><p>Dado que, el usuario ha configurado la opción de recibir un informe semanal.</p><p>Cuando llega el día programado para el envío del informe semanal.</p><p>Entonces, la aplicación enviará un correo electrónico al usuario con el informe adjunto.</p><p>**Escenario 2:** El informe contiene estadísticas de detección de movimiento y reconocimiento facial.</p><p>Dado que, el usuario ha recibido el informe semanal por correo electrónico.</p><p>Cuando el usuario abre el informe adjunto.</p><p>Entonces, el informe contendrá estadísticas detalladas sobre la detección de movimiento y el reconocimiento facial registrados durante la semana.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **EP05**               |
+| **US-19**         | Contactar al centro de seguridad                     | Como usuario, quiero tener la capacidad de comunicarme rápidamente con el centro de seguridad más cercano en caso de emergencia para obtener ayuda inmediata y proteger mi seguridad y la de mi familia.                      | <p>**Escenario 1:** Usuario solicita ayuda al centro de seguridad</p><p>Dado que el usuario se encuentra en una situación de emergencia y necesita asistencia inmediata</p><p>Cuando el usuario seleccione la opción "Contactar al centro de seguridad"</p><p>Entonces, la aplicación enviará una alerta automática al centro de seguridad más cercano junto con la ubicación del usuario y otra información relevante para solicitar ayuda.</p><p>**Escenario 2:** Usuario cancela la solicitud de ayuda</p><p>Dado que el usuario ha solicitado ayuda al centro de seguridad</p><p>Cuando el usuario seleccione la opción "Cancelar solicitud de ayuda"</p><p>Entonces, la aplicación detendrá la alerta automática y notificará al usuario que la solicitud ha sido cancelada con éxito.</p><p>**Escenario 3:** Centro de seguridad responde a la solicitud</p><p>Dado que el centro de seguridad ha recibido una solicitud de ayuda</p><p>Cuando el centro de seguridad envíe una respuesta al usuario o tome medidas apropiadas</p><p>Entonces, la aplicación notificará al usuario sobre la respuesta o acciones tomadas por el centro de seguridad.</p>                                                                                                                                                                                                                       | **EP06**               |
+| **US-20**         | Información de contacto de emergencia                | Como usuario, deseo proporcionar información de contacto de emergencia a la aplicación, como números de teléfono de familiares o amigos en caso de alerta, para garantizar una respuesta rápida en situaciones de emergencia. | <p>**Escenario 1:** Acceso a la configuración de información de contacto de emergencia.</p><p>Dado que, el usuario se encuentra en la ventana de configuración de información de contacto de emergencia.</p><p>Cuando, el usuario selecciona la opción para agregar información de contacto de emergencia.</p><p>Entonces, se mostrará un formulario para ingresar los detalles de contacto de emergencia.</p><p>**Escenario 2:** Información de contacto almacenada.</p><p>Dado que, el usuario ha ingresado la información de contacto de emergencia en el formulario.</p><p>Cuando, el usuario guarda la información de contacto de emergencia.</p><p>Entonces, la información de contacto se almacenará en la</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **EP06**               |
+| **US-21**         | Envío de Mensaje a la Empresa para Consultas         | Como usuario, quiero establecer contacto con la empresa para enviar un mensaje detallado con el objetivo de resolver algunas dudas que puedan surgir durante mi experiencia en la plataforma.                                 | <p>**Escenario 1**: Envío Exitoso de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa correctamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se envía el mensaje exitosamente, mostrando el mensaje "Mensaje enviado con éxito".</p><p>**Escenario 2:** Datos Incorrectos en el Envío de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa incorrectamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se muestra el mensaje "Datos incorrectos".</p><p>**Escenario 3:** Datos Incompletos en el Envío de Mensaje</p><p>Dado que el usuario tiene dudas sobre la página y se encuentra en el pie de página,</p><p>cuando completa incorrectamente los campos: nombre, correo y mensaje,</p><p>y luego presiona "Enviar",</p><p>Entonces se muestra el mensaje "Datos incompletos".</p>                                                                                                                                                                                                                                                                                                                                                           | **EP07**               |
+| **US-22**         | Visualización de contenido en Redes Sociales         | Como usuario, quiero explorar y visualizar la información de la empresa a través de las redes sociales para obtener detalles adicionales y tener una comprensión más completa de la misma.                                    | <p>**Escenario 1:** Acceso a Redes Sociales desde el Pie de Página</p><p>Dado que el usuario está navegando en la página y se encuentra en el pie de página,</p><p>cuando presiona uno de los iconos de las redes sociales: Instagram, Facebook, Twitter o Youtube,</p><p>Entonces la página lo redirige a otra ventana con enlace a la red social seleccionada.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **EP07**               |
+| **US-23**         | Exploración selectiva con la barra de navegación     | Como usuario, quiero explorar la página web utilizando los botones de la barra de navegación superior para dirigirme a la sección de mi elección.                                                                             | <p>**Escenario 1:** Navegación con Botones de la Barra</p><p>Dado que el usuario está navegando en la página web,</p><p>cuando selecciona un botón de la barra de navegación: "Contáctanos", "Acerca de", "Descarga" o "Inicio",</p><p>Entonces la página lo redireccionará a la sección elegida por el usuario.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **EP07**               |
+| **US-24**         | Visualización de la sección Inicio                   | Como usuario visitante, quiero visualizar la sección de inicio de la aplicación para entender rápidamente el propósito del servicio y su propuesta de valor.                                                                  | <p>**Escenario 1:** Navegación con Botones de la Barra</p><p>Dado que soy un usuario que accede a la página principal,</p><p><br>Cuando se carga la sección de inicio,</p><p><br>Entonces debo ver un encabezado destacado, una descripción clara del servicio y un botón de acción visible.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **EP08**               |
+| **US-25**         | Visualización de la sección Sobre Nosotros           | Como usuario interesado, quiero acceder a la sección “Sobre Nosotros” para conocer más sobre la empresa, su misión y visión.                                                                                                  | <p></p><p>Dado que estoy navegando en la página principal,<br>Cuando hago clic o me desplazo a la sección "Sobre Nosotros",<br>Entonces debo ver información relevante sobre la empresa, incluyendo misión, visión y una breve historia.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **EP08**               |
+| **US-26**         | Visualización de la sección Servicios                | Como usuario potencial, quiero visualizar la sección de servicios para conocer qué soluciones me ofrece la plataforma.                                                                                                        | Dado que soy un usuario que visita el sitio,<br>Cuando accedo a la sección "Servicios",<br>Entonces debo ver los distintos servicios ofrecidos con sus respectivas descripciones e ilustraciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **EP08**               |
+| **US-27**         | Visualización de la sección Funcionamiento           | Como usuario curioso, quiero entender cómo funciona la plataforma para saber cómo usarla correctamente.                                                                                                                       | Dado que deseo conocer cómo funciona el sistema,<br>Cuando accedo a la sección "Funcionamiento",<br>Entonces debo visualizar una guía visual o paso a paso del proceso de uso de la plataforma**.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **EP08**               |
+| **US-28**         | Visualización de la sección Testimonios              | Como usuario indeciso, quiero leer testimonios de otros usuarios para generar confianza en el servicio.                                                                                                                       | Dado que estoy evaluando si confiar en el servicio,<br>Cuando accedo a la sección "Testimonios",<br>Entonces debo ver experiencias de otros usuarios presentadas de manera clara y atractiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **EP08**               |
 
 ## 3.3. Impact Mapping
 
@@ -1349,7 +1346,7 @@ Este apartado se enfoca en la presentación del diagrama de contexto del softwar
 
 Este diagrama de contenedores representa la arquitectura de Protectify, donde se identifican distintos contenedores asociados a nuestros bounded context, así como una base de datos y una API. También se muestra la interacción entre ellos y su conexión con sistemas externos.
 
-  <img src="img/C4-Container.png">
+  <img src="img/C4-Container.jpeg">
 
   <br/>
 
@@ -1441,7 +1438,7 @@ Aquí, gestionamos la persistencia de datos, la comunicación con servicios exte
 
 ##### 4.2.2.6.2. Database Design Diagram
 
-<img src="img/Reconocimiento-bd.png" alt="Reconocimiento BD" >
+<img src="img/Reconocimiento-bd.jpeg" alt="Reconocimiento BD" >
 
 # Capítulo V: Solution UI/UX Design
 
@@ -1560,9 +1557,9 @@ En las interfaces de usuario para aplicaciones IoT, se prioriza la **claridad vi
 
 Protectify organiza su contenido en dos niveles principales: una **landing page** accesible por navegador y una **aplicación móvil** como canal exclusivo de interacción funcional. La organización visual del contenido responde a principios jerárquicos, secuenciales y temáticos según el contexto de uso.
 
-- En la landing page, el contenido sigue un enfoque jerárquico que guía al visitante desde la propuesta de valor central (*Inicio*) hacia las secciones de *Sobre Nosotros*, *Servicios*, *Funcionamiento del sistema*, *Testimonios* y *Contacto*.
+- En la landing page, el contenido sigue un enfoque jerárquico que guía al visitante desde la propuesta de valor central (_Inicio_) hacia las secciones de _Sobre Nosotros_, _Servicios_, _Funcionamiento del sistema_, _Testimonios_ y _Contacto_.
 
-- En la aplicación móvil, el usuario accede a funcionalidades organizadas en cinco secciones principales: *Inicio*, *Eventos*, *Personas Detectadas*, *Alertas* y *Configuración*. Cada una de estas contiene acciones específicas relacionadas a la seguridad del hogar inteligente.
+- En la aplicación móvil, el usuario accede a funcionalidades organizadas en cinco secciones principales: _Inicio_, _Eventos_, _Personas Detectadas_, _Alertas_ y _Configuración_. Cada una de estas contiene acciones específicas relacionadas a la seguridad del hogar inteligente.
 
 A continuación, se presenta el flujo general de navegación dentro de la app móvil:
 
@@ -1572,17 +1569,15 @@ A continuación, se presenta el flujo general de navegación dentro de la app m�
 
 Dentro del encabezado principal de la landing page de Protectify se encuentran las etiquetas que organizan las secciones informativas clave del sitio. Estas etiquetas permiten a los usuarios acceder de manera rápida y directa al contenido más relevante sobre la propuesta de valor de la plataforma.
 
-  - **Inicio:** Sección principal donde se presenta el eslogan y llamada a la acción de Protectify, destacando su enfoque en la seguridad y tranquilidad del hogar.
+- **Inicio:** Sección principal donde se presenta el eslogan y llamada a la acción de Protectify, destacando su enfoque en la seguridad y tranquilidad del hogar.
 
-  - **Sobre Nosotros:** Proporciona información sobre el equipo de Protectify, sus integrantes y el propósito de la startup dentro del contexto de la seguridad ciudadana en el Perú.
+- **Sobre Nosotros:** Proporciona información sobre el equipo de Protectify, sus integrantes y el propósito de la startup dentro del contexto de la seguridad ciudadana en el Perú.
 
-  - **Servicios:** Describe los servicios ofrecidos por la plataforma, como la vigilancia 24/7, el uso de inteligencia artificial para identificación facial y la activación automática de alarmas.
+- **Servicios:** Describe los servicios ofrecidos por la plataforma, como la vigilancia 24/7, el uso de inteligencia artificial para identificación facial y la activación automática de alarmas.
 
-  - **Funcionamiento:** Explica paso a paso cómo opera el sistema Protectify desde la detección de personas hasta la activación de protocolos de seguridad.
+- **Funcionamiento:** Explica paso a paso cómo opera el sistema Protectify desde la detección de personas hasta la activación de protocolos de seguridad.
 
-  - **Testimonios:** Presenta reseñas reales de usuarios que han probado el sistema, aportando confianza y validación al servicio ofrecido.
-
-
+- **Testimonios:** Presenta reseñas reales de usuarios que han probado el sistema, aportando confianza y validación al servicio ofrecido.
 
 ### 5.2.3. SEO Tags and Meta Tags
 
@@ -1597,7 +1592,7 @@ En la landing page de Protectify se utilizaron meta tags para mejorar el posicio
     <meta name="description" content="Protectify es una startup peruana que ofrece sistemas de seguridad inteligentes para hogares, combinando vigilancia con inteligencia artificial.">
 
 **Meta Tags Keyword**
-    
+
     <meta name="keywords" content="seguridad, inteligencia artificial, cámaras, hogar, protección, Perú, startup, UPC, vigilancia">
 
 **Autor**
@@ -1611,27 +1606,29 @@ Dado que la funcionalidad principal de Protectify se implementará a través de 
 Los filtros disponibles dentro de la app incluirán:
 
 - **Eventos de seguridad**
-  - Fecha y hora  
+
+  - Fecha y hora
   - Tipo de evento (detección, reconocimiento, alerta)
 
 - **Personas registradas**
-  - Nombre o alias  
-  - Frecuencia de aparición  
+
+  - Nombre o alias
+  - Frecuencia de aparición
   - Clasificación (propietario, invitado, desconocido)
 
 - **Alertas**
-  - Estado (nueva, revisada, descartada)  
+  - Estado (nueva, revisada, descartada)
   - Nivel de prioridad
 
 ### 5.2.5. Navigation Systems
 
 La navegación de la landing page de Protectify ha sido diseñada para ofrecer una experiencia fluida y clara al usuario. Se emplea un menú fijo que permite acceder rápidamente a las secciones principales, asegurando un recorrido intuitivo y sin pérdida de contexto. Las principales características del sistema de navegación son:
 
-  - **Navegación persistente:** La barra de navegación permanece visible en todo momento, facilitando el acceso rápido a Inicio, Sobre Nosotros, Servicios, Funcionamiento y Testimonios.
+- **Navegación persistente:** La barra de navegación permanece visible en todo momento, facilitando el acceso rápido a Inicio, Sobre Nosotros, Servicios, Funcionamiento y Testimonios.
 
-  - **Desplazamiento anclado:** Cada enlace lleva directamente a la sección correspondiente mediante scroll suave, permitiendo un flujo continuo de información.
+- **Desplazamiento anclado:** Cada enlace lleva directamente a la sección correspondiente mediante scroll suave, permitiendo un flujo continuo de información.
 
-  - **Indicadores visuales de sección activa:** Se destaca la sección en la que se encuentra el usuario para mantener la orientación durante el recorrido.
+- **Indicadores visuales de sección activa:** Se destaca la sección en la que se encuentra el usuario para mantener la orientación durante el recorrido.
 
 ## 5.3. Landing Page UI Design
 
@@ -1654,7 +1651,6 @@ Continuando con nuestra landing page, mostraremos el mockup que hemos elaborado.
 ![Wireframe 1](img/Mockups/M1.jpg)
 
 ![Wireframe 2](img/Mockups/M2.jpg)
-
 
 ![Wireframe 3](img/Mockups/M3.jpg)
 
@@ -1741,7 +1737,6 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
   Pantalla que indica que el proceso de registro ha finalizado exitosamente y el usuario ya puede comenzar a utilizar la aplicación.  
   <img src="img/Mock-up Sign-Up Completed.png" alt="Mock-up Sign-Up Completed">
 
-
 - **Mock-up Home:**  
   Pantalla principal de la aplicación, donde el usuario puede visualizar el estado general de su sistema de seguridad y acceder rápidamente a las funciones más importantes.  
   <img src="img/Mock-up Home.png" alt="Mock-up Home">
@@ -1782,7 +1777,6 @@ link del figma: https://www.figma.com/design/abthKSuLnVXauYtgLdDqgu/Mobile-Appli
   Interfaz para editar la información del perfil del usuario, permitiendo mantener los datos personales actualizados y personalizados.  
   <img src="img/Mock-up Edit Profile.png" alt="Mock-up Edit Profile">
 
-
 ### 5.4.3. Applications User Flow Diagrams
 
 <img src="img/UserFlow 1.png">
@@ -1797,7 +1791,6 @@ Hemos realizdo un video sobre la aplicación movíl en figma:
 
 Link de youtube: https://www.youtube.com/watch?v=4RPSa_0qCEs
 
-
 <img src="img/prototyping.png">
 
 # Capítulo VI: Product Implementation, Validation & Deployment
@@ -1808,15 +1801,15 @@ Link de youtube: https://www.youtube.com/watch?v=4RPSa_0qCEs
 
 Diseño UX/UI del Producto
 
-Para el diseño de experiencia de usuario (UX), empleamos la herramienta **UXPressia**, donde desarrollamos elementos como *User Persona*, *Empathy Mapping* e *Impact Mapping*, entre otros. Esto nos permitió estructurar de manera adecuada los modelos de experiencia de usuario y comprender mejor las necesidades de nuestros segmentos objetivo. Además, los prototipos de la aplicación móvil fueron elaborados en **Figma**, lo que facilitó la creación de *wireframes* y *mock-ups* como referencia visual previa al desarrollo.
+Para el diseño de experiencia de usuario (UX), empleamos la herramienta **UXPressia**, donde desarrollamos elementos como _User Persona_, _Empathy Mapping_ e _Impact Mapping_, entre otros. Esto nos permitió estructurar de manera adecuada los modelos de experiencia de usuario y comprender mejor las necesidades de nuestros segmentos objetivo. Además, los prototipos de la aplicación móvil fueron elaborados en **Figma**, lo que facilitó la creación de _wireframes_ y _mock-ups_ como referencia visual previa al desarrollo.
 
 ### Desarrollo de Software
 
-En cuanto a los entornos de desarrollo, optamos principalmente por **WebStorm** e **IntelliJ IDEA**, herramientas de JetBrains con las que tenemos mayor experiencia. Para la implementación, utilizamos tecnologías previamente aprendidas: **HTML** y **CSS** para la *landing page*, **Java** para el *backend*, **JavaScript** para el *frontend web* y **Dart** para la aplicación móvil.
+En cuanto a los entornos de desarrollo, optamos principalmente por **WebStorm** e **IntelliJ IDEA**, herramientas de JetBrains con las que tenemos mayor experiencia. Para la implementación, utilizamos tecnologías previamente aprendidas: **HTML** y **CSS** para la _landing page_, **Java** para el _backend_, **JavaScript** para el _frontend web_ y **Dart** para la aplicación móvil.
 
 ### Pruebas de Software
 
-La realización de pruebas de aceptación es fundamental para validar que los criterios definidos realmente satisfacen las necesidades del negocio y cumplen con los requisitos establecidos. Para ello, empleamos el lenguaje **Gherkin**, que permite describir escenarios de prueba utilizando la estructura *Given-When-Then*. Este enfoque facilita la identificación de variables de entrada y salida, y resulta accesible para todos los miembros del equipo gracias a su sintaxis en lenguaje natural. De esta manera, se contribuye a asegurar la calidad del software, haciendo que las pruebas sean una parte esencial del proceso de desarrollo.
+La realización de pruebas de aceptación es fundamental para validar que los criterios definidos realmente satisfacen las necesidades del negocio y cumplen con los requisitos establecidos. Para ello, empleamos el lenguaje **Gherkin**, que permite describir escenarios de prueba utilizando la estructura _Given-When-Then_. Este enfoque facilita la identificación de variables de entrada y salida, y resulta accesible para todos los miembros del equipo gracias a su sintaxis en lenguaje natural. De esta manera, se contribuye a asegurar la calidad del software, haciendo que las pruebas sean una parte esencial del proceso de desarrollo.
 
 ---
 
@@ -1824,13 +1817,13 @@ La realización de pruebas de aceptación es fundamental para validar que los cr
 
 **Usuarios de GitHub**
 
-| Integrante                               | Usuario de GitHub   |
-|------------------------------------------|---------------------|
-| Adrianzen Flores, Carlos Arturo          | choliwys            |
-| Dam Rubianes, Frida Sofia                | Frida-Dam           |
-| Matos Fernandez, Christian Andre         | FerKlox             |
-| Ortiz Fajardo, Tomás                     | U201910146          |
-| Ramos Ramirez, Renzo Manuel              | RenzoRamos07        |
+| Integrante                       | Usuario de GitHub |
+| -------------------------------- | ----------------- |
+| Adrianzen Flores, Carlos Arturo  | choliwys          |
+| Dam Rubianes, Frida Sofia        | Frida-Dam         |
+| Matos Fernandez, Christian Andre | FerKlox           |
+| Ortiz Fajardo, Tomás             | U201910146        |
+| Ramos Ramirez, Renzo Manuel      | RenzoRamos07      |
 
 **URL de la organización en GitHub**: [https://github.com/UPC-Iot](https://github.com/UPC-Iot)
 
@@ -1849,6 +1842,7 @@ Durante el desarrollo del proyecto, se aplicarán diferentes lenguajes para la c
 🟠 **HTML**
 
 **Buenas prácticas:**
+
 - Iniciar siempre con `<!DOCTYPE html>`.
 - Seguir la estructura estándar: `<html>`, `<head>`, `<body>`.
 - Declarar el título de la página dentro de `<head>` usando `<title>`.
@@ -1861,6 +1855,7 @@ Durante el desarrollo del proyecto, se aplicarán diferentes lenguajes para la c
 🔵 **CSS**
 
 **Buenas prácticas:**
+
 - Utilizar indentación consistente.
 - Usar nombres cortos y en minúsculas para clases y selectores.
 - Especificar colores en formato hexadecimal (ejemplo: `#024A86`).
@@ -1872,6 +1867,7 @@ Durante el desarrollo del proyecto, se aplicarán diferentes lenguajes para la c
 🟡 **JavaScript**
 
 **Buenas prácticas:**
+
 - Utilizar nombres descriptivos para variables, funciones y clases.
 - Documentar con comentarios cada bloque relevante de código.
 - Finalizar cada línea con `;` por consistencia.
@@ -1884,6 +1880,7 @@ Durante el desarrollo del proyecto, se aplicarán diferentes lenguajes para la c
 🟢 **Kotlin** (para Mobile App)
 
 **Buenas prácticas:**
+
 - Usar `UpperCamelCase` para clases y `lowerCamelCase` para variables y funciones.
 - Escoger nombres significativos y breves.
 - Mantener una indentación ordenada para facilitar la lectura del código.
@@ -1904,24 +1901,25 @@ El Backend se desplegará en Railway, una plataforma que facilita el alojamiento
 ## 6.2. Landing Page, Services & Applications Implementation
 
 ### 6.2.1. Sprint 1
+
 #### 6.2.1.1. Sprint Planning 1
 
 El primer sprint fue organizado mediante una reunión presencial. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
 
-| **Sprint #**                        | **Sprint 1** |
-|-------------------------------------|--------------|
-| **Sprint Planning Background**      |              |
-| **Date**                            | 2025-05-03   |
-| **Time**                            | 01:00 PM     |
-| **Location**                        | Virtual      |
-| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
-| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
-| **Sprint n - 1 Review Summary**     | No hubo sprint anterior |
-| **Sprint n - 1 Retrospective Summary** | No hubo sprint anterior |
-| **Sprint Goal & User Stories**      |              |
-| **Sprint 1 Goal**                   | Desarrollar la landing page, el frontend web, backend de la aplicación; asimismo, desplegar la landing page |
-| **Sprint 1 Velocity**               | 15           |
-| **Sum of Story Points**             | 15           |
+| **Sprint #**                           | **Sprint 1**                                                                                                                                                              |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**         |                                                                                                                                                                           |
+| **Date**                               | 2025-05-03                                                                                                                                                                |
+| **Time**                               | 01:00 PM                                                                                                                                                                  |
+| **Location**                           | Virtual                                                                                                                                                                   |
+| **Prepared by**                        | Adrianzen Flores, Carlos Arturo                                                                                                                                           |
+| **Attendees (to planning meeting)**    | - Adrianzen Flores, Carlos Arturo <br> - Dam Rubianes, Frida Sofia <br> - Matos Fernandez, Christian Andre <br> - Ortiz Fajardo, Tomás <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 1 Review Summary**        | No hubo sprint anterior                                                                                                                                                   |
+| **Sprint n - 1 Retrospective Summary** | No hubo sprint anterior                                                                                                                                                   |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                           |
+| **Sprint 1 Goal**                      | Desarrollar la landing page, el frontend web, backend de la aplicación; asimismo, desplegar la landing page                                                               |
+| **Sprint 1 Velocity**                  | 15                                                                                                                                                                        |
+| **Sum of Story Points**                | 15                                                                                                                                                                        |
 
 ---
 
@@ -1929,13 +1927,13 @@ El primer sprint fue organizado mediante una reunión presencial. A continuació
 
 A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de Landing Page.
 
-| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de Landing Page |
-|----------------------------------|------------------------|------------------------|-----------------------------|------------------------------|
-| Adrianzen Flores, Carlos Arturo | choliwys              | -                      | C                           | -                            |
-| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | L                           | -                            |
-| Matos Fernandez, Christian Andre| FerKlox               | -                      | C                           | -                            |
-| Ortiz Fajardo, Tomás            | U201910146            | -                      | C                           | -                            |
-| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | -                      | C                           | L                            |
+| Integrantes                      | Github Username | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de Landing Page |
+| -------------------------------- | --------------- | --------------------- | -------------------------- | -------------------------- |
+| Adrianzen Flores, Carlos Arturo  | choliwys        | -                     | C                          | -                          |
+| Dam Rubianes, Frida Sofia        | Frida-Dam       | -                     | L                          | -                          |
+| Matos Fernandez, Christian Andre | FerKlox         | -                     | C                          | -                          |
+| Ortiz Fajardo, Tomás             | U201910146      | -                     | C                          | -                          |
+| Ramos Ramirez, Renzo Manuel      | RenzoRamos07    | -                     | C                          | L                          |
 
 ---
 
@@ -1947,15 +1945,15 @@ Para este sprint hemos utilizado trello para asignar las tareas a cada miembro:
 
 Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
 
-|**Sprint #**|**Sprint 1**|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|Estimation|Assigned To|Status (To-Do / In-Process / Review / Done)|
-|US-24|Visualización de la sección Inicio|T01|Diseñar sección Inicio|Diseñar sección Inicio|0\.5|Renzo Ramos|Done|
-|US-25|Visualización de la sección Sobre Nosotros|T02|Diseñar sección Sobre Nosotros|Diseñar sección Sobre Nosotros|0\.5|Renzo Ramos|Done|
-|US-26|<p><br>Visualización de la sección Servicios</p><p></p>|T03|Diseñar sección Servicios|Diseñar sección Servicios|0\.5|Renzo Ramos|Done|
-|US-27|Visualización de la sección Funcionamiento|T04|Diseñar sección Funcionamiento|Diseñar sección Funcionamiento|0\.5|Renzo Ramos|Done|
-|US-28|Visualización de la sección Testimonios|T05|Diseñar sección Testimonios|Diseñar sección Testimonios|0\.5|Renzo Ramos|Done|
+| **Sprint #** | **Sprint 1**                                            |     |                                |                                |            |             |                                             |
+| :----------- | :------------------------------------------------------ | :-- | :----------------------------- | :----------------------------- | :--------- | :---------- | :------------------------------------------ |
+| User Story   | Work-Item / Task                                        |     |                                |                                |            |             |                                             |
+| Id           | Title                                                   | Id  | Title                          | Description                    | Estimation | Assigned To | Status (To-Do / In-Process / Review / Done) |
+| US-24        | Visualización de la sección Inicio                      | T01 | Diseñar sección Inicio         | Diseñar sección Inicio         | 0\.5       | Renzo Ramos | Done                                        |
+| US-25        | Visualización de la sección Sobre Nosotros              | T02 | Diseñar sección Sobre Nosotros | Diseñar sección Sobre Nosotros | 0\.5       | Renzo Ramos | Done                                        |
+| US-26        | <p><br>Visualización de la sección Servicios</p><p></p> | T03 | Diseñar sección Servicios      | Diseñar sección Servicios      | 0\.5       | Renzo Ramos | Done                                        |
+| US-27        | Visualización de la sección Funcionamiento              | T04 | Diseñar sección Funcionamiento | Diseñar sección Funcionamiento | 0\.5       | Renzo Ramos | Done                                        |
+| US-28        | Visualización de la sección Testimonios                 | T05 | Diseñar sección Testimonios    | Diseñar sección Testimonios    | 0\.5       | Renzo Ramos | Done                                        |
 
 ---
 
@@ -1963,10 +1961,10 @@ Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
 
 Para esta entrega, se realizó la landing page:
 
-| Repository   | Branch | Commit Id                             | Commit Message            | Commit Message Body | Committed on (Date) |
-|--------------|--------|----------------------------------------|---------------------------|---------------------|---------------------|
-| landing-page | main   | 483a1787b3a277dfded660629ec80dadc4b6a334 | feature: Landing page v1   | none                | 08/05/2025          |
-| landing-page | main   | adb2204318a0d4ffff62ec03030993fbaa06d55b | feature: meta tags added   | none                | 08/05/2025          |
+| Repository   | Branch | Commit Id                                | Commit Message           | Commit Message Body | Committed on (Date) |
+| ------------ | ------ | ---------------------------------------- | ------------------------ | ------------------- | ------------------- |
+| landing-page | main   | 483a1787b3a277dfded660629ec80dadc4b6a334 | feature: Landing page v1 | none                | 08/05/2025          |
+| landing-page | main   | adb2204318a0d4ffff62ec03030993fbaa06d55b | feature: meta tags added | none                | 08/05/2025          |
 
 ---
 
@@ -2012,12 +2010,7 @@ Para el despliegue de la landing se utilizó **Netlify**, una plataforma moderna
 
 Durante el desarrollo de la landing page, el miembro de equipo Renzo Ramos trabajó directamente sobre la rama main, centralizando los cambios y asegurando que cada avance estuviera disponible de inmediato para todos los integrantes.
 
-
-
 <img src="img/collboration_landing.png" alt="Landing Page">
-
-
-
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -2027,20 +2020,20 @@ Durante el desarrollo de la landing page, el miembro de equipo Renzo Ramos traba
 
 El segundo sprint fue organizado mediante una reunión virtual. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
 
-| **Sprint #**                        | **Sprint 2** |
-|-------------------------------------|--------------|
-| **Sprint Planning Background**      |              |
-| **Date**                            | 2025-06-01   |
-| **Time**                            | 03:00 PM     |
-| **Location**                        | Virtual      |
-| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
-| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
-| **Sprint n - 1 Review Summary**     | Se completó correctamente la landing page inicial y el frontend web. |
-| **Sprint n - 1 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil. |
-| **Sprint Goal & User Stories**      |              |
-| **Sprint 2 Goal**                   | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas. |
-| **Sprint 2 Velocity**               | 18           |
-| **Sum of Story Points**             | 18           |
+| **Sprint #**                           | **Sprint 2**                                                                                                                                                              |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**         |                                                                                                                                                                           |
+| **Date**                               | 2025-06-01                                                                                                                                                                |
+| **Time**                               | 03:00 PM                                                                                                                                                                  |
+| **Location**                           | Virtual                                                                                                                                                                   |
+| **Prepared by**                        | Adrianzen Flores, Carlos Arturo                                                                                                                                           |
+| **Attendees (to planning meeting)**    | - Adrianzen Flores, Carlos Arturo <br> - Dam Rubianes, Frida Sofia <br> - Matos Fernandez, Christian Andre <br> - Ortiz Fajardo, Tomás <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 1 Review Summary**        | Se completó correctamente la landing page inicial y el frontend web.                                                                                                      |
+| **Sprint n - 1 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil.                                                                           |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                           |
+| **Sprint 2 Goal**                      | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas.                                                  |
+| **Sprint 2 Velocity**                  | 18                                                                                                                                                                        |
+| **Sum of Story Points**                | 18                                                                                                                                                                        |
 
 ---
 
@@ -2048,13 +2041,13 @@ El segundo sprint fue organizado mediante una reunión virtual. A continuación,
 
 A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de App Móvil.
 
-| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
-|----------------------------------|------------------------|------------------------|-----------------------------|--------------------------|
-| Adrianzen Flores, Carlos Arturo | choliwys              | C                      | C                           | -                        |
-| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | L                           | -                        |
-| Matos Fernandez, Christian Andre| FerKlox               | -                      | C                           | C                        |
-| Ortiz Fajardo, Tomás            | U201910146            | L                      | -                           | C                        |
-| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | C                      | -                           | L                        |
+| Integrantes                      | Github Username | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
+| -------------------------------- | --------------- | --------------------- | -------------------------- | ----------------------- |
+| Adrianzen Flores, Carlos Arturo  | choliwys        | C                     | C                          | -                       |
+| Dam Rubianes, Frida Sofia        | Frida-Dam       | -                     | L                          | -                       |
+| Matos Fernandez, Christian Andre | FerKlox         | -                     | C                          | C                       |
+| Ortiz Fajardo, Tomás             | U201910146      | L                     | -                          | C                       |
+| Ramos Ramirez, Renzo Manuel      | RenzoRamos07    | C                     | -                          | L                       |
 
 ---
 
@@ -2066,16 +2059,16 @@ Para este sprint se utilizó Trello para asignar las tareas a cada miembro:
 
 Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
 
-|**Sprint #**|**Sprint 2**|||||||  
-| :- | :- | :- | :- | :- | :- | :- | :- |  
-|User Story|Work-Item / Task|||||||  
-|Id|Title|Id|Title|Description|Estimation|Assigned To|Status (To-Do / In-Process / Review / Done)|  
-|US-30|Nueva versión de app web|T10|Actualizar dashboard de cámaras|Actualizar interfaz web para mostrar cámaras conectadas|2|Carlos Arturo|Done|  
-|US-31|Primera versión de app móvil|T11|Desarrollar vista de alertas|Diseñar e implementar vista para alertas en tiempo real|2|Christian Andre|Done|  
-|US-32|Primera versión de app móvil|T12|Activar mecanismo de defensa|Permitir activación remota desde app móvil|1|Tomás Ortiz|Done|  
-|US-33|Desarrollo de backend|T13|Crear endpoint de login|Desarrollar endpoint básico para autenticación|1.5|Carlos Arturo|Done|  
-|US-34|Desarrollo de backend|T14|Endpoint de alertas|Endpoint para registrar y consultar alertas generadas|2|Renzo Ramos|Done|  
-|US-35|Desarrollo de backend|T15|Conectar backend con frontend|Integrar datos con dashboard web|2|Carlos Arturo|In-Process|  
+| **Sprint #** | **Sprint 2**                 |     |                                 |                                                         |            |                 |                                             |
+| :----------- | :--------------------------- | :-- | :------------------------------ | :------------------------------------------------------ | :--------- | :-------------- | :------------------------------------------ |
+| User Story   | Work-Item / Task             |     |                                 |                                                         |            |                 |                                             |
+| Id           | Title                        | Id  | Title                           | Description                                             | Estimation | Assigned To     | Status (To-Do / In-Process / Review / Done) |
+| US-30        | Nueva versión de app web     | T10 | Actualizar dashboard de cámaras | Actualizar interfaz web para mostrar cámaras conectadas | 2          | Carlos Arturo   | Done                                        |
+| US-31        | Primera versión de app móvil | T11 | Desarrollar vista de alertas    | Diseñar e implementar vista para alertas en tiempo real | 2          | Christian Andre | Done                                        |
+| US-32        | Primera versión de app móvil | T12 | Activar mecanismo de defensa    | Permitir activación remota desde app móvil              | 1          | Tomás Ortiz     | Done                                        |
+| US-33        | Desarrollo de backend        | T13 | Crear endpoint de login         | Desarrollar endpoint básico para autenticación          | 1.5        | Carlos Arturo   | Done                                        |
+| US-34        | Desarrollo de backend        | T14 | Endpoint de alertas             | Endpoint para registrar y consultar alertas generadas   | 2          | Renzo Ramos     | Done                                        |
+| US-35        | Desarrollo de backend        | T15 | Conectar backend con frontend   | Integrar datos con dashboard web                        | 2          | Carlos Arturo   | In-Process                                  |
 
 ---
 
@@ -2083,15 +2076,14 @@ Link del trello: https://trello.com/b/mie7mGy9/protectify-sprint
 
 Durante este sprint se desarrollaron los siguientes componentes:
 
-| Repository         | Branch   | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
-|--------------------|----------|-----------|--------------------------------------------------------|---------------------|----------------------|
-| protectify-backend | release  | 69e7459   | feat: added Dockerfile                                 | none                | 2025-07-09           |
-| protectify-backend | main     | 7602dbf   | feat: added enum DOOR                                  | none                | 2025-07-08           |
-| protectify-backend | main     | 7a27522   | feat: added security bounded context                   | none                | 2025-07-07           |
-| protectify-backend | main     | a5cc556   | feat: added iam bounded context, profiles bounded context | none              | 2025-07-06           |
-| protectify-backend | develop  | 5857111   | Primer commit                                          | none                | 2025-07-05           |
-| protectify-backend | main     | a9b93ad   | Initial commit                                         | none                | 2025-07-04           |
-
+| Repository         | Branch  | Commit Id | Commit Message                                            | Commit Message Body | Committed on (Date) |
+| ------------------ | ------- | --------- | --------------------------------------------------------- | ------------------- | ------------------- |
+| protectify-backend | release | 69e7459   | feat: added Dockerfile                                    | none                | 2025-07-09          |
+| protectify-backend | main    | 7602dbf   | feat: added enum DOOR                                     | none                | 2025-07-08          |
+| protectify-backend | main    | 7a27522   | feat: added security bounded context                      | none                | 2025-07-07          |
+| protectify-backend | main    | a5cc556   | feat: added iam bounded context, profiles bounded context | none                | 2025-07-06          |
+| protectify-backend | develop | 5857111   | Primer commit                                             | none                | 2025-07-05          |
+| protectify-backend | main    | a9b93ad   | Initial commit                                            | none                | 2025-07-04          |
 
 ---
 
@@ -2130,8 +2122,8 @@ Se documentaron los endpoints básicos del backend:
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
 - App Web: desplegada con Vercel.  
-**URL**: [https://protectify-web.vercel.app](https://protectify-web.vercel.app)  
-- App Móvil: ejecutada en entorno local con Android Studio (emulador).  
+  **URL**: [https://protectify-web.vercel.app](https://protectify-web.vercel.app)
+- App Móvil: ejecutada en entorno local con Android Studio (emulador).
 - API Backend: ejecutada localmente con Postman y disponible para pruebas en red local.
 
 ---
@@ -2142,42 +2134,40 @@ Durante este sprint, los integrantes trabajaron en ramas específicas según sus
 
 <img src="img/collaboration_sprint1.png" alt="Colaboración Sprint 2">
 
-
-
 <img src="img/collboration_landing.png" alt="Landing Page">
 
-
 ## 6.2.3. Sprint 3
+
 ### 6.2.3.1. Sprint Planning 3
 
 El segundo sprint fue organizado mediante una reunión virtual. A continuación, se presenta una tabla que resume los principales puntos tratados durante dicha sesión.
 
-| **Sprint #**                        | **Sprint 3** |
-|-------------------------------------|--------------|
-| **Sprint Planning Background**      |              |
-| **Date**                            | 2025-06-27   |
-| **Time**                            | 03:00 PM     |
-| **Location**                        | Virtual      |
-| **Prepared by**                     | Adrianzen Flores, Carlos Arturo |
-| **Attendees (to planning meeting)** | - Adrianzen Flores, Carlos Arturo  <br> - Dam Rubianes, Frida Sofia  <br> - Matos Fernandez, Christian Andre  <br> - Ortiz Fajardo, Tomás  <br> - Ramos Ramirez, Renzo Manuel |
-| **Sprint n - 2 Review Summary**     | Se completó correctamente el backend  |
-| **Sprint n - 2 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil. |
-| **Sprint Goal & User Stories**      |              |
-| **Sprint 3 Goal**                   | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas. |
-| **Sprint 3 Velocity**               | 27           |
-| **Sum of Story Points**             | 27           |
+| **Sprint #**                           | **Sprint 3**                                                                                                                                                              |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**         |                                                                                                                                                                           |
+| **Date**                               | 2025-06-27                                                                                                                                                                |
+| **Time**                               | 03:00 PM                                                                                                                                                                  |
+| **Location**                           | Virtual                                                                                                                                                                   |
+| **Prepared by**                        | Adrianzen Flores, Carlos Arturo                                                                                                                                           |
+| **Attendees (to planning meeting)**    | - Adrianzen Flores, Carlos Arturo <br> - Dam Rubianes, Frida Sofia <br> - Matos Fernandez, Christian Andre <br> - Ortiz Fajardo, Tomás <br> - Ramos Ramirez, Renzo Manuel |
+| **Sprint n - 2 Review Summary**        | Se completó correctamente el backend                                                                                                                                      |
+| **Sprint n - 2 Retrospective Summary** | Se identificó la necesidad de comenzar el backend y trabajar en la integración de la app móvil.                                                                           |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                           |
+| **Sprint 3 Goal**                      | Desplegar nueva versión de app web, primera versión de app móvil y desarrollar API backend para conectar ambos sistemas.                                                  |
+| **Sprint 3 Velocity**                  | 27                                                                                                                                                                        |
+| **Sum of Story Points**                | 27                                                                                                                                                                        |
 
 ### 6.2.3.2. Aspect Leaders and Collaborators
 
 A continuación se muestra la tabla de roles asignados a los miembros del equipo para los aspectos clave del Sprint: Desarrollo de Backend, Desarrollo de Frontend Web y Desarrollo de App Móvil.
 
-| Integrantes                      | Github Username       | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
-|----------------------------------|------------------------|------------------------|-----------------------------|--------------------------|
-| Adrianzen Flores, Carlos Arturo | choliwys              | -                      | -                           | -                        |
-| Dam Rubianes, Frida Sofia       | Frida-Dam             | -                      | -                           | -                        |
-| Matos Fernandez, Christian Andre| FerKlox               | C                      | -                           | C                        |
-| Ortiz Fajardo, Tomás            | U201910146            | -                      | -                           | -                        |
-| Ramos Ramirez, Renzo Manuel     | RenzoRamos07          | C                      | -                           | C                        |
+| Integrantes                      | Github Username | Desarrollo de Backend | Desarrollo de Frontend Web | Desarrollo de App Móvil |
+| -------------------------------- | --------------- | --------------------- | -------------------------- | ----------------------- |
+| Adrianzen Flores, Carlos Arturo  | choliwys        | -                     | -                          | -                       |
+| Dam Rubianes, Frida Sofia        | Frida-Dam       | -                     | -                          | -                       |
+| Matos Fernandez, Christian Andre | FerKlox         | C                     | -                          | C                       |
+| Ortiz Fajardo, Tomás             | U201910146      | -                     | -                          | -                       |
+| Ramos Ramirez, Renzo Manuel      | RenzoRamos07    | C                     | -                          | C                       |
 
 ---
 
@@ -2185,55 +2175,54 @@ A continuación se muestra la tabla de roles asignados a los miembros del equipo
 
 ## 🗂️ Sprint # | Sprint 3
 
-| User Story | Title | Task ID | Task Title | Description | Estimation | Assigned To | Status |
-|------------|-------|---------|-------------|-------------|------------|--------------|--------|
-| US-01 | Registro de usuario | T01 | Crear formulario de registro | Formulario con validación y persistencia de datos | 2 | Christian Andre | Done |
-| US-02 | Editar perfil de usuario | T02 | Implementar edición de perfil | Edición de nombre, correo, foto y contraseña | 1.5 | Tomás Ortiz | Done |
-| US-03 | Iniciar sesión | T03 | Desarrollar login seguro | Autenticación con token JWT | 1.5 | Carlos Arturo | Done |
-| US-04 | Cambiar contraseña | T04 | Vista para cambio de contraseña | Cambio de clave con validación y confirmación | 1 | Renzo Ramos | Done |
-| US-05 | Cerrar sesión | T05 | Implementar logout | Eliminación de token y redirección segura | 0.5 | Christian Andre | Done |
-| US-06 | Visualizar cámaras en tiempo real | T06 | Integrar feed en tiempo real | Visualización en vivo usando WebRTC | 2 | Tomás Ortiz | Done |
-| US-07 | Notificaciones de alerta | T07 | Crear sistema de notificaciones | Notificaciones push y locales ante eventos | 2 | Carlos Arturo | Done |
-| US-08 | Historial de eventos | T08 | Mostrar historial de alertas | Listado de eventos por fecha y hora | 1.5 | Renzo Ramos | Done |
-| US-09 | Ajustes de notificaciones | T09 | Vista de configuración | Permitir al usuario activar/desactivar alertas | 1 | Christian Andre | Done |
-| US-10 | Alarmas personalizadas | T10 | Crear regla de alarma | Permitir configurar umbrales de alerta | 1.5 | Tomás Ortiz | Done |
-| US-11 | Configurar video de cámara | T11 | Ajustar calidad/resolución | Configuración por usuario de la cámara | 1 | Renzo Ramos | Done |
-| US-12 | Crear perfil facial | T12 | Agregar rostro autorizado | Captura de rostro y persistencia de datos | 2 | Carlos Arturo | Done |
-| US-13 | Actualizar perfil facial | T13 | Editar datos faciales | Reentrenar o reemplazar perfiles faciales | 1.5 | Tomás Ortiz | Done |
-| US-14 | Eliminar perfil facial | T14 | Borrar perfil de base de datos | Eliminación segura desde app | 1 | Christian Andre | Done |
-| US-15 | Reconocimiento facial | T15 | Activar detección en vivo | Asociar alertas a reconocimiento facial | 2.5 | Renzo Ramos | Done |
-| US-16 | Compartir acceso | T16 | Enviar invitación por correo | Crear rol invitado y control de acceso | 1.5 | Carlos Arturo | Done |
-| US-17 | Eventos en calendario | T17 | Sincronizar con calendario | Registrar alertas en calendario vinculado | 1 | Christian Andre | Done |
-| US-18 | Informe semanal | T18 | Generar reporte PDF | Resumen de actividad semanal por email | 1.5 | Tomás Ortiz | Done |
-| US-19 | Contactar centro de seguridad | T19 | Crear botón de emergencia | Envío automático de alerta al centro | 1.5 | Renzo Ramos | Done |
-| US-20 | Info de contacto de emergencia | T20 | Mostrar información clave | Teléfonos y contactos cercanos | 1 | Carlos Arturo | Done |
-| US-21 | Mensaje de contacto web | T21 | Formulario de contacto | Envío de mensajes al equipo técnico | 1 | Christian Andre | Done |
-| US-22 | Redes sociales | T22 | Mostrar enlaces y contenido | Visualización de Instagram y Facebook | 0.5 | Renzo Ramos | Done |
-| US-23 | Barra de navegación web | T23 | Crear navegación interactiva | Acceso rápido a secciones informativas | 1 | Tomás Ortiz | Done |
+| User Story | Title                             | Task ID | Task Title                      | Description                                       | Estimation | Assigned To     | Status |
+| ---------- | --------------------------------- | ------- | ------------------------------- | ------------------------------------------------- | ---------- | --------------- | ------ |
+| US-01      | Registro de usuario               | T01     | Crear formulario de registro    | Formulario con validación y persistencia de datos | 2          | Christian Andre | Done   |
+| US-02      | Editar perfil de usuario          | T02     | Implementar edición de perfil   | Edición de nombre, correo, foto y contraseña      | 1.5        | Tomás Ortiz     | Done   |
+| US-03      | Iniciar sesión                    | T03     | Desarrollar login seguro        | Autenticación con token JWT                       | 1.5        | Carlos Arturo   | Done   |
+| US-04      | Cambiar contraseña                | T04     | Vista para cambio de contraseña | Cambio de clave con validación y confirmación     | 1          | Renzo Ramos     | Done   |
+| US-05      | Cerrar sesión                     | T05     | Implementar logout              | Eliminación de token y redirección segura         | 0.5        | Christian Andre | Done   |
+| US-06      | Visualizar cámaras en tiempo real | T06     | Integrar feed en tiempo real    | Visualización en vivo usando WebRTC               | 2          | Tomás Ortiz     | Done   |
+| US-07      | Notificaciones de alerta          | T07     | Crear sistema de notificaciones | Notificaciones push y locales ante eventos        | 2          | Carlos Arturo   | Done   |
+| US-08      | Historial de eventos              | T08     | Mostrar historial de alertas    | Listado de eventos por fecha y hora               | 1.5        | Renzo Ramos     | Done   |
+| US-09      | Ajustes de notificaciones         | T09     | Vista de configuración          | Permitir al usuario activar/desactivar alertas    | 1          | Christian Andre | Done   |
+| US-10      | Alarmas personalizadas            | T10     | Crear regla de alarma           | Permitir configurar umbrales de alerta            | 1.5        | Tomás Ortiz     | Done   |
+| US-11      | Configurar video de cámara        | T11     | Ajustar calidad/resolución      | Configuración por usuario de la cámara            | 1          | Renzo Ramos     | Done   |
+| US-12      | Crear perfil facial               | T12     | Agregar rostro autorizado       | Captura de rostro y persistencia de datos         | 2          | Carlos Arturo   | Done   |
+| US-13      | Actualizar perfil facial          | T13     | Editar datos faciales           | Reentrenar o reemplazar perfiles faciales         | 1.5        | Tomás Ortiz     | Done   |
+| US-14      | Eliminar perfil facial            | T14     | Borrar perfil de base de datos  | Eliminación segura desde app                      | 1          | Christian Andre | Done   |
+| US-15      | Reconocimiento facial             | T15     | Activar detección en vivo       | Asociar alertas a reconocimiento facial           | 2.5        | Renzo Ramos     | Done   |
+| US-16      | Compartir acceso                  | T16     | Enviar invitación por correo    | Crear rol invitado y control de acceso            | 1.5        | Carlos Arturo   | Done   |
+| US-17      | Eventos en calendario             | T17     | Sincronizar con calendario      | Registrar alertas en calendario vinculado         | 1          | Christian Andre | Done   |
+| US-18      | Informe semanal                   | T18     | Generar reporte PDF             | Resumen de actividad semanal por email            | 1.5        | Tomás Ortiz     | Done   |
+| US-19      | Contactar centro de seguridad     | T19     | Crear botón de emergencia       | Envío automático de alerta al centro              | 1.5        | Renzo Ramos     | Done   |
+| US-20      | Info de contacto de emergencia    | T20     | Mostrar información clave       | Teléfonos y contactos cercanos                    | 1          | Carlos Arturo   | Done   |
+| US-21      | Mensaje de contacto web           | T21     | Formulario de contacto          | Envío de mensajes al equipo técnico               | 1          | Christian Andre | Done   |
+| US-22      | Redes sociales                    | T22     | Mostrar enlaces y contenido     | Visualización de Instagram y Facebook             | 0.5        | Renzo Ramos     | Done   |
+| US-23      | Barra de navegación web           | T23     | Crear navegación interactiva    | Acceso rápido a secciones informativas            | 1          | Tomás Ortiz     | Done   |
 
 ### 6.2.3.4. Development Evidence for Sprint Review
 
-
-| Repository         | Branch         | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
-|--------------------|----------------|-----------|--------------------------------------------------------|---------------------|----------------------|
-| protectify-backend | release         | 69e7459   | feat: added Dockerfile                                 | none                | 2025-07-09           |
-| protectify-backend | main            | 7602dbf   | feat: added enum DOOR                                  | none                | 2025-07-08           |
-| protectify-backend | main            | 7a27522   | feat: added security bounded context                   | none                | 2025-07-07           |
-| protectify-backend | main            | a5cc556   | feat: added iam bounded context, profiles bounded context | none             | 2025-07-06           |
-| protectify-backend | develop         | 5857111   | Primer commit                                          | none                | 2025-07-05           |
-| protectify-backend | main            | a9b93ad   | Initial commit                                         | none                | 2025-07-04           |
-| protectify-frontend| feature/visitor | ccdf361   | fix: fixed form data                                   | none                | 2025-07-09           |
-| protectify-frontend| feature/visitor | f2f803c   | feat: added visitorList & visitorForm                  | none                | 2025-07-08           |
-| protectify-frontend| develop         | adf04ce   | Merge pull request #1 from UPC-Iot/feature/auth        | none                | 2025-07-08           |
-| protectify-frontend| feature/auth    | 66df1fa   | feat: navigation for certain screens added             | none                | 2025-07-07           |
-| protectify-frontend| feature/auth    | 43855d8   | Merge branch 'feature/auth' of https://github.com/UPC-Iot/Frontend into feature/auth | none | 2025-07-07           |
-| protectify-frontend| feature/auth    | 8512999   | feat: Navigation added                                 | none                | 2025-07-06           |
-| protectify-frontend| feature/auth    | 6468d43   | feat: added home screen                                | none                | 2025-07-06           |
-| protectify-frontend| feature/auth    | 7e0acad   | feat: updated owner repository                         | none                | 2025-07-05           |
-| protectify-frontend| feature/auth    | d3ba1d9   | feat: updated manifest                                 | none                | 2025-07-05           |
-| protectify-frontend| feature/auth    | 7c51fb3   | feat: added userDao                                    | none                | 2025-07-04           |
-| protectify-frontend| feature/auth    | 120e49a   | fix: fixed dependencies                                | none                | 2025-07-04           |
-| protectify-frontend| feature/auth    | 1c089a6   | feat: added CloudStorage                               | none                | 2025-07-03           |
+| Repository          | Branch          | Commit Id | Commit Message                                                                       | Commit Message Body | Committed on (Date) |
+| ------------------- | --------------- | --------- | ------------------------------------------------------------------------------------ | ------------------- | ------------------- |
+| protectify-backend  | release         | 69e7459   | feat: added Dockerfile                                                               | none                | 2025-07-09          |
+| protectify-backend  | main            | 7602dbf   | feat: added enum DOOR                                                                | none                | 2025-07-08          |
+| protectify-backend  | main            | 7a27522   | feat: added security bounded context                                                 | none                | 2025-07-07          |
+| protectify-backend  | main            | a5cc556   | feat: added iam bounded context, profiles bounded context                            | none                | 2025-07-06          |
+| protectify-backend  | develop         | 5857111   | Primer commit                                                                        | none                | 2025-07-05          |
+| protectify-backend  | main            | a9b93ad   | Initial commit                                                                       | none                | 2025-07-04          |
+| protectify-frontend | feature/visitor | ccdf361   | fix: fixed form data                                                                 | none                | 2025-07-09          |
+| protectify-frontend | feature/visitor | f2f803c   | feat: added visitorList & visitorForm                                                | none                | 2025-07-08          |
+| protectify-frontend | develop         | adf04ce   | Merge pull request #1 from UPC-Iot/feature/auth                                      | none                | 2025-07-08          |
+| protectify-frontend | feature/auth    | 66df1fa   | feat: navigation for certain screens added                                           | none                | 2025-07-07          |
+| protectify-frontend | feature/auth    | 43855d8   | Merge branch 'feature/auth' of https://github.com/UPC-Iot/Frontend into feature/auth | none                | 2025-07-07          |
+| protectify-frontend | feature/auth    | 8512999   | feat: Navigation added                                                               | none                | 2025-07-06          |
+| protectify-frontend | feature/auth    | 6468d43   | feat: added home screen                                                              | none                | 2025-07-06          |
+| protectify-frontend | feature/auth    | 7e0acad   | feat: updated owner repository                                                       | none                | 2025-07-05          |
+| protectify-frontend | feature/auth    | d3ba1d9   | feat: updated manifest                                                               | none                | 2025-07-05          |
+| protectify-frontend | feature/auth    | 7c51fb3   | feat: added userDao                                                                  | none                | 2025-07-04          |
+| protectify-frontend | feature/auth    | 120e49a   | fix: fixed dependencies                                                              | none                | 2025-07-04          |
+| protectify-frontend | feature/auth    | 1c089a6   | feat: added CloudStorage                                                             | none                | 2025-07-03          |
 
 ### 6.2.3.5. Testing Suite Evidence for Sprint Review
 
@@ -2256,62 +2245,60 @@ Durante esta entrega se avanzó con varios componentes clave del proyecto:
 ![Conexión con Arduino](img/tf/arduino.jpg)
 ![Dispositivo físico conectado](img/tf/fisico.jpg)
 
-
 ### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
 ## 📘 Endpoints de la API - Protectify
 
 Link del swagger: https://backend-mdxg.onrender.com/swagger-ui/index.html
 
-| Método | Endpoint                                             | Descripción                                            |
-|--------|------------------------------------------------------|--------------------------------------------------------|
-| POST   | `/api/v1/authentication/sign-up`                    | Registro de nuevo usuario                              |
-| POST   | `/api/v1/authentication/sign-in`                    | Inicio de sesión (autenticación)                       |
-| GET    | `/api/v1/alerts`                                    | Listar todas las alertas                              |
-| POST   | `/api/v1/alerts`                                    | Crear una nueva alerta                                |
-| GET    | `/api/v1/alerts/{id}`                               | Obtener alerta por ID                                 |
-| PUT    | `/api/v1/alerts/{id}`                               | Actualizar alerta por ID                              |
-| DELETE | `/api/v1/alerts/{id}`                               | Eliminar alerta por ID                                |
-| GET    | `/api/v1/alerts/owner/{ownerId}`                    | Listar alertas por dueño                              |
-| GET    | `/api/v1/alerts/house/{houseId}`                    | Listar alertas por casa                               |
-| GET    | `/api/v1/devices`                                   | Listar todos los dispositivos                         |
-| POST   | `/api/v1/devices`                                   | Crear nuevo dispositivo                               |
-| GET    | `/api/v1/devices/{id}`                              | Obtener dispositivo por ID                            |
-| PUT    | `/api/v1/devices/{id}`                              | Actualizar dispositivo por ID                         |
-| DELETE | `/api/v1/devices/{id}`                              | Eliminar dispositivo por ID                           |
-| GET    | `/api/v1/devices/owner/{ownerId}`                   | Listar dispositivos por dueño                         |
-| GET    | `/api/v1/devices/house/{houseId}`                   | Listar dispositivos por casa                          |
-| GET    | `/api/v1/houses`                                    | Listar todas las casas                                |
-| POST   | `/api/v1/houses`                                    | Crear nueva casa                                      |
-| GET    | `/api/v1/houses/{id}`                               | Obtener casa por ID                                   |
-| PUT    | `/api/v1/houses/{id}`                               | Actualizar casa por ID                                |
-| DELETE | `/api/v1/houses/{id}`                               | Eliminar casa por ID                                  |
-| GET    | `/api/v1/houses/owner/{ownerId}`                    | Listar casas por dueño                                |
-| GET    | `/api/v1/notifications`                             | Listar todas las notificaciones                       |
-| POST   | `/api/v1/notifications`                             | Crear nueva notificación                              |
-| GET    | `/api/v1/notifications/{id}`                        | Obtener notificación por ID                           |
-| PUT    | `/api/v1/notifications/{id}`                        | Actualizar notificación por ID                        |
-| DELETE | `/api/v1/notifications/{id}`                        | Eliminar notificación por ID                          |
-| GET    | `/api/v1/notifications/user/{userId}`               | Listar notificaciones por ID de usuario               |
-| GET    | `/api/v1/profiles`                                  | Listar todos los perfiles                             |
-| POST   | `/api/v1/profiles`                                  | Crear nuevo perfil                                    |
-| GET    | `/api/v1/profiles/{id}`                             | Obtener perfil por ID                                 |
-| PUT    | `/api/v1/profiles/{id}`                             | Actualizar perfil por ID                              |
-| DELETE | `/api/v1/profiles/{id}`                             | Eliminar perfil por ID                                |
-| GET    | `/api/v1/profiles/{userId}/user`                    | Obtener perfil por ID de usuario                      |
-| GET    | `/api/v1/visitors`                                  | Listar todos los visitantes                           |
-| POST   | `/api/v1/visitors`                                  | Crear nuevo visitante                                 |
-| GET    | `/api/v1/visitors/{id}`                             | Obtener visitante por ID                              |
-| PUT    | `/api/v1/visitors/{id}`                             | Actualizar visitante por ID                           |
-| DELETE | `/api/v1/visitors/{id}`                             | Eliminar visitante por ID                             |
-| GET    | `/api/v1/visitors/owner/{ownerId}`                  | Listar visitantes por dueño                           |
-| GET    | `/api/v1/visitors/house/{houseId}`                  | Listar visitantes por casa                            |
-| GET    | `/api/v1/users`                                     | Listar todos los usuarios                             |
-| GET    | `/api/v1/users/{id}`                                | Obtener usuario por ID                                |
-| GET    | `/api/v1/owners`                                    | Listar todos los dueños                               |
-| GET    | `/api/v1/owners/{id}`                               | Obtener dueño por ID                                  |
-| GET    | `/api/v1/owners/{userId}/user`                      | Obtener dueño por ID de usuario                       |
-
+| Método | Endpoint                              | Descripción                             |
+| ------ | ------------------------------------- | --------------------------------------- |
+| POST   | `/api/v1/authentication/sign-up`      | Registro de nuevo usuario               |
+| POST   | `/api/v1/authentication/sign-in`      | Inicio de sesión (autenticación)        |
+| GET    | `/api/v1/alerts`                      | Listar todas las alertas                |
+| POST   | `/api/v1/alerts`                      | Crear una nueva alerta                  |
+| GET    | `/api/v1/alerts/{id}`                 | Obtener alerta por ID                   |
+| PUT    | `/api/v1/alerts/{id}`                 | Actualizar alerta por ID                |
+| DELETE | `/api/v1/alerts/{id}`                 | Eliminar alerta por ID                  |
+| GET    | `/api/v1/alerts/owner/{ownerId}`      | Listar alertas por dueño                |
+| GET    | `/api/v1/alerts/house/{houseId}`      | Listar alertas por casa                 |
+| GET    | `/api/v1/devices`                     | Listar todos los dispositivos           |
+| POST   | `/api/v1/devices`                     | Crear nuevo dispositivo                 |
+| GET    | `/api/v1/devices/{id}`                | Obtener dispositivo por ID              |
+| PUT    | `/api/v1/devices/{id}`                | Actualizar dispositivo por ID           |
+| DELETE | `/api/v1/devices/{id}`                | Eliminar dispositivo por ID             |
+| GET    | `/api/v1/devices/owner/{ownerId}`     | Listar dispositivos por dueño           |
+| GET    | `/api/v1/devices/house/{houseId}`     | Listar dispositivos por casa            |
+| GET    | `/api/v1/houses`                      | Listar todas las casas                  |
+| POST   | `/api/v1/houses`                      | Crear nueva casa                        |
+| GET    | `/api/v1/houses/{id}`                 | Obtener casa por ID                     |
+| PUT    | `/api/v1/houses/{id}`                 | Actualizar casa por ID                  |
+| DELETE | `/api/v1/houses/{id}`                 | Eliminar casa por ID                    |
+| GET    | `/api/v1/houses/owner/{ownerId}`      | Listar casas por dueño                  |
+| GET    | `/api/v1/notifications`               | Listar todas las notificaciones         |
+| POST   | `/api/v1/notifications`               | Crear nueva notificación                |
+| GET    | `/api/v1/notifications/{id}`          | Obtener notificación por ID             |
+| PUT    | `/api/v1/notifications/{id}`          | Actualizar notificación por ID          |
+| DELETE | `/api/v1/notifications/{id}`          | Eliminar notificación por ID            |
+| GET    | `/api/v1/notifications/user/{userId}` | Listar notificaciones por ID de usuario |
+| GET    | `/api/v1/profiles`                    | Listar todos los perfiles               |
+| POST   | `/api/v1/profiles`                    | Crear nuevo perfil                      |
+| GET    | `/api/v1/profiles/{id}`               | Obtener perfil por ID                   |
+| PUT    | `/api/v1/profiles/{id}`               | Actualizar perfil por ID                |
+| DELETE | `/api/v1/profiles/{id}`               | Eliminar perfil por ID                  |
+| GET    | `/api/v1/profiles/{userId}/user`      | Obtener perfil por ID de usuario        |
+| GET    | `/api/v1/visitors`                    | Listar todos los visitantes             |
+| POST   | `/api/v1/visitors`                    | Crear nuevo visitante                   |
+| GET    | `/api/v1/visitors/{id}`               | Obtener visitante por ID                |
+| PUT    | `/api/v1/visitors/{id}`               | Actualizar visitante por ID             |
+| DELETE | `/api/v1/visitors/{id}`               | Eliminar visitante por ID               |
+| GET    | `/api/v1/visitors/owner/{ownerId}`    | Listar visitantes por dueño             |
+| GET    | `/api/v1/visitors/house/{houseId}`    | Listar visitantes por casa              |
+| GET    | `/api/v1/users`                       | Listar todos los usuarios               |
+| GET    | `/api/v1/users/{id}`                  | Obtener usuario por ID                  |
+| GET    | `/api/v1/owners`                      | Listar todos los dueños                 |
+| GET    | `/api/v1/owners/{id}`                 | Obtener dueño por ID                    |
+| GET    | `/api/v1/owners/{userId}/user`        | Obtener dueño por ID de usuario         |
 
 ### 6.2.3.8. Software Deployment Evidence for Sprint Review
 
@@ -2342,13 +2329,14 @@ Para la conexión del dispositivo al app movíl
 
 <img src="img/tf/insights_raspyberry.png" alt="Logo de UPC" width="100%">
 
-
 ### 6.3. Validation Interviews.
+
 ### 6.3.1. Diseño de Entrevistas.
 
 Las entrevistas de validación se han diseñado considerando a los usuarios objetivos reales del producto Protectify, con el fin de obtener retroalimentación directa sobre la landing page y la aplicación móvil. Estas entrevistas son clave para evaluar la usabilidad, comprensión del valor ofrecido, interacción con las funciones principales del sistema y nivel de confianza percibida por los usuarios.
 
-Objetivos de la entrevista: 
+Objetivos de la entrevista:
+
 - Evaluar comprensión de la propuesta de valor en la landing page.
 
 - Observar la navegación del usuario en los flujos clave de la app.
@@ -2359,6 +2347,7 @@ Objetivos de la entrevista:
 
 Elementos incluidos en la sesión de validación
 A. Landing Page
+
 - Claridad del mensaje principal
 
 - Jerarquía de contenido
@@ -2382,6 +2371,7 @@ B. Aplicación Móvil Protectify
 | Perfil de usuario  | Edit Profile                                                    |
 
 #### User Flows incluidos en la sesión de validación
+
 User Flow 1: Landing Page
 
 - Ingreso a la web
@@ -2409,63 +2399,59 @@ User Flow 3: Gestión de seguridad
 ### 6.3.2. Registro de Entrevistas.
 
 Entrevista 1
-| Campo           | Valor                                               |
+| Campo | Valor |
 | --------------- | --------------------------------------------------- |
-| Nombre          | Ana Rodríguez Peña                                  |
-| Edad            | 27                                                  |
-| Distrito        | Miraflores                                          |
-| URL Video       | [Ver video](https://web.microsoftstream.com/video1_entrevista) |
-| Inicio/Duración | 00:00 / 05:10                                       |
-
+| Nombre | Ana Rodríguez Peña |
+| Edad | 27 |
+| Distrito | Miraflores |
+| URL Video | [Ver video](https://web.microsoftstream.com/video1_entrevista) |
+| Inicio/Duración | 00:00 / 05:10 |
 
 Resumen de la sesión:
 Ana resaltó la claridad de la interfaz móvil, especialmente durante el proceso de escaneo facial. Mencionó que la landing page era simple pero que podría profundizar en los beneficios del producto. Encontró muy útil la opción de crear perfiles familiares. Sugirió añadir una opción de "simulación de emergencia".
 
-
 Entrevista 2
-| Campo           | Valor                                               |
+| Campo | Valor |
 | --------------- | --------------------------------------------------- |
-| Nombre          | Luis Chávez Rivas                                   |
-| Edad            | 34                                                  |
-| Distrito        | San Borja                                           |
-| URL Video       | [Ver video](https://web.microsoftstream.com/video2_entrevista) |
-| Inicio/Duración | 00:00 / 04:45                                       |
+| Nombre | Luis Chávez Rivas |
+| Edad | 34 |
+| Distrito | San Borja |
+| URL Video | [Ver video](https://web.microsoftstream.com/video2_entrevista) |
+| Inicio/Duración | 00:00 / 04:45 |
 
 Resumen de la sesión:
 Luis valoró la experiencia fluida desde el registro hasta la navegación general en la app. Notó que al registrar una cámara no se muestra un mensaje claro de confirmación, lo que podría dejar dudas. La landing page le pareció atractiva pero comentó que el CTA no destaca lo suficiente.
 
-
-
 Entevista 3
-| Campo           | Valor                                               |
+| Campo | Valor |
 | --------------- | --------------------------------------------------- |
-| Nombre          | Rosa Cárdenas Tapia                                 |
-| Edad            | 42                                                  |
-| Distrito        | San Juan de Lurigancho                              |
-| URL Video       | [Ver video](https://web.microsoftstream.com/video3_entrevista) |
-| Inicio/Duración | 00:00 / 06:20                                       |
+| Nombre | Rosa Cárdenas Tapia |
+| Edad | 42 |
+| Distrito | San Juan de Lurigancho |
+| URL Video | [Ver video](https://web.microsoftstream.com/video3_entrevista) |
+| Inicio/Duración | 00:00 / 06:20 |
 
 Resumen de la sesión:
 Rosa, quien ya fue víctima de robo, mostró gran interés por las alertas en tiempo real. Tuvo algunas dificultades iniciales en el registro facial, pero luego entendió la funcionalidad. Sugirió incluir un pequeño tutorial al ingresar a la app por primera vez.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
-##  Evaluación según heurísticas
+## Evaluación según heurísticas
 
 ### Información general
 
-- **CARRERA**: Ingeniería de Software  
-- **CURSO**: Desarrollo de Soluciones IoT  
-- **SECCIÓN**: 15260 
-- **PROFESORES**: Todos  
-- **AUDITOR**: Protectify  
+- **CARRERA**: Ingeniería de Software
+- **CURSO**: Desarrollo de Soluciones IoT
+- **SECCIÓN**: 15260
+- **PROFESORES**: Todos
+- **AUDITOR**: Protectify
 - **CLIENTES**: Entrevistados de validación
 
 ---
 
 ### SITE o APP A EVALUAR
 
-- **Aplicación móvil**: Protectify App (Android/iOS)  
+- **Aplicación móvil**: Protectify App (Android/iOS)
 - **Landing Page**: protectify.pe (versión prototipo)
 
 ---
@@ -2474,84 +2460,89 @@ Rosa, quien ya fue víctima de robo, mostró gran interés por las alertas en ti
 
 Incluidas:
 
-1. Registro de nuevo usuario  
-2. Escaneo facial  
-3. Registro de nuevo miembro  
-4. Registro de cámara  
-5. Recepción de alerta  
-6. Edición de perfil  
-7. Navegación por landing page  
+1. Registro de nuevo usuario
+2. Escaneo facial
+3. Registro de nuevo miembro
+4. Registro de cámara
+5. Recepción de alerta
+6. Edición de perfil
+7. Navegación por landing page
 
 No incluidas (a futuro):
 
-1. Integración con fuerzas del orden  
-2. Envío automático de grabaciones  
-3. Vista compartida para familiares  
-4. Dashboard web complementario  
+1. Integración con fuerzas del orden
+2. Envío automático de grabaciones
+3. Vista compartida para familiares
+4. Dashboard web complementario
 
 ---
 
 ### ESCALA DE SEVERIDAD
 
-| Nivel | Descripción |
-|-------|-------------|
-| 1     | Problema superficial: puede ser superado fácilmente por el usuario o ocurre con baja frecuencia. |
-| 2     | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar. Prioridad baja. |
+| Nivel | Descripción                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------ |
+| 1     | Problema superficial: puede ser superado fácilmente por el usuario o ocurre con baja frecuencia.       |
+| 2     | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar. Prioridad baja.         |
 | 3     | Problema mayor: ocurre frecuentemente y afecta la experiencia. Requiere corrección con prioridad alta. |
-| 4     | Problema muy grave: impide que el usuario continúe. Requiere corrección inmediata. |
+| 4     | Problema muy grave: impide que el usuario continúe. Requiere corrección inmediata.                     |
 
 ---
 
-###  Tabla resumen de hallazgos
+### Tabla resumen de hallazgos
 
-| # | Problema detectado                                               | Severidad | Heurística violada                                      |
-|---|------------------------------------------------------------------|-----------|----------------------------------------------------------|
-| 1 | No hay botón de retroceso en escaneo facial                     | 2         | Usabilidad: Libertad y control del usuario               |
-| 2 | Texto muy pequeño en onboarding                                 | 1         | Usabilidad: Visibilidad y legibilidad                    |
-| 3 | No hay feedback tras registrar una cámara                       | 1        | Usabilidad: Feedback claro                               |
-| 4 | CTA poco visible en la landing page                             | 2         | Arquitectura de información: Claridad visual             |
-| 5 | Dificultad para volver a editar rostro escaneado                | 1         | Usabilidad: Flexibilidad y eficiencia de uso             |
+| #   | Problema detectado                               | Severidad | Heurística violada                           |
+| --- | ------------------------------------------------ | --------- | -------------------------------------------- |
+| 1   | No hay botón de retroceso en escaneo facial      | 2         | Usabilidad: Libertad y control del usuario   |
+| 2   | Texto muy pequeño en onboarding                  | 1         | Usabilidad: Visibilidad y legibilidad        |
+| 3   | No hay feedback tras registrar una cámara        | 1         | Usabilidad: Feedback claro                   |
+| 4   | CTA poco visible en la landing page              | 2         | Arquitectura de información: Claridad visual |
+| 5   | Dificultad para volver a editar rostro escaneado | 1         | Usabilidad: Flexibilidad y eficiencia de uso |
 
 ---
 
-###  Descripción de problemas
+### Descripción de problemas
 
 #### Problema #1: No hay botón de retroceso en escaneo facial
-- **Severidad**: 2  
-- **Heurística violada**: Usabilidad – Libertad y control del usuario  
-- **Descripción**: Durante el escaneo facial inicial, el usuario no puede cancelar ni regresar, lo que genera frustración si quiere modificar algo.  
+
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad – Libertad y control del usuario
+- **Descripción**: Durante el escaneo facial inicial, el usuario no puede cancelar ni regresar, lo que genera frustración si quiere modificar algo.
 - **Recomendación**: Incluir botón de “Volver” o “Cancelar” claramente visible durante el escaneo.
 
 ---
 
 #### Problema #2: Texto muy pequeño en la pantalla de onboarding
-- **Severidad**: 1  
-- **Heurística violada**: Usabilidad – Visibilidad y legibilidad  
-- **Descripción**: En algunos dispositivos el texto es difícil de leer, especialmente en la sección de descripción de beneficios.  
+
+- **Severidad**: 1
+- **Heurística violada**: Usabilidad – Visibilidad y legibilidad
+- **Descripción**: En algunos dispositivos el texto es difícil de leer, especialmente en la sección de descripción de beneficios.
 - **Recomendación**: Aumentar el tamaño de fuente y asegurar contraste con el fondo.
 
 ---
 
 #### Problema #3: No hay confirmación al registrar una cámara
-- **Severidad**: 1  
-- **Heurística violada**: Usabilidad – Feedback claro  
-- **Descripción**: Luego de registrar una cámara, la aplicación no muestra ningún mensaje de éxito ni validación visual.  
+
+- **Severidad**: 1
+- **Heurística violada**: Usabilidad – Feedback claro
+- **Descripción**: Luego de registrar una cámara, la aplicación no muestra ningún mensaje de éxito ni validación visual.
 - **Recomendación**: Mostrar alerta de “Cámara registrada correctamente” o animación de confirmación.
 
 ---
 
 #### Problema #4: CTA poco visible en la landing page
-- **Severidad**: 2  
-- **Heurística violada**: Arquitectura de información – Claridad visual  
-- **Descripción**: El botón de “Regístrate ahora” no resalta respecto al diseño general y puede pasar desapercibido.  
+
+- **Severidad**: 2
+- **Heurística violada**: Arquitectura de información – Claridad visual
+- **Descripción**: El botón de “Regístrate ahora” no resalta respecto al diseño general y puede pasar desapercibido.
 - **Recomendación**: Usar colores contrastantes, agrandar el botón y colocarlo en una sección más visible.
 
 ---
 
 #### Problema #5: No es posible editar el rostro escaneado fácilmente
-- **Severidad**: 1 
-- **Heurística violada**: Usabilidad – Flexibilidad y eficiencia de uso  
-- **Descripción**: Si el escaneo facial no es correcto, el usuario no puede modificarlo desde la sección de perfil.  
+
+- **Severidad**: 1
+- **Heurística violada**: Usabilidad – Flexibilidad y eficiencia de uso
+- **Descripción**: Si el escaneo facial no es correcto, el usuario no puede modificarlo desde la sección de perfil.
 - **Recomendación**: Incluir opción de reescanear rostro desde configuración o perfil.
 
 ---
@@ -2562,7 +2553,7 @@ Como parte del proceso de validación y comunicación del modelo de negocio de P
 
 El video ha sido subido a las plataformas Microsoft Stream y YouTube para su difusión.
 
- **YouTube**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)
+**YouTube**: [https://youtu.be/09Kdcby2oLg](https://youtu.be/09Kdcby2oLg)
 
 ![Screenshot del video](img/ssvideo.png)
 
@@ -2570,13 +2561,13 @@ El video ha sido subido a las plataformas Microsoft Stream y YouTube para su dif
 
 - A través de entrevistas y pruebas, se validó que existe un interés genuino por soluciones de seguridad inteligentes. Los usuarios valoran la facilidad de uso, la notificación instantánea de eventos sospechosos y la posibilidad de gestionar perfiles.
 
-- Durante el desarrollo de los sprints 1 y 2 del proyecto *Protectify*, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
+- Durante el desarrollo de los sprints 1 y 2 del proyecto _Protectify_, se logró avanzar significativamente en la implementación de los principales componentes del sistema. En el Sprint 1, se priorizó la creación de la landing page y el diseño inicial de la aplicación web, permitiendo establecer una base visual y conceptual sólida del producto.
 
 - En el Sprint 2, el equipo centró sus esfuerzos en la implementación de funcionalidades clave: se actualizó la aplicación web, se lanzó la primera versión funcional de la app móvil y se desarrolló el backend con una API básica que permite el manejo de autenticaciones y alertas. Esto representa un paso fundamental hacia la integración del sistema con los dispositivos IoT.
 
 - El trabajo colaborativo y la organización por aspectos permitieron dividir de manera efectiva las tareas, mejorar los tiempos de entrega y aumentar la calidad de los desarrollos. A través del uso de herramientas como Trello, GitHub y plataformas de despliegue como Netlify y Vercel, se logró mantener la trazabilidad y visibilidad del trabajo en equipo.
 
-- Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto *Protectify* se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
+- Finalmente, se concluye que el enfoque modular adoptado ha facilitado la integración entre los distintos componentes del sistema, y que el proyecto _Protectify_ se encuentra en una trayectoria positiva hacia una solución funcional que responda a las necesidades reales de seguridad en zonas urbanas.
 
 - Protectify demostró que es posible integrar sensores, cámaras, microcontroladores y algoritmos de reconocimiento facial en un sistema funcional de seguridad para el hogar. La arquitectura distribuida (dispositivo, backend, app) permitió un monitoreo en tiempo real y la personalización por usuario.
 
@@ -2596,9 +2587,7 @@ El video ha sido subido a las plataformas Microsoft Stream y YouTube para su dif
 
 # Bibliografía
 
-- Spring Boot. (n.d.). *Spring Boot Reference Documentation*. Spring. https://docs.spring.io/spring-boot/docs/current/reference/html/
-- Android Developers. (n.d.). *Build your first app*. https://developer.android.com/training/basics/firstapp
-- Vercel. (n.d.). *Documentation*. https://vercel.com/docs
-- Netlify. (n.d.). *Netlify Docs*. https://docs.netlify.com/
-
-
+- Spring Boot. (n.d.). _Spring Boot Reference Documentation_. Spring. https://docs.spring.io/spring-boot/docs/current/reference/html/
+- Android Developers. (n.d.). _Build your first app_. https://developer.android.com/training/basics/firstapp
+- Vercel. (n.d.). _Documentation_. https://vercel.com/docs
+- Netlify. (n.d.). _Netlify Docs_. https://docs.netlify.com/
