@@ -2425,14 +2425,14 @@ Luis valoró la experiencia fluida desde el registro hasta la navegación genera
 Entevista 3
 | Campo | Valor |
 | --------------- | --------------------------------------------------- |
-| Nombre | Rosa Cárdenas Tapia |
+| Nombre | Rosalino Cárdenas Tapia |
 | Edad | 42 |
 | Distrito | San Juan de Lurigancho |
-| URL Video | [Ver video](https://web.microsoftstream.com/video3_entrevista) |
+| URL Video | [Ver video](https://upcedupe-my.sharepoint.com/personal/u202113745_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113745%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideos%20iot%2FValidation%20intervew%20Renzo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef1daa6e0%2Daf6d%2D47e5%2D9649%2D2505c8a6d65e) |
 | Inicio/Duración | 00:00 / 06:20 |
 
 Resumen de la sesión:
-Rosa, quien ya fue víctima de robo, mostró gran interés por las alertas en tiempo real. Tuvo algunas dificultades iniciales en el registro facial, pero luego entendió la funcionalidad. Sugirió incluir un pequeño tutorial al ingresar a la app por primera vez.
+Rosalino, quien ya fue víctima de robo, mostró gran interés por las alertas en tiempo real. Tuvo algunas dificultades iniciales en el registro facial, pero luego entendió la funcionalidad. Sugirió incluir un pequeño tutorial al ingresar a la app por primera vez.
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
